@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>SSC A–Z Vocabulary Series | Complete Reference</title>
+  </head>
+  <body>
+    <header>
+      <div class="header-badge">SSC Exams 2026</div>
+      <h1>A–Z Vocabulary Series</h1>
+      <p>
+        Complete Reference · Hindi Meanings · SSC-Relevant Synonyms · Previous
+        Year Questions
+      </p>
+      <div class="stats-row">
+        <div class="stat">
+          <span class="stat-num">200</span
+          ><span class="stat-label">Total Words</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">450+</span
+          ><span class="stat-label">Synonyms</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">CGL·CHSL·GD·MTS·CPO</span
+          ><span class="stat-label">Exams Covered</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="legend">
+      <div class="legend-item">
+        <div class="legend-dot" style="background: var(--gold)"></div>
+        SSC Answer (Primary Synonym)
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background: var(--green)"></div>
+        Additional SSC-Relevant Synonyms
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background: var(--hindi)"></div>
+        Hindi Meaning
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background: var(--cyan)"></div>
+        Exam Source
+      </div>
+    </div>
+
+    <div class="controls">
+      <div class="search-wrap">
+        <input
+          type="text"
+          id="search"
+          placeholder="Search any word, meaning, or synonym…"
+          oninput="filterWords()"
+        />
+      </div>
+      <button class="filter-btn active" onclick="setFilter('all', this)">
+        All
+      </button>
+      <button class="filter-btn" onclick="setFilter('CGL', this)">CGL</button>
+      <button class="filter-btn" onclick="setFilter('CHSL', this)">CHSL</button>
+      <button class="filter-btn" onclick="setFilter('GD', this)">GD</button>
+      <button class="filter-btn" onclick="setFilter('MTS', this)">MTS</button>
+      <button class="filter-btn" onclick="setFilter('CPO', this)">CPO</button>
+      <span class="count-badge" id="count">200 words</span>
+    </div>
+
+    <div class="alphabet-filter" id="alphabetFilter"></div>
+
+    <div class="grid" id="grid"></div>
+
+    <footer>
+      <p>
+        Source:
+        <strong
+          >SSC Exams 2026 — A to Z Vocabulary Series (Rojgar with Ankit)</strong
+        >
+      </p>
+      <p style="margin-top: 6px">
+        All words sourced from SSC CGL · CHSL · GD · MTS · CPO · Steno previous
+        year papers
+      </p>
+    </footer>
+
+    <script src="main.js"></script>
+  </body>
+</html>
