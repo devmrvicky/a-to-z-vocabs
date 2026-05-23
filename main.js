@@ -2,6 +2,7 @@ let words = [];
 
 let currentLetter = "a";
 let allWords = [];
+let totalWords = 0;
 
 async function loadWords(letter = "a") {
   try {
@@ -31,8 +32,6 @@ async function loadWords(letter = "a") {
     `;
   }
 }
-
-// loadWords("a");
 
 function createAlphabetFilters() {
   const container = document.getElementById("alphabetFilter");
@@ -67,42 +66,92 @@ let currentFilter = "all";
 
 function renderCards(data) {
   const grid = document.getElementById("grid");
-  document.getElementById("count").textContent =
-    `${data.length} word${data.length !== 1 ? "s" : ""}`;
+  // update total words count
+  document.querySelector("#word-count").textContent = data.length;
   if (!data.length) {
     grid.innerHTML =
       '<div class="empty"><h3>No words found</h3><p>Try a different search or filter</p></div>';
     return;
   }
+
   grid.innerHTML = data
     .map(
       (d, i) => `
-    <div class="card" style="animation-delay:${Math.min(i * 20, 300)}ms">
+  <div class="card collapsed" style="animation-delay:${Math.min(i * 20, 300)}ms">
+
+    <!-- TOP SECTION -->
+    <div class="compact-header" onclick="toggleCard(this)">
+
+      <div class="compact-left">
+
+        <div class="top-line">
+          <span class="num">${String(d.n).padStart(2, "0")}</span>
+
+          <span class="word-inline">
+            ${d.w}
+            <span class="inline-hindi">(${d.h})</span>
+          </span>
+        </div>
+
+        <div class="compact-syno">
+          <span class="compact-label">Syno :</span>
+          ${d.syns.join(", ")}
+        </div>
+
+      </div>
+
+      <button class="collapse-btn" disabled>
+        <span class="arrow">›</span>
+      </button>
+
+    </div>
+
+    <!-- EXPANDED CONTENT -->
+    <div class="card-expand">
+
       <div class="card-header">
         <span class="num">${String(d.n).padStart(2, "0")}</span>
+
         <span class="word">${d.w}</span>
+
         ${d.exam ? `<span class="exam-tag">${d.exam.split(" ")[0]}</span>` : ""}
       </div>
+
       <div class="card-body">
+
         <div class="hindi-block">
           <div class="row-label">हिंदी अर्थ</div>
           <div class="hindi-text">${d.h}</div>
         </div>
+
         <div class="syns-block">
           <div class="row-label">SSC Synonyms</div>
+
           <div class="syns-list">
             <span class="syn primary">${d.syns[0]}</span>
+
             ${d.syns
               .slice(1)
-              .map((s) => `<span class="syn">${s}</span>`)
+              .map(
+                (s) => `
+              <span class="syn">${s}</span>
+            `,
+              )
               .join("")}
           </div>
         </div>
+
       </div>
     </div>
-  `,
+  </div>
+`,
     )
     .join("");
+}
+
+function toggleCard(header) {
+  // const card = header.closest(".card");
+  // card.classList.toggle("collapsed");
 }
 
 function filterWords() {
@@ -133,15 +182,6 @@ function setFilter(f, btn) {
   btn.classList.add("active");
   filterWords();
 }
-
-//       async function loadWords() {
-//   const response = await fetch('words.json');
-//   const words = await response.json();
-
-//   renderCards(words);
-// }
-
-// loadWords();
 
 createAlphabetFilters();
 loadWords("a");
