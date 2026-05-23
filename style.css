@@ -385,3 +385,59 @@ footer strong {
     gap: 20px;
   }
 }
+
+/* =========================
+   A TO Z FILTER
+========================= */
+
+.alphabet-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 18px 24px;
+  justify-content: center;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.alphabet-btn {
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--muted);
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  transition: all 0.25s ease;
+}
+
+.alphabet-btn:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  transform: translateY(-2px);
+}
+
+.alphabet-btn.active {
+  background: rgba(240, 180, 41, 0.12);
+  border-color: var(--gold);
+  color: var(--gold);
+  box-shadow: 0 0 12px rgba(240, 180, 41, 0.15);
+}
+
+/* MOBILE RESPONSIVE */
+
+@media (max-width: 768px) {
+  .alphabet-filter {
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 12px;
+  }
+
+  .alphabet-btn {
+    width: 38px;
+    height: 38px;
+    font-size: 13px;
+  }
+}
