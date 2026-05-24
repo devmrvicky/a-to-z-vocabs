@@ -1,0 +1,1762 @@
+[
+  {
+    "n": 1,
+    "w": "Feeble",
+    "h": "कमज़ोर / दुर्बल",
+    "syns": [
+      "Weak",
+      "Frail",
+      "Infirm"
+    ],
+    "exam": "CGL 14 July, 2023 / CPO STENO 13 Oct, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Fooling",
+    "h": "बेवकूफ बनाना / धोखा देना",
+    "syns": [
+      "Deceive",
+      "Tricking",
+      "Misleading"
+    ],
+    "exam": "CGL 17 July, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Follow",
+    "h": "अनुसरण करना / नकल करना",
+    "syns": [
+      "Emulate",
+      "Imitate",
+      "Pursue"
+    ],
+    "exam": "CGL 19 July, 2023"
+  },
+  {
+    "n": 4,
+    "w": "Fierce",
+    "h": "उग्र / भयंकर",
+    "syns": [
+      "Aggressive",
+      "Violent",
+      "Ferocious"
+    ],
+    "exam": "CGL 21 July, 2024 / CPO 4 Oct, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Fragile",
+    "h": "नाजुक / कमज़ोर",
+    "syns": [
+      "Delicate",
+      "Brittle",
+      "Breakable"
+    ],
+    "exam": "CGL 26 July, 2023 / MTS 1 Sep, 2023 / MTS-2024 / SSC MTS 2025"
+  },
+  {
+    "n": 6,
+    "w": "Flout",
+    "h": "उल्लंघन करना / अवज्ञा करना",
+    "syns": [
+      "Disobey",
+      "Defy",
+      "Violate"
+    ],
+    "exam": "CGL 7 Dec, 2022 / 26 June, 2023 Tier-2"
+  },
+  {
+    "n": 7,
+    "w": "Frugal",
+    "h": "किफायती / मितव्ययी",
+    "syns": [
+      "Economical",
+      "Thrifty",
+      "Sparing"
+    ],
+    "exam": "CGL 9 Dec, 2022 / CGL 2024 / Bihar Police 25/11/2018"
+  },
+  {
+    "n": 8,
+    "w": "Futile",
+    "h": "व्यर्थ / निरर्थक",
+    "syns": [
+      "Fruitless",
+      "Useless",
+      "Vain"
+    ],
+    "exam": "CGL 13 Dec, 2022 / SSC GD 17 Jan, 2023 / MTS-2024 / CGL 2024 / Bihar Police 25/11/2018"
+  },
+  {
+    "n": 9,
+    "w": "Fluke",
+    "h": "संयोग / भाग्य",
+    "syns": [
+      "Chance",
+      "Luck",
+      "Accident"
+    ],
+    "exam": "CGL 13 December, 2022"
+  },
+  {
+    "n": 10,
+    "w": "Final",
+    "h": "अंतिम / समापन",
+    "syns": [
+      "Concluding",
+      "Last",
+      "Ultimate"
+    ],
+    "exam": "CGL 18 April, 2022"
+  },
+  {
+    "n": 11,
+    "w": "Fury",
+    "h": "क्रोध / रोष",
+    "syns": [
+      "Anger",
+      "Rage",
+      "Wrath"
+    ],
+    "exam": "CGL 4 March, 2020"
+  },
+  {
+    "n": 12,
+    "w": "Fasten",
+    "h": "बाँधना / जकड़ना",
+    "syns": [
+      "Affix",
+      "Secure",
+      "Attach"
+    ],
+    "exam": "CGL 3 Feb, 2022 Tier-2 / CPO 24 Nov, 2020 / CGL 2024"
+  },
+  {
+    "n": 13,
+    "w": "Fictitious",
+    "h": "काल्पनिक / झूठा",
+    "syns": [
+      "Imaginary",
+      "Made-up",
+      "Invented"
+    ],
+    "exam": "CGL 8 August, 2022 Tier-2"
+  },
+  {
+    "n": 14,
+    "w": "Fruition",
+    "h": "पूर्णता / सफलता",
+    "syns": [
+      "Accomplishment",
+      "Achievement",
+      "Completion"
+    ],
+    "exam": "CGL 7 March, 2023 Tier-2"
+  },
+  {
+    "n": 15,
+    "w": "Frivolous",
+    "h": "तुच्छ / व्यर्थ",
+    "syns": [
+      "Worthless",
+      "Trivial",
+      "Silly"
+    ],
+    "exam": "CHSL 7 August, 2023"
+  },
+  {
+    "n": 16,
+    "w": "Forgery",
+    "h": "जालसाजी / नकली बनाना",
+    "syns": [
+      "Counterfeit",
+      "Fake",
+      "Fraud"
+    ],
+    "exam": "CHSL 9 August, 2023"
+  },
+  {
+    "n": 17,
+    "w": "Flung",
+    "h": "फेंका / छोड़ा",
+    "syns": [
+      "Propelled",
+      "Hurled",
+      "Thrown"
+    ],
+    "exam": "CHSL 10 August, 2023"
+  },
+  {
+    "n": 18,
+    "w": "Frantic",
+    "h": "उन्मत्त / घबराया हुआ",
+    "syns": [
+      "Agitated",
+      "Wild",
+      "Hectic"
+    ],
+    "exam": "CHSL 11 August, 2023"
+  },
+  {
+    "n": 19,
+    "w": "Fervour",
+    "h": "उत्साह / जोश",
+    "syns": [
+      "Enthusiasm",
+      "Passion",
+      "Zeal"
+    ],
+    "exam": "CHSL 11 August, 2023"
+  },
+  {
+    "n": 20,
+    "w": "Fraudulent",
+    "h": "धोखाधड़ी पूर्ण / जाली",
+    "syns": [
+      "Counterfeit",
+      "Deceitful",
+      "Dishonest"
+    ],
+    "exam": "CHSL 14 August, 2023"
+  },
+  {
+    "n": 21,
+    "w": "Feasibility",
+    "h": "संभावना / व्यवहार्यता",
+    "syns": [
+      "Probability",
+      "Likelihood",
+      "Viability"
+    ],
+    "exam": "CHSL 14 August, 2023"
+  },
+  {
+    "n": 22,
+    "w": "Ferocious",
+    "h": "क्रूर / भयंकर",
+    "syns": [
+      "Frightful",
+      "Savage",
+      "Brutal"
+    ],
+    "exam": "CHSL 14 March, 2023"
+  },
+  {
+    "n": 23,
+    "w": "Fortitude",
+    "h": "साहस / मनोबल",
+    "syns": [
+      "Grit",
+      "Courage",
+      "Bravery"
+    ],
+    "exam": "CHSL 15 Mar, 2023 / CPO 17 Nov, 2022"
+  },
+  {
+    "n": 24,
+    "w": "Frequent",
+    "h": "बार-बार / नियमित",
+    "syns": [
+      "Regular",
+      "Common",
+      "Usual"
+    ],
+    "exam": "CHSL 17 March, 2023"
+  },
+  {
+    "n": 25,
+    "w": "Faddish",
+    "h": "फैशनेबल / प्रचलित",
+    "syns": [
+      "Fashionable",
+      "Trendy",
+      "In fashion"
+    ],
+    "exam": "CHSL 20 Mar, 2023 / CHSL 21 Mar, 2023"
+  },
+  {
+    "n": 26,
+    "w": "Famine",
+    "h": "अकाल / भुखमरी",
+    "syns": [
+      "Drought",
+      "Starvation",
+      "Food shortage"
+    ],
+    "exam": "CHSL 20 March, 2023"
+  },
+  {
+    "n": 27,
+    "w": "Fleck",
+    "h": "धब्बा / छोटा निशान",
+    "syns": [
+      "Spot",
+      "Mark",
+      "Dot"
+    ],
+    "exam": "CHSL 31 May, 2022"
+  },
+  {
+    "n": 28,
+    "w": "Forbid",
+    "h": "मना करना / प्रतिबंधित करना",
+    "syns": [
+      "Prohibit",
+      "Ban",
+      "Disallow"
+    ],
+    "exam": "CHSL 5 August, 2021"
+  },
+  {
+    "n": 29,
+    "w": "Fascination",
+    "h": "आकर्षण / मोह",
+    "syns": [
+      "Appeal",
+      "Attraction",
+      "Interest"
+    ],
+    "exam": "CHSL 6 August, 2021"
+  },
+  {
+    "n": 30,
+    "w": "Forsake",
+    "h": "त्यागना / छोड़ना",
+    "syns": [
+      "Desert",
+      "Abandon",
+      "Leave"
+    ],
+    "exam": "CHSL 10 Aug, 2021 / CGL 2024"
+  },
+  {
+    "n": 31,
+    "w": "Feat",
+    "h": "उपलब्धि / करतब",
+    "syns": [
+      "Accomplishment",
+      "Achievement",
+      "Exploit"
+    ],
+    "exam": "MTS 11 May, 2023"
+  },
+  {
+    "n": 32,
+    "w": "Fall guy",
+    "h": "बलि का बकरा",
+    "syns": [
+      "Scapegoat",
+      "Victim",
+      "Patsy"
+    ],
+    "exam": "MTS 12 May, 2023"
+  },
+  {
+    "n": 33,
+    "w": "Firmly",
+    "h": "दृढ़ता से / मज़बूती से",
+    "syns": [
+      "Strongly",
+      "Solidly",
+      "Resolutely"
+    ],
+    "exam": "MTS 13 June, 2023"
+  },
+  {
+    "n": 34,
+    "w": "Fatal",
+    "h": "घातक / जानलेवा",
+    "syns": [
+      "Deadly",
+      "Lethal",
+      "Mortal"
+    ],
+    "exam": "MTS 13 July, 2022 / CGL 2024 / DSSSB 29-06-2014"
+  },
+  {
+    "n": 35,
+    "w": "Flagrant",
+    "h": "खुल्लमखुल्ला / घोर",
+    "syns": [
+      "Atrocious",
+      "Blatant",
+      "Outrageous"
+    ],
+    "exam": "MTS 19 July, 2022"
+  },
+  {
+    "n": 36,
+    "w": "Fright",
+    "h": "भय / डर",
+    "syns": [
+      "Dread",
+      "Terror",
+      "Alarm"
+    ],
+    "exam": "MTS 21 July, 2022"
+  },
+  {
+    "n": 37,
+    "w": "Fluorescent",
+    "h": "चमकदार / प्रतिदीप्त",
+    "syns": [
+      "Glowing",
+      "Radiant",
+      "Shining"
+    ],
+    "exam": "MTS 6 October, 2021"
+  },
+  {
+    "n": 38,
+    "w": "Fowl",
+    "h": "पक्षी / मुर्गा",
+    "syns": [
+      "Bird",
+      "Poultry",
+      "Chicken"
+    ],
+    "exam": "MTS 7 October, 2021"
+  },
+  {
+    "n": 39,
+    "w": "Fair",
+    "h": "निष्पक्ष / उचित",
+    "syns": [
+      "Unbiased",
+      "Just",
+      "Impartial"
+    ],
+    "exam": "SSC GD 11 Jan, 2023 / SSC GD 13 Feb, 2023"
+  },
+  {
+    "n": 40,
+    "w": "Firewall",
+    "h": "सुरक्षा कवच / दीवार",
+    "syns": [
+      "Bulwark",
+      "Protection",
+      "Barrier"
+    ],
+    "exam": "SSC GD 13 January, 2023"
+  },
+  {
+    "n": 41,
+    "w": "Forbore",
+    "h": "परहेज किया / रोका",
+    "syns": [
+      "Refrain",
+      "Abstained",
+      "Restrained"
+    ],
+    "exam": "SSC GD 23 January, 2023"
+  },
+  {
+    "n": 42,
+    "w": "Fascinating",
+    "h": "आकर्षक / दिलचस्प",
+    "syns": [
+      "Interesting",
+      "Captivating",
+      "Engaging"
+    ],
+    "exam": "SSC GD 1 Feb, 2023 / CPO 11 Dec, 2019 / CPO 2 May, 2023 Tier-2"
+  },
+  {
+    "n": 43,
+    "w": "False",
+    "h": "झूठा / असत्य",
+    "syns": [
+      "Untrue",
+      "Incorrect",
+      "Fabricated"
+    ],
+    "exam": "SSC GD 2 Feb, 2023 / SSC GD 7 Feb, 2023"
+  },
+  {
+    "n": 44,
+    "w": "Fleeting",
+    "h": "क्षणिक / अल्पकालीन",
+    "syns": [
+      "Temporary",
+      "Brief",
+      "Transient"
+    ],
+    "exam": "SSC GD 6 February, 2023"
+  },
+  {
+    "n": 45,
+    "w": "Frantic",
+    "h": "उन्मत्त / पागल",
+    "syns": [
+      "Violent",
+      "Frenzied",
+      "Panicked"
+    ],
+    "exam": "SSC GD 9 February, 2023"
+  },
+  {
+    "n": 46,
+    "w": "Facility",
+    "h": "सुविधा / क्षमता",
+    "syns": [
+      "Skill",
+      "Feature",
+      "Convenience"
+    ],
+    "exam": "SSC GD 26 November, 2021"
+  },
+  {
+    "n": 47,
+    "w": "Faithful",
+    "h": "वफादार / निष्ठावान",
+    "syns": [
+      "Loyal",
+      "Devoted",
+      "Loyal"
+    ],
+    "exam": "CPO 4 October, 2023"
+  },
+  {
+    "n": 48,
+    "w": "Factual",
+    "h": "तथ्यात्मक / वास्तविक",
+    "syns": [
+      "Empirical",
+      "Evidence-based",
+      "Actual"
+    ],
+    "exam": "CPO 5 October, 2023"
+  },
+  {
+    "n": 49,
+    "w": "Foundation",
+    "h": "नींव / आधार",
+    "syns": [
+      "Base",
+      "Base",
+      "Groundwork"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 50,
+    "w": "Fiction",
+    "h": "कल्पना / उपन्यास",
+    "syns": [
+      "Fantasy",
+      "Story",
+      "Narrative"
+    ],
+    "exam": "CPO 23 November, 2020"
+  },
+  {
+    "n": 51,
+    "w": "Flabbergasted",
+    "h": "हक्का-बक्का / अवाक",
+    "syns": [
+      "Astonished",
+      "Shocked",
+      "Speechless"
+    ],
+    "exam": "CPO 25 Nov, 2020 / CUET 2025"
+  },
+  {
+    "n": 52,
+    "w": "Fatigue",
+    "h": "थकान / श्रांति",
+    "syns": [
+      "Weariness",
+      "Exhaustion",
+      "Tiredness"
+    ],
+    "exam": "CPO 11 Dec, 2019 / CPO 13 Dec, 2019 / MTS-2024 / CGL 2024 / CDS 1 2020"
+  },
+  {
+    "n": 53,
+    "w": "Flourish",
+    "h": "फलना-फूलना / समृद्ध होना",
+    "syns": [
+      "Thrive",
+      "Prosper",
+      "Grow"
+    ],
+    "exam": "CPO 11 December, 2019"
+  },
+  {
+    "n": 54,
+    "w": "Feign",
+    "h": "बहाना करना / दिखावा करना",
+    "syns": [
+      "Pretend",
+      "Simulate",
+      "Act"
+    ],
+    "exam": "CPO 13 December, 2019"
+  },
+  {
+    "n": 55,
+    "w": "Fastidious",
+    "h": "अति सावधान / नखरेबाज",
+    "syns": [
+      "Careful",
+      "Particular",
+      "Choosy"
+    ],
+    "exam": "CPO 17 November, 2022"
+  },
+  {
+    "n": 56,
+    "w": "Flaw",
+    "h": "दोष / खामी",
+    "syns": [
+      "Defect",
+      "Imperfection",
+      "Fault"
+    ],
+    "exam": "CPO 17 November, 2022"
+  },
+  {
+    "n": 57,
+    "w": "Facile",
+    "h": "आसान / सरल",
+    "syns": [
+      "Oversimplified",
+      "Simple",
+      "Superficial"
+    ],
+    "exam": "CPO 17 November, 2022"
+  },
+  {
+    "n": 58,
+    "w": "Flagitious",
+    "h": "घृणित / अत्यंत बुरा",
+    "syns": [
+      "Criminal",
+      "Heinous",
+      "Wicked"
+    ],
+    "exam": "CPO 17 November, 2022"
+  },
+  {
+    "n": 59,
+    "w": "Forthright",
+    "h": "स्पष्टवादी / सीधा",
+    "syns": [
+      "Outspoken",
+      "Frank",
+      "Candid"
+    ],
+    "exam": "CPO 12 November, 2021"
+  },
+  {
+    "n": 60,
+    "w": "Fallacy",
+    "h": "भ्रम / गलत धारणा",
+    "syns": [
+      "Error",
+      "Misconception",
+      "Mistake"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 61,
+    "w": "Fertile",
+    "h": "उपजाऊ / उर्वर",
+    "syns": [
+      "Productive",
+      "Fruitful",
+      "Rich"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 62,
+    "w": "Frivolity",
+    "h": "तुच्छता / व्यर्थता",
+    "syns": [
+      "Insignificance",
+      "Silliness",
+      "Lightness"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 63,
+    "w": "Fast",
+    "h": "तेज़ / शीघ्र",
+    "syns": [
+      "Quick",
+      "Speedy",
+      "Rapid"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 64,
+    "w": "Fondness",
+    "h": "प्रेम / लगाव",
+    "syns": [
+      "Liking",
+      "Affection",
+      "Love"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 65,
+    "w": "Fusion",
+    "h": "संयोजन / मिलन",
+    "syns": [
+      "Blend",
+      "Merger",
+      "Combination"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 66,
+    "w": "Fabricate",
+    "h": "निर्माण करना / गढ़ना",
+    "syns": [
+      "Construct",
+      "Make",
+      "Build"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 67,
+    "w": "Fabulous",
+    "h": "अद्भुत / शानदार",
+    "syns": [
+      "Remarkable",
+      "Amazing",
+      "Marvelous"
+    ],
+    "exam": "CPO-2024 / MTS 16 May, 2023"
+  },
+  {
+    "n": 68,
+    "w": "Filthy",
+    "h": "गंदा / मैला",
+    "syns": [
+      "Dirty",
+      "Dirty",
+      "Unclean"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 69,
+    "w": "Felicity",
+    "h": "खुशी / आनंद",
+    "syns": [
+      "Happiness",
+      "Happiness",
+      "Bliss"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 70,
+    "w": "Frisky",
+    "h": "चंचल / खिलंदड़ा",
+    "syns": [
+      "Playful",
+      "Lively",
+      "Active"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 71,
+    "w": "Foster",
+    "h": "पालन-पोषण करना / प्रोत्साहन देना",
+    "syns": [
+      "Nourish",
+      "Nurture",
+      "Encourage"
+    ],
+    "exam": "DSSSB 31-08-2014"
+  },
+  {
+    "n": 72,
+    "w": "Facade",
+    "h": "बाहरी दिखावा / ढोंग",
+    "syns": [
+      "Appearance",
+      "Front",
+      "Exterior"
+    ],
+    "exam": "DSSSB TGT 17/09/2017"
+  },
+  {
+    "n": 73,
+    "w": "Feud",
+    "h": "लंबे समय तक दुश्मनी / झगड़ा",
+    "syns": [
+      "Strife",
+      "Quarrel",
+      "Conflict"
+    ],
+    "exam": "DSSSB LDC 18-08-2019"
+  },
+  {
+    "n": 74,
+    "w": "Fractious",
+    "h": "झगड़ालू / चिड़चिड़ा",
+    "syns": [
+      "Contentious",
+      "Argumentative",
+      "Irritable"
+    ],
+    "exam": "High Court RO 05/01/2022"
+  },
+  {
+    "n": 75,
+    "w": "Floundered",
+    "h": "संघर्ष किया / भटका",
+    "syns": [
+      "Struggle",
+      "Stumble",
+      "Falter"
+    ],
+    "exam": "CDS 2 2023"
+  },
+  {
+    "n": 76,
+    "w": "Fanatic",
+    "h": "कट्टर / धर्मांध",
+    "syns": [
+      "Bigot",
+      "Extremist",
+      "Zealot"
+    ],
+    "exam": "CDS 2 2015"
+  },
+  {
+    "n": 77,
+    "w": "Felicitated",
+    "h": "सम्मानित किया / बधाई दी",
+    "syns": [
+      "Congratulated",
+      "Honored",
+      "Praised"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 78,
+    "w": "Forsaken",
+    "h": "त्यागा हुआ / छोड़ा हुआ",
+    "syns": [
+      "Abandoned",
+      "Deserted",
+      "Abandoned"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 79,
+    "w": "Fetch",
+    "h": "लाना / प्राप्त करना",
+    "syns": [
+      "Bring",
+      "Get",
+      "Retrieve"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 80,
+    "w": "Flaunt",
+    "h": "दिखावा करना / प्रदर्शन करना",
+    "syns": [
+      "Display",
+      "Show off",
+      "Parade"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 81,
+    "w": "Foreboding",
+    "h": "अपशकुन / बुरी भावना",
+    "syns": [
+      "Alarm",
+      "Warning",
+      "Dread"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 82,
+    "w": "Forego",
+    "h": "छोड़ना / त्यागना",
+    "syns": [
+      "Give up",
+      "Relinquish",
+      "Give up"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 83,
+    "w": "Fustian",
+    "h": "आडंबरपूर्ण / बेकार",
+    "syns": [
+      "Arrogant",
+      "Pompous",
+      "Inflated"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 84,
+    "w": "Fortify",
+    "h": "मजबूत करना / सुदृढ़ करना",
+    "syns": [
+      "Strengthen",
+      "Reinforce",
+      "Bolster"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 85,
+    "w": "Forswear",
+    "h": "शपथ लेकर छोड़ना",
+    "syns": [
+      "Renounce",
+      "Swear off",
+      "Abandon"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 86,
+    "w": "Fraternise",
+    "h": "मेल-जोल करना / भाईचारा करना",
+    "syns": [
+      "Associate",
+      "Mingle",
+      "Mix"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 87,
+    "w": "Farcical",
+    "h": "हास्यास्पद / बेतुका",
+    "syns": [
+      "Absurd",
+      "Ridiculous",
+      "Ludicrous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 88,
+    "w": "Fatuous",
+    "h": "मूर्खतापूर्ण / निरर्थक",
+    "syns": [
+      "Pointless",
+      "Silly",
+      "Inane"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 89,
+    "w": "Facilitate",
+    "h": "सुगम करना / सहायता करना",
+    "syns": [
+      "Assist",
+      "Help",
+      "Enable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 90,
+    "w": "Facsimile",
+    "h": "प्रतिलिपि / नकल",
+    "syns": [
+      "Replica",
+      "Copy",
+      "Duplicate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 91,
+    "w": "Faint",
+    "h": "बेहोश होना / मूर्छित",
+    "syns": [
+      "Pass out",
+      "Collapse",
+      "Swoon"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 92,
+    "w": "Fallible",
+    "h": "गलती करने योग्य / अपूर्ण",
+    "syns": [
+      "Erring",
+      "Imperfect",
+      "Flawed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 93,
+    "w": "Familiar",
+    "h": "परिचित / जानकार",
+    "syns": [
+      "Sociable",
+      "Well-known",
+      "Acquainted"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 94,
+    "w": "Famished",
+    "h": "भूखा / भोजन का तरसा",
+    "syns": [
+      "Ravenous",
+      "Starving",
+      "Hungry"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 95,
+    "w": "Far-fetched",
+    "h": "अविश्वसनीय / असंभव",
+    "syns": [
+      "Impractical",
+      "Unlikely",
+      "Unrealistic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 96,
+    "w": "Fecund",
+    "h": "उपजाऊ / फलदायी",
+    "syns": [
+      "Fertile",
+      "Productive",
+      "Rich"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 97,
+    "w": "Fervent",
+    "h": "उत्साही / जोशीला",
+    "syns": [
+      "Passionate",
+      "Ardent",
+      "Zealous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 98,
+    "w": "Festal",
+    "h": "उत्सव संबंधी",
+    "syns": [
+      "Jovial",
+      "Festive",
+      "Celebratory"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 99,
+    "w": "Fidelity",
+    "h": "वफादारी / निष्ठा",
+    "syns": [
+      "Allegiance",
+      "Loyalty",
+      "Devotion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 100,
+    "w": "Fiend",
+    "h": "दुष्ट / राक्षस",
+    "syns": [
+      "Scoundrel",
+      "Villain",
+      "Demon"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 101,
+    "w": "Fillip",
+    "h": "प्रोत्साहन / उत्साहवर्धन",
+    "syns": [
+      "Energise",
+      "Stimulus",
+      "Boost"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 102,
+    "w": "Flabby",
+    "h": "ढीला / बेडौल",
+    "syns": [
+      "Plumpy",
+      "Soft",
+      "Loose"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 103,
+    "w": "Flared",
+    "h": "भड़का / जल उठा",
+    "syns": [
+      "Blazed",
+      "Ignited",
+      "Burst out"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 104,
+    "w": "Fledgling",
+    "h": "नया / अनुभवहीन",
+    "syns": [
+      "Tyro",
+      "Beginner",
+      "Newcomer"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 105,
+    "w": "Fluctuate",
+    "h": "उतार-चढ़ाव होना",
+    "syns": [
+      "Vary",
+      "Change",
+      "Oscillate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 106,
+    "w": "Fluent",
+    "h": "धाराप्रवाह / प्रवाहशील",
+    "syns": [
+      "Articulate",
+      "Smooth",
+      "Flowing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 107,
+    "w": "Fiat",
+    "h": "आदेश / फरमान",
+    "syns": [
+      "Command",
+      "Decree",
+      "Order"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 108,
+    "w": "Fitful",
+    "h": "अनियमित / अस्थिर",
+    "syns": [
+      "Irregular",
+      "Intermittent",
+      "Spasmodic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 109,
+    "w": "Fraught",
+    "h": "भरा / व्याकुल",
+    "syns": [
+      "Threatening",
+      "Filled with",
+      "Tense"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 110,
+    "w": "Ferment",
+    "h": "किण्वन / उत्तेजना",
+    "syns": [
+      "Agitation",
+      "Turmoil",
+      "Unrest"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 111,
+    "w": "Foible",
+    "h": "कमज़ोरी / दोष",
+    "syns": [
+      "Weakness",
+      "Shortcoming",
+      "Flaw"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 112,
+    "w": "Foment",
+    "h": "भड़काना / उकसाना",
+    "syns": [
+      "Incite",
+      "Stir up",
+      "Provoke"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 113,
+    "w": "Furtive",
+    "h": "चोरी-छिपे / गुप्त",
+    "syns": [
+      "Secretive",
+      "Stealthy",
+      "Sneaky"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 114,
+    "w": "Faux Pas",
+    "h": "सामाजिक भूल / बेअदबी",
+    "syns": [
+      "Social blunder",
+      "Embarrassing mistake",
+      "Blunder"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 115,
+    "w": "Fracas",
+    "h": "हंगामा / झगड़ा",
+    "syns": [
+      "Quarrel",
+      "Uproar",
+      "Brawl"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 116,
+    "w": "Freak",
+    "h": "असामान्य / अजीब",
+    "syns": [
+      "Unusual",
+      "Oddity",
+      "Anomaly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 117,
+    "w": "Fawning",
+    "h": "खुशामद / चापलूसी",
+    "syns": [
+      "Flattering",
+      "Sycophantic",
+      "Servile"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 118,
+    "w": "Foray",
+    "h": "छापा / घुसपैठ",
+    "syns": [
+      "Raid",
+      "Attack",
+      "Incursion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 119,
+    "w": "Fray",
+    "h": "झगड़ा / लड़ाई",
+    "syns": [
+      "Fight",
+      "Brawl",
+      "Skirmish"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 120,
+    "w": "Frugality",
+    "h": "मितव्ययिता / बचत",
+    "syns": [
+      "Saving",
+      "Thriftiness",
+      "Economy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 121,
+    "w": "Franchise",
+    "h": "अधिकार / मताधिकार",
+    "syns": [
+      "Right",
+      "Privilege",
+      "License"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 122,
+    "w": "Fragments",
+    "h": "टुकड़े / खंड",
+    "syns": [
+      "Pieces",
+      "Parts",
+      "Bits"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 123,
+    "w": "Formidable",
+    "h": "दुर्जेय / विकट",
+    "syns": [
+      "Fearsome",
+      "Daunting",
+      "Powerful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 124,
+    "w": "Forerunner",
+    "h": "अग्रदूत / पूर्वज",
+    "syns": [
+      "Pioneer",
+      "Predecessor",
+      "Ancestor"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 125,
+    "w": "Foe",
+    "h": "शत्रु / दुश्मन",
+    "syns": [
+      "Enemy",
+      "Adversary",
+      "Rival"
+    ],
+    "exam": "MTS 2025"
+  },
+  {
+    "n": 126,
+    "w": "Flimsy",
+    "h": "कमज़ोर / पतला",
+    "syns": [
+      "Weak",
+      "Thin",
+      "Fragile"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 127,
+    "w": "Fickle",
+    "h": "चंचल / अस्थिर",
+    "syns": [
+      "Changeable",
+      "Unstable",
+      "Inconsistent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 128,
+    "w": "Fantasy",
+    "h": "कल्पना / स्वप्न",
+    "syns": [
+      "Imagination",
+      "Dream",
+      "Illusion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 129,
+    "w": "Fantastic",
+    "h": "अद्भुत / शानदार",
+    "syns": [
+      "Wonderful",
+      "Marvelous",
+      "Superb"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 130,
+    "w": "Fanatical",
+    "h": "कट्टर / उग्र",
+    "syns": [
+      "Extreme",
+      "Obsessive",
+      "Zealous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 131,
+    "w": "Falter",
+    "h": "लड़खड़ाना / हिचकिचाना",
+    "syns": [
+      "Hesitate",
+      "Stumble",
+      "Waver"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 132,
+    "w": "Flippant",
+    "h": "अनुचित / बेपरवाह",
+    "syns": [
+      "Disrespectful",
+      "Glib",
+      "Thoughtless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 133,
+    "w": "Feasible",
+    "h": "व्यवहार्य / संभव",
+    "syns": [
+      "Practical",
+      "Workable",
+      "Achievable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 134,
+    "w": "Fetish",
+    "h": "जुनून / अंधविश्वास",
+    "syns": [
+      "Obsession",
+      "Fixation",
+      "Mania"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 135,
+    "w": "Felicitous",
+    "h": "उचित / खुशनुमा",
+    "syns": [
+      "Pleasant",
+      "Fitting",
+      "Apt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 136,
+    "w": "Fervid",
+    "h": "उत्साही / ज्वलंत",
+    "syns": [
+      "Passionate",
+      "Ardent",
+      "Intense"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 137,
+    "w": "Flawless",
+    "h": "निर्दोष / परिपूर्ण",
+    "syns": [
+      "Perfect",
+      "Faultless",
+      "Immaculate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 138,
+    "w": "Forbearance",
+    "h": "सहनशीलता / धैर्य",
+    "syns": [
+      "Patience",
+      "Tolerance",
+      "Restraint"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 139,
+    "w": "Forte",
+    "h": "विशेषता / खूबी",
+    "syns": [
+      "Strength",
+      "Specialty",
+      "Talent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 140,
+    "w": "Fealty",
+    "h": "वफादारी / स्वामिभक्ति",
+    "syns": [
+      "Loyalty",
+      "Faithfulness",
+      "Allegiance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 141,
+    "w": "Feral",
+    "h": "जंगली / असभ्य",
+    "syns": [
+      "Untamed",
+      "Wild",
+      "Savage"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 142,
+    "w": "Ferret",
+    "h": "ढूँढना / खोजना",
+    "syns": [
+      "Uncover",
+      "Search out",
+      "Hunt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 143,
+    "w": "Fetid",
+    "h": "दुर्गंधित / बदबूदार",
+    "syns": [
+      "Putrid",
+      "Smelly",
+      "Foul"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 144,
+    "w": "Fiendish",
+    "h": "शैतानी / क्रूर",
+    "syns": [
+      "Diabolical",
+      "Evil",
+      "Cruel"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 145,
+    "w": "Finesse",
+    "h": "कुशलता / चतुराई",
+    "syns": [
+      "Skill",
+      "Expertise",
+      "Artfulness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 146,
+    "w": "Flak",
+    "h": "आलोचना / विरोध",
+    "syns": [
+      "Criticism",
+      "Objection",
+      "Censure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 147,
+    "w": "Flutter",
+    "h": "फड़फड़ाना / कंपन",
+    "syns": [
+      "Tremor",
+      "Quiver",
+      "Flicker"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 148,
+    "w": "Folly",
+    "h": "मूर्खता / बेवकूफी",
+    "syns": [
+      "Foolishness",
+      "Stupidity",
+      "Recklessness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 149,
+    "w": "Forage",
+    "h": "चारा / भोजन खोजना",
+    "syns": [
+      "Search",
+      "Hunt for",
+      "Look for"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 150,
+    "w": "Forebode",
+    "h": "पूर्वसूचना देना / संकेत देना",
+    "syns": [
+      "Predict",
+      "Warn",
+      "Presage"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 151,
+    "w": "Forestall",
+    "h": "रोकना / पहले से रोकना",
+    "syns": [
+      "Prevent",
+      "Head off",
+      "Preempt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 152,
+    "w": "Forgo",
+    "h": "छोड़ना / त्यागना",
+    "syns": [
+      "Relinquish",
+      "Surrender",
+      "Give up"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 153,
+    "w": "Frail",
+    "h": "कमज़ोर / नाजुक",
+    "syns": [
+      "Delicate",
+      "Weak",
+      "Feeble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 154,
+    "w": "Frenetic",
+    "h": "उन्मत्त / अत्यधिक उत्साही",
+    "syns": [
+      "Uncontrolled",
+      "Hectic",
+      "Excited"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 155,
+    "w": "Frenzy",
+    "h": "उन्माद / पागलपन",
+    "syns": [
+      "Delirium",
+      "Hysteria",
+      "Mania"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 156,
+    "w": "Friable",
+    "h": "भुरभुरा / आसानी से टूटने वाला",
+    "syns": [
+      "Crumbly",
+      "Brittle",
+      "Breakable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 157,
+    "w": "Frolicsome",
+    "h": "खिलंदड़ा / हँसोड़",
+    "syns": [
+      "Playful",
+      "Merry",
+      "Sportive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 158,
+    "w": "Furlough",
+    "h": "छुट्टी / अवकाश",
+    "syns": [
+      "Vacation",
+      "Leave",
+      "Break"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 159,
+    "w": "Furore",
+    "h": "हंगामा / उत्तेजना",
+    "syns": [
+      "Uproar",
+      "Outrage",
+      "Commotion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 160,
+    "w": "Flee",
+    "h": "भागना / पलायन करना",
+    "syns": [
+      "Abscond",
+      "Escape",
+      "Run away"
+    ],
+    "exam": ""
+  }
+]
