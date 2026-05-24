@@ -1,0 +1,178 @@
+[
+  {
+    "n": 1,
+    "w": "Knowledge",
+    "h": "ज्ञान / जानकारी",
+    "syns": [
+      "Wisdom",
+      "Understanding",
+      "Intelligence"
+    ],
+    "exam": "CGL 3 December, 2022"
+  },
+  {
+    "n": 2,
+    "w": "Keen",
+    "h": "उत्सुक / तीव्र",
+    "syns": [
+      "Eager",
+      "Eager",
+      "Enthusiastic"
+    ],
+    "exam": "CHSL 2 Aug, 2023 / SSC GD 7 Dec, 2021 / CGL 2022"
+  },
+  {
+    "n": 3,
+    "w": "Kinship",
+    "h": "रिश्तेदारी / संबंध",
+    "syns": [
+      "Relationship",
+      "Bond",
+      "Connection"
+    ],
+    "exam": "SSC GD 26 November, 2021"
+  },
+  {
+    "n": 4,
+    "w": "Knave",
+    "h": "धोखेबाज़ / दुष्ट",
+    "syns": [
+      "Rogue",
+      "Scoundrel",
+      "Villain"
+    ],
+    "exam": "CPO 17 November, 2022"
+  },
+  {
+    "n": 5,
+    "w": "Kilter",
+    "h": "ठीक अवस्था / व्यवस्था",
+    "syns": [
+      "Order",
+      "Balance",
+      "Proper condition"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 6,
+    "w": "Kudos",
+    "h": "प्रशंसा / सराहना",
+    "syns": [
+      "Praise",
+      "Fame",
+      "Glory"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 7,
+    "w": "Kindle",
+    "h": "जलाना / भड़काना",
+    "syns": [
+      "Ignite",
+      "Light",
+      "Spark"
+    ],
+    "exam": "CDS 1 2016"
+  },
+  {
+    "n": 8,
+    "w": "Kindred",
+    "h": "समान / संबंधित",
+    "syns": [
+      "Related",
+      "Similar",
+      "Connected"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 9,
+    "w": "Knack",
+    "h": "कौशल / हुनर",
+    "syns": [
+      "Skill",
+      "Talent",
+      "Ability"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 10,
+    "w": "Knotty",
+    "h": "जटिल / उलझा हुआ",
+    "syns": [
+      "Complex",
+      "Complicated",
+      "Difficult"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 11,
+    "w": "Kiosk",
+    "h": "छोटी दुकान / स्टॉल",
+    "syns": [
+      "Booth",
+      "Stall",
+      "Stand"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 12,
+    "w": "Kernel",
+    "h": "मूल / सार",
+    "syns": [
+      "Core",
+      "Essence",
+      "Core"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 13,
+    "w": "Key",
+    "h": "महत्वपूर्ण / मुख्य",
+    "syns": [
+      "Crucial",
+      "Essential",
+      "Critical"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 14,
+    "w": "Kidding",
+    "h": "मज़ाक करना",
+    "syns": [
+      "Bantering",
+      "Joking",
+      "Teasing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 15,
+    "w": "Knavish",
+    "h": "धोखेबाज़ / चालाक",
+    "syns": [
+      "Mendacious",
+      "Dishonest",
+      "Deceitful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 16,
+    "w": "Kowtow",
+    "h": "अत्यंत आज्ञाकारी होना",
+    "syns": [
+      "Obsequious",
+      "Submit",
+      "Bow"
+    ],
+    "exam": ""
+  }
+]
