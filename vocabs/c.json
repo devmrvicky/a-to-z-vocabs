@@ -1,0 +1,3104 @@
+[
+  {
+    "n": 1,
+    "w": "Consent",
+    "h": "सहमति / स्वीकृति",
+    "syns": [
+      "Assent",
+      "Agree",
+      "Approve"
+    ],
+    "exam": "CGL 17 July, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Consequence",
+    "h": "परिणाम / नतीजा",
+    "syns": [
+      "Outcome",
+      "Result",
+      "Effect"
+    ],
+    "exam": "CGL 18 July, 2023 / DSSSB 29/06/2014 / STENO 12 Nov, 2021"
+  },
+  {
+    "n": 3,
+    "w": "Certain",
+    "h": "निश्चित / पक्का",
+    "syns": [
+      "Definite",
+      "Sure",
+      "Absolute"
+    ],
+    "exam": "CGL 18 July, 2023"
+  },
+  {
+    "n": 4,
+    "w": "Comprehensive",
+    "h": "व्यापक / सम्पूर्ण",
+    "syns": [
+      "Complete",
+      "Thorough",
+      "Exhaustive"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Crooked",
+    "h": "टेढ़ा / बेईमान",
+    "syns": [
+      "Twisted",
+      "Dishonest",
+      "Corrupt"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Chaos",
+    "h": "अव्यवस्था / अराजकता",
+    "syns": [
+      "Confusion",
+      "Disorder",
+      "Turmoil"
+    ],
+    "exam": "CGL 16 August, 2023 / SSC GD 3 Dec, 2021 / CPO 11 Nov, 2022"
+  },
+  {
+    "n": 7,
+    "w": "Committed",
+    "h": "समर्पित / प्रतिबद्ध",
+    "syns": [
+      "Dedicated",
+      "Devoted",
+      "Loyal"
+    ],
+    "exam": "CGL 25 July, 2023"
+  },
+  {
+    "n": 8,
+    "w": "Credible",
+    "h": "विश्वसनीय / भरोसेमंद",
+    "syns": [
+      "Dependable",
+      "Reliable",
+      "Trustworthy"
+    ],
+    "exam": "CGL 27 July, 2023 / CHSL 30 May, 2022 / SSC JHT 2022"
+  },
+  {
+    "n": 9,
+    "w": "Connote",
+    "h": "अर्थ देना / सूचित करना",
+    "syns": [
+      "Convey",
+      "Imply",
+      "Suggest"
+    ],
+    "exam": "CGL 27 July, 2023"
+  },
+  {
+    "n": 10,
+    "w": "Cloud Burst",
+    "h": "मूसलाधार बारिश",
+    "syns": [
+      "Rainstorm",
+      "Downpour",
+      "Heavy rain"
+    ],
+    "exam": "CGL 27 July, 2023"
+  },
+  {
+    "n": 11,
+    "w": "Confusion",
+    "h": "भ्रम / उलझन",
+    "syns": [
+      "Commotion",
+      "Disorder",
+      "Chaos"
+    ],
+    "exam": "CGL 1 December, 2022"
+  },
+  {
+    "n": 12,
+    "w": "Competent",
+    "h": "योग्य / सक्षम",
+    "syns": [
+      "Capable",
+      "Skilled",
+      "Qualified"
+    ],
+    "exam": "CGL 1 Dec, 2022 / SSC GD 1 Feb, 2023 / CHSL-2024 / NDA 1 2021"
+  },
+  {
+    "n": 13,
+    "w": "Consensus",
+    "h": "सहमति / आम राय",
+    "syns": [
+      "Agreement",
+      "Accord",
+      "Unanimity"
+    ],
+    "exam": "CGL 6 Dec, 2022 / MTS 16 May, 2023"
+  },
+  {
+    "n": 14,
+    "w": "Conspire",
+    "h": "षड्यंत्र रचना",
+    "syns": [
+      "Plot",
+      "Scheme",
+      "Collude"
+    ],
+    "exam": "CGL 6 December, 2022"
+  },
+  {
+    "n": 15,
+    "w": "Concise",
+    "h": "संक्षिप्त / सटीक",
+    "syns": [
+      "Terse",
+      "Brief",
+      "Succinct"
+    ],
+    "exam": "SSC CGL 7 Dec, 2022 / MTS 18 Oct, 2021 / SSC GD 8 Dec, 2021 / STENO 12 Oct, 2023 / SELECTION POST-2024"
+  },
+  {
+    "n": 16,
+    "w": "Conceal",
+    "h": "छिपाना / गुप्त रखना",
+    "syns": [
+      "Disguise",
+      "Hide",
+      "Cover up"
+    ],
+    "exam": "CGL 9 Dec, 2022 / SSC GD 10 Jan, 2023"
+  },
+  {
+    "n": 17,
+    "w": "Calamity",
+    "h": "आपदा / विपत्ति",
+    "syns": [
+      "Catastrophe",
+      "Disaster",
+      "Tragedy"
+    ],
+    "exam": "CGL 9 Dec, 2022 / MTS 9 May, 2023 / SSC GD 7 Feb, 2023"
+  },
+  {
+    "n": 18,
+    "w": "Chary",
+    "h": "सतर्क / सावधान",
+    "syns": [
+      "Cautious",
+      "Wary",
+      "Careful"
+    ],
+    "exam": "CGL 9 December, 2022"
+  },
+  {
+    "n": 19,
+    "w": "Chide",
+    "h": "डाँटना / फटकारना",
+    "syns": [
+      "Scold",
+      "Rebuke",
+      "Reprimand"
+    ],
+    "exam": "CGL 13 December, 2022"
+  },
+  {
+    "n": 20,
+    "w": "Commute",
+    "h": "बदलना / यात्रा करना",
+    "syns": [
+      "Convert",
+      "Change",
+      "Alter"
+    ],
+    "exam": "CGL 19 April, 2022"
+  },
+  {
+    "n": 21,
+    "w": "Calm",
+    "h": "शांत / स्थिर",
+    "syns": [
+      "Relaxed",
+      "Peaceful",
+      "Serene"
+    ],
+    "exam": "CGL 18 Aug, 2021 / CHSL-2024 / MTS 7 Oct, 2021"
+  },
+  {
+    "n": 22,
+    "w": "Cadence",
+    "h": "लय / ताल",
+    "syns": [
+      "Rhythm",
+      "Beat",
+      "Tempo"
+    ],
+    "exam": "CGL 24 August, 2021"
+  },
+  {
+    "n": 23,
+    "w": "Catastrophic",
+    "h": "विनाशकारी / भयानक",
+    "syns": [
+      "Disastrous",
+      "Devastating",
+      "Ruinous"
+    ],
+    "exam": "CGL 5 March, 2020"
+  },
+  {
+    "n": 24,
+    "w": "Cordial",
+    "h": "मैत्रीपूर्ण / हार्दिक",
+    "syns": [
+      "Warm",
+      "Friendly",
+      "Warm"
+    ],
+    "exam": "CGL 6 Mar, 2020 / MTS 6 Sep, 2023 / CPO 23 Nov, 2020 / CHSL 11 Aug, 2021 / SSC GD 9 Feb, 2023 / SSC JHT 2022"
+  },
+  {
+    "n": 25,
+    "w": "Cogent",
+    "h": "तर्कसंगत / प्रबल",
+    "syns": [
+      "Convincing",
+      "Persuasive",
+      "Compelling"
+    ],
+    "exam": "CGL 12 Sep, 2019 Tier-2 / CPO 10 Nov, 2022 / CGL-2025"
+  },
+  {
+    "n": 26,
+    "w": "Condescending",
+    "h": "अहंकारी / दूसरों को नीचा दिखाने वाला",
+    "syns": [
+      "Patronising",
+      "Arrogant",
+      "Supercilious"
+    ],
+    "exam": "CGL 18 Nov, 2020 Tier-2"
+  },
+  {
+    "n": 27,
+    "w": "Compel",
+    "h": "मजबूर करना / विवश करना",
+    "syns": [
+      "Obligate",
+      "Force",
+      "Coerce"
+    ],
+    "exam": "CHSL 2 August, 2023"
+  },
+  {
+    "n": 28,
+    "w": "Capable",
+    "h": "सक्षम / योग्य",
+    "syns": [
+      "Competent",
+      "Able",
+      "Efficient"
+    ],
+    "exam": "CHSL 2 Aug, 2023 / STENO 18 Nov, 2022"
+  },
+  {
+    "n": 29,
+    "w": "Camouflage",
+    "h": "छद्मवेश / छिपाना",
+    "syns": [
+      "Disguise",
+      "Disguise",
+      "Mask"
+    ],
+    "exam": "CHSL 4 Aug, 2023 / STENO 17 Nov, 2022"
+  },
+  {
+    "n": 30,
+    "w": "Conspicuous",
+    "h": "प्रमुख / स्पष्ट",
+    "syns": [
+      "Obvious",
+      "Visible",
+      "Prominent"
+    ],
+    "exam": "CHSL 4 Aug, 2023 / STENO 15 Nov, 2021 / CUET, 2022"
+  },
+  {
+    "n": 31,
+    "w": "Callous",
+    "h": "निर्दयी / संवेदनहीन",
+    "syns": [
+      "Insensitive",
+      "Indifferent",
+      "Hard-hearted"
+    ],
+    "exam": "CHSL 7 Aug, 2023 / CHSL 6 Aug, 2021 / MTS 8 July, 2022 / CHSL-2024"
+  },
+  {
+    "n": 32,
+    "w": "Challenge",
+    "h": "चुनौती देना",
+    "syns": [
+      "Dare",
+      "Provoke",
+      "Confront"
+    ],
+    "exam": "CHSL 7 Aug, 2023 / MTS 2 May, 2023"
+  },
+  {
+    "n": 33,
+    "w": "Comprehend",
+    "h": "समझना / ग्रहण करना",
+    "syns": [
+      "Assimilate",
+      "Understand",
+      "Grasp"
+    ],
+    "exam": "CHSL 7 Aug, 2023 / MTS 13 Oct, 2021"
+  },
+  {
+    "n": 34,
+    "w": "Colleague",
+    "h": "सहकर्मी / साथी",
+    "syns": [
+      "Co-Worker",
+      "Peer",
+      "Associate"
+    ],
+    "exam": "CHSL 8 Aug, 2023 / DSSSB TGT (Math) 22/09/2018"
+  },
+  {
+    "n": 35,
+    "w": "Conceit",
+    "h": "अहंकार / घमंड",
+    "syns": [
+      "Egotism",
+      "Vanity",
+      "Arrogance"
+    ],
+    "exam": "CHSL 9 Aug, 2023 / CPO 23 Nov, 2020"
+  },
+  {
+    "n": 36,
+    "w": "Crisis",
+    "h": "संकट / आपात स्थिति",
+    "syns": [
+      "Catastrophe",
+      "Emergency",
+      "Disaster"
+    ],
+    "exam": "CHSL 10 August, 2023"
+  },
+  {
+    "n": 37,
+    "w": "Corpulent",
+    "h": "मोटा / स्थूल",
+    "syns": [
+      "Rotund",
+      "Obese",
+      "Fat"
+    ],
+    "exam": "CHSL 11 Aug, 2023 / CUET, 2025"
+  },
+  {
+    "n": 38,
+    "w": "Calibrate",
+    "h": "अंशांकन करना / मापना",
+    "syns": [
+      "Gauge",
+      "Measure",
+      "Adjust"
+    ],
+    "exam": "CHSL 10 March, 2023"
+  },
+  {
+    "n": 39,
+    "w": "Conscientious",
+    "h": "कर्तव्यनिष्ठ / परिश्रमी",
+    "syns": [
+      "Sedulous",
+      "Diligent",
+      "Thorough"
+    ],
+    "exam": "CHSL 13 March, 2023"
+  },
+  {
+    "n": 40,
+    "w": "Cajole",
+    "h": "मनाना / फुसलाना",
+    "syns": [
+      "Persuade",
+      "Coax",
+      "Wheedle"
+    ],
+    "exam": "CHSL 15 March, 2023"
+  },
+  {
+    "n": 41,
+    "w": "Caginess",
+    "h": "चालाकी / सतर्कता",
+    "syns": [
+      "Guilefulness",
+      "Wariness",
+      "Craftiness"
+    ],
+    "exam": "CHSL 15 March, 2023"
+  },
+  {
+    "n": 42,
+    "w": "Craven",
+    "h": "कायर / डरपोक",
+    "syns": [
+      "Cowardly",
+      "Cowardly",
+      "Timid"
+    ],
+    "exam": "CHSL 20 March, 2023"
+  },
+  {
+    "n": 43,
+    "w": "Corrective",
+    "h": "सुधारात्मक",
+    "syns": [
+      "Restorative",
+      "Remedial",
+      "Reformative"
+    ],
+    "exam": "CHSL 21 March, 2023"
+  },
+  {
+    "n": 44,
+    "w": "Confront",
+    "h": "सामना करना / चुनौती देना",
+    "syns": [
+      "Challenge",
+      "Face",
+      "Oppose"
+    ],
+    "exam": "CHSL 24 May, 2022 / CUET, 2022"
+  },
+  {
+    "n": 45,
+    "w": "Chastise",
+    "h": "दंडित करना / फटकारना",
+    "syns": [
+      "Punish",
+      "Discipline",
+      "Correct"
+    ],
+    "exam": "CHSL 7 June, 2022"
+  },
+  {
+    "n": 46,
+    "w": "Comply",
+    "h": "पालन करना / मानना",
+    "syns": [
+      "Obey",
+      "Follow",
+      "Adhere"
+    ],
+    "exam": "CHSL 4 August, 2021"
+  },
+  {
+    "n": 47,
+    "w": "Commence",
+    "h": "शुरू करना / आरंभ करना",
+    "syns": [
+      "Launch",
+      "Begin",
+      "Initiate"
+    ],
+    "exam": "CHSL 6 Aug, 2021 / MTS-2024 / CGL 20 Aug, 2021 / CPO 30 Dec, 2019 / STENO 12 Nov, 2021 / SSC MTS 2025"
+  },
+  {
+    "n": 48,
+    "w": "Clean",
+    "h": "साफ / स्वच्छ",
+    "syns": [
+      "Tidy",
+      "Neat",
+      "Spotless"
+    ],
+    "exam": "CHSL 9 August, 2021"
+  },
+  {
+    "n": 49,
+    "w": "Complicated",
+    "h": "जटिल / पेचीदा",
+    "syns": [
+      "Complex",
+      "Intricate",
+      "Involved"
+    ],
+    "exam": "CHSL 9 August, 2021"
+  },
+  {
+    "n": 50,
+    "w": "Convinced",
+    "h": "आश्वस्त / मान लिया",
+    "syns": [
+      "Accepting",
+      "Persuaded",
+      "Certain"
+    ],
+    "exam": "MTS 3 May, 2023"
+  },
+  {
+    "n": 51,
+    "w": "Confirm",
+    "h": "पुष्टि करना / सत्यापित करना",
+    "syns": [
+      "Corroborate",
+      "Verify",
+      "Validate"
+    ],
+    "exam": "MTS 4 May, 2023"
+  },
+  {
+    "n": 52,
+    "w": "Console",
+    "h": "सांत्वना देना",
+    "syns": [
+      "Solace",
+      "Comfort",
+      "Soothe"
+    ],
+    "exam": "MTS 10 May, 2023"
+  },
+  {
+    "n": 53,
+    "w": "Consecutive",
+    "h": "लगातार / क्रमिक",
+    "syns": [
+      "Successive",
+      "Sequential",
+      "Continuous"
+    ],
+    "exam": "MTS 15 May, 2023"
+  },
+  {
+    "n": 54,
+    "w": "Complex",
+    "h": "जटिल / उलझा हुआ",
+    "syns": [
+      "Convoluted",
+      "Intricate",
+      "Convoluted"
+    ],
+    "exam": "MTS 18 May, 2023"
+  },
+  {
+    "n": 55,
+    "w": "Contrite",
+    "h": "पश्चाताप करने वाला",
+    "syns": [
+      "Remorseful",
+      "Repentant",
+      "Sorry"
+    ],
+    "exam": "MTS 19 May, 2023"
+  },
+  {
+    "n": 56,
+    "w": "Contradict",
+    "h": "खंडन करना / विरोध करना",
+    "syns": [
+      "Contravene",
+      "Oppose",
+      "Refute"
+    ],
+    "exam": "MTS 13 June, 2023 / CPO 27 Sep, 2019 Tier-2"
+  },
+  {
+    "n": 57,
+    "w": "Continue",
+    "h": "जारी रखना",
+    "syns": [
+      "Maintain",
+      "Persist",
+      "Proceed"
+    ],
+    "exam": "MTS 15 June, 2023"
+  },
+  {
+    "n": 58,
+    "w": "Converge",
+    "h": "मिलना / एक बिंदु पर आना",
+    "syns": [
+      "Coincide",
+      "Meet",
+      "Unite"
+    ],
+    "exam": "MTS 15 June, 2023"
+  },
+  {
+    "n": 59,
+    "w": "Concede",
+    "h": "मान लेना / स्वीकार करना",
+    "syns": [
+      "Permit",
+      "Yield",
+      "Grant"
+    ],
+    "exam": "MTS 8 July, 2022 / DP HCM 8 Jan, 2026"
+  },
+  {
+    "n": 60,
+    "w": "Culpable",
+    "h": "दोषी / जिम्मेदार",
+    "syns": [
+      "Guilty",
+      "Blameworthy",
+      "At fault"
+    ],
+    "exam": "MTS 21 July, 2022 / SSC GD 6 Feb, 2023"
+  },
+  {
+    "n": 61,
+    "w": "Crucial",
+    "h": "अत्यंत महत्वपूर्ण",
+    "syns": [
+      "Vital",
+      "Essential",
+      "Critical"
+    ],
+    "exam": "MTS 13 Oct, 2021 / NDA 1 2020"
+  },
+  {
+    "n": 62,
+    "w": "Colloquial",
+    "h": "बोलचाल की भाषा",
+    "syns": [
+      "Conversational",
+      "Informal",
+      "Everyday"
+    ],
+    "exam": "SSC GD 10 January, 2023"
+  },
+  {
+    "n": 63,
+    "w": "Conviction",
+    "h": "दृढ़ विश्वास / सजा",
+    "syns": [
+      "Belief",
+      "Faith",
+      "Certainty"
+    ],
+    "exam": "SSC GD 11 Jan, 2023 / NDA 2 2018"
+  },
+  {
+    "n": 64,
+    "w": "Compact",
+    "h": "सघन / छोटा",
+    "syns": [
+      "Dense",
+      "Condensed",
+      "Tight"
+    ],
+    "exam": "SSC GD 11 January, 2023"
+  },
+  {
+    "n": 65,
+    "w": "Conquer",
+    "h": "जीतना / विजय प्राप्त करना",
+    "syns": [
+      "Defeat",
+      "Overcome",
+      "Vanquish"
+    ],
+    "exam": "SSC GD 12 January, 2023"
+  },
+  {
+    "n": 66,
+    "w": "Consistent",
+    "h": "सुसंगत / नियमित",
+    "syns": [
+      "Constant",
+      "Steady",
+      "Regular"
+    ],
+    "exam": "SSC GD 12 January, 2023"
+  },
+  {
+    "n": 67,
+    "w": "Cocoon",
+    "h": "रक्षात्मक आवरण / कोकून",
+    "syns": [
+      "Encasement",
+      "Shell",
+      "Casing"
+    ],
+    "exam": "SSC GD 13 January, 2023"
+  },
+  {
+    "n": 68,
+    "w": "Contagion",
+    "h": "संक्रमण / फैलाव",
+    "syns": [
+      "Transmission",
+      "Infection",
+      "Spread"
+    ],
+    "exam": "SSC GD 16 January, 2023"
+  },
+  {
+    "n": 69,
+    "w": "Courage",
+    "h": "साहस / वीरता",
+    "syns": [
+      "Valour",
+      "Bravery",
+      "Gallantry"
+    ],
+    "exam": "SSC GD 16 Jan, 2023 / STENO 17 Nov, 2022 / SELECTION POST-2024"
+  },
+  {
+    "n": 70,
+    "w": "Casual",
+    "h": "अनौपचारिक / सामान्य",
+    "syns": [
+      "Informal",
+      "Easygoing",
+      "Relaxed"
+    ],
+    "exam": "SSC GD 25 January, 2023"
+  },
+  {
+    "n": 71,
+    "w": "Commerce",
+    "h": "व्यापार / वाणिज्य",
+    "syns": [
+      "Trade",
+      "Business",
+      "Industry"
+    ],
+    "exam": "SSC GD 27 January, 2023"
+  },
+  {
+    "n": 72,
+    "w": "Curious",
+    "h": "जिज्ञासु / उत्सुक",
+    "syns": [
+      "Inquisitive",
+      "Eager",
+      "Inquisitive"
+    ],
+    "exam": "SSC GD 25 January, 2023"
+  },
+  {
+    "n": 73,
+    "w": "Counsel",
+    "h": "सलाह / परामर्श",
+    "syns": [
+      "Advice",
+      "Guidance",
+      "Recommendation"
+    ],
+    "exam": "SSC GD 30 January, 2023"
+  },
+  {
+    "n": 74,
+    "w": "Colossal",
+    "h": "विशाल / बहुत बड़ा",
+    "syns": [
+      "Massive",
+      "Enormous",
+      "Gigantic"
+    ],
+    "exam": "SSC GD 1 Feb, 2023 / CGL-2024 / STENO 17 Nov, 2022 / CPO 9 Nov, 2022"
+  },
+  {
+    "n": 75,
+    "w": "Cherish",
+    "h": "संजोना / प्रिय रखना",
+    "syns": [
+      "Admire",
+      "Treasure",
+      "Value"
+    ],
+    "exam": "SSC GD 2 Feb, 2023 / CGL-2024"
+  },
+  {
+    "n": 76,
+    "w": "Cheerless",
+    "h": "उदास / निराश",
+    "syns": [
+      "Gloomy",
+      "Gloomy",
+      "Dismal"
+    ],
+    "exam": "SSC GD 2 February, 2023"
+  },
+  {
+    "n": 77,
+    "w": "Confuse",
+    "h": "भ्रमित करना",
+    "syns": [
+      "Puzzle",
+      "Perplex",
+      "Bewilder"
+    ],
+    "exam": "SSC GD 6 Feb, 2023 / MTS 14 June, 2023"
+  },
+  {
+    "n": 78,
+    "w": "Capitulate",
+    "h": "आत्मसमर्पण करना",
+    "syns": [
+      "Surrender",
+      "Submit",
+      "Give up"
+    ],
+    "exam": "SSC GD 9 February, 2023"
+  },
+  {
+    "n": 79,
+    "w": "Confined",
+    "h": "सीमित / बंद",
+    "syns": [
+      "Limited",
+      "Restricted",
+      "Contained"
+    ],
+    "exam": "SSC GD 9 Feb, 2023 / SSC GD 29 Nov, 2021"
+  },
+  {
+    "n": 80,
+    "w": "Cruel",
+    "h": "क्रूर / निर्दयी",
+    "syns": [
+      "Brutal",
+      "Vicious",
+      "Heartless"
+    ],
+    "exam": "SSC GD 17 November, 2021"
+  },
+  {
+    "n": 81,
+    "w": "Convert",
+    "h": "परिवर्तित करना / बदलना",
+    "syns": [
+      "Transform",
+      "Change",
+      "Shift"
+    ],
+    "exam": "SSC GD 18 November, 2021"
+  },
+  {
+    "n": 82,
+    "w": "Choke",
+    "h": "रोकना / गला घोंटना",
+    "syns": [
+      "Block",
+      "Suffocate",
+      "Obstruct"
+    ],
+    "exam": "SSC GD 22 November, 2021"
+  },
+  {
+    "n": 83,
+    "w": "Compose",
+    "h": "रचना करना / शांत करना",
+    "syns": [
+      "Collect",
+      "Create",
+      "Write"
+    ],
+    "exam": "SSC GD 30 November, 2021"
+  },
+  {
+    "n": 84,
+    "w": "Crust",
+    "h": "परत / छाल",
+    "syns": [
+      "Shell",
+      "Cover",
+      "Layer"
+    ],
+    "exam": "SSC GD 3 December, 2021"
+  },
+  {
+    "n": 85,
+    "w": "Choosy",
+    "h": "चुनाव में सावधान / नखरेबाज",
+    "syns": [
+      "Picky",
+      "Selective",
+      "Particular"
+    ],
+    "exam": "SSC GD 9 December, 2021"
+  },
+  {
+    "n": 86,
+    "w": "Common",
+    "h": "सामान्य / साधारण",
+    "syns": [
+      "Usual",
+      "Ordinary",
+      "Typical"
+    ],
+    "exam": "SSC GD 13 December, 2021"
+  },
+  {
+    "n": 87,
+    "w": "Cute",
+    "h": "प्यारा / आकर्षक",
+    "syns": [
+      "Charming",
+      "Adorable",
+      "Pretty"
+    ],
+    "exam": "SSC GD 14 December, 2021"
+  },
+  {
+    "n": 88,
+    "w": "Coarse",
+    "h": "मोटा / असभ्य",
+    "syns": [
+      "Crude",
+      "Rough",
+      "Vulgar"
+    ],
+    "exam": "SSC GD 15 December, 2021"
+  },
+  {
+    "n": 89,
+    "w": "Captivate",
+    "h": "मोहित करना / आकर्षित करना",
+    "syns": [
+      "Allure",
+      "Enchant",
+      "Fascinate"
+    ],
+    "exam": "CPO 3 October, 2023"
+  },
+  {
+    "n": 90,
+    "w": "Congestion",
+    "h": "भीड़ / जमाव",
+    "syns": [
+      "Gridlock",
+      "Jam",
+      "Blockage"
+    ],
+    "exam": "CPO 3 October, 2023"
+  },
+  {
+    "n": 91,
+    "w": "Consciousness",
+    "h": "चेतना / जागरूकता",
+    "syns": [
+      "Awareness",
+      "Alertness",
+      "Mindfulness"
+    ],
+    "exam": "CPO 10 November, 2022"
+  },
+  {
+    "n": 92,
+    "w": "Conjure",
+    "h": "जादू करना / आह्वान करना",
+    "syns": [
+      "Appeal",
+      "Invoke",
+      "Summon"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 93,
+    "w": "Cornucopia",
+    "h": "प्रचुरता / खजाना",
+    "syns": [
+      "Treasure Trove",
+      "Abundance",
+      "Plenty"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 94,
+    "w": "Catastrophe",
+    "h": "तबाही / महाविपत्ति",
+    "syns": [
+      "Calamity",
+      "Disaster",
+      "Calamity"
+    ],
+    "exam": "CPO 23 November, 2020"
+  },
+  {
+    "n": 95,
+    "w": "Coveted",
+    "h": "अत्यंत वांछित / लालसापूर्ण",
+    "syns": [
+      "Desired",
+      "Sought-after",
+      "Longed for"
+    ],
+    "exam": "CPO 24 November, 2020"
+  },
+  {
+    "n": 96,
+    "w": "Chaste",
+    "h": "पवित्र / शुद्ध",
+    "syns": [
+      "Pure",
+      "Virtuous",
+      "Modest"
+    ],
+    "exam": "CPO 25 Nov, 2020 / CHSL-2024"
+  },
+  {
+    "n": 97,
+    "w": "Contaminate",
+    "h": "दूषित करना / प्रदूषित करना",
+    "syns": [
+      "Pollute",
+      "Pollute",
+      "Taint"
+    ],
+    "exam": "CPO 9 Dec, 2019 / MTS-2024"
+  },
+  {
+    "n": 98,
+    "w": "Complacent",
+    "h": "आत्मसंतुष्ट / लापरवाह",
+    "syns": [
+      "Smug",
+      "Self-satisfied",
+      "Overconfident"
+    ],
+    "exam": "CPO 11 Dec, 2019 / CDS 2 2023"
+  },
+  {
+    "n": 99,
+    "w": "Commotion",
+    "h": "हलचल / उपद्रव",
+    "syns": [
+      "Bustle",
+      "Uproar",
+      "Turmoil"
+    ],
+    "exam": "STENO 12 October, 2023"
+  },
+  {
+    "n": 100,
+    "w": "Conventional",
+    "h": "पारंपरिक / रूढ़िवादी",
+    "syns": [
+      "Customary",
+      "Traditional",
+      "Standard"
+    ],
+    "exam": "STENO 13 October, 2023"
+  },
+  {
+    "n": 101,
+    "w": "Cumbersome",
+    "h": "बोझिल / असुविधाजनक",
+    "syns": [
+      "Difficult",
+      "Bulky",
+      "Unwieldy"
+    ],
+    "exam": "STENO 17 November, 2022"
+  },
+  {
+    "n": 102,
+    "w": "Crude",
+    "h": "कच्चा / असभ्य",
+    "syns": [
+      "Natural",
+      "Raw",
+      "Unrefined"
+    ],
+    "exam": "STENO 18 November, 2022"
+  },
+  {
+    "n": 103,
+    "w": "Confess",
+    "h": "स्वीकार करना / कबूल करना",
+    "syns": [
+      "Acknowledge",
+      "Admit",
+      "Own up"
+    ],
+    "exam": "STENO 18 November, 2022"
+  },
+  {
+    "n": 104,
+    "w": "Compunction",
+    "h": "पश्चाताप / अफसोस",
+    "syns": [
+      "Remorse",
+      "Guilt",
+      "Regret"
+    ],
+    "exam": "STENO 18 Nov, 2022 / DSSSB PRT 25/03/2022"
+  },
+  {
+    "n": 105,
+    "w": "Carnage",
+    "h": "नरसंहार / खून-खराबा",
+    "syns": [
+      "Slaughter",
+      "Massacre",
+      "Bloodshed"
+    ],
+    "exam": "STENO 11 November, 2021"
+  },
+  {
+    "n": 106,
+    "w": "Consult",
+    "h": "परामर्श करना / सलाह लेना",
+    "syns": [
+      "Discuss",
+      "Seek advice",
+      "Confer"
+    ],
+    "exam": "STENO 24 December, 2020"
+  },
+  {
+    "n": 107,
+    "w": "Creative",
+    "h": "रचनात्मक / सृजनात्मक",
+    "syns": [
+      "Innovative",
+      "Imaginative",
+      "Original"
+    ],
+    "exam": "CGL-2024"
+  },
+  {
+    "n": 108,
+    "w": "Celebrate",
+    "h": "उत्सव मनाना / जश्न करना",
+    "syns": [
+      "Rejoice",
+      "Commemorate",
+      "Revel"
+    ],
+    "exam": "CGL-2024 / CGL 17 August, 2021"
+  },
+  {
+    "n": 109,
+    "w": "Consort",
+    "h": "साथी / संगी",
+    "syns": [
+      "Partner",
+      "Companion",
+      "Spouse"
+    ],
+    "exam": "CGL-2024"
+  },
+  {
+    "n": 110,
+    "w": "Conflict",
+    "h": "संघर्ष / टकराव",
+    "syns": [
+      "Crash",
+      "Battle",
+      "Clash"
+    ],
+    "exam": "CGL-2024"
+  },
+  {
+    "n": 111,
+    "w": "Crux",
+    "h": "सार / मूल बिंदु",
+    "syns": [
+      "Essence",
+      "Core",
+      "Gist"
+    ],
+    "exam": "CGL-2024 / CHSL 14 August, 2023"
+  },
+  {
+    "n": 112,
+    "w": "Convalescing",
+    "h": "स्वास्थ्यलाभ करना / ठीक होना",
+    "syns": [
+      "Recovering",
+      "Getting better",
+      "Healing"
+    ],
+    "exam": "CGL-2024"
+  },
+  {
+    "n": 113,
+    "w": "Condone",
+    "h": "माफ करना / अनदेखा करना",
+    "syns": [
+      "Pardon",
+      "Excuse",
+      "Overlook"
+    ],
+    "exam": "CGL-2024 / CPO 23 Nov, 2020 / CDS 2 2018"
+  },
+  {
+    "n": 114,
+    "w": "Carcass",
+    "h": "लाश / मृत शरीर",
+    "syns": [
+      "Corpse",
+      "Remains",
+      "Dead body"
+    ],
+    "exam": "CGL-2024"
+  },
+  {
+    "n": 115,
+    "w": "Cascade",
+    "h": "झरना / तेज़ी से बहना",
+    "syns": [
+      "Waterfall",
+      "Falls",
+      "Torrent"
+    ],
+    "exam": "CGL-2024"
+  },
+  {
+    "n": 116,
+    "w": "Change",
+    "h": "बदलना / परिवर्तन करना",
+    "syns": [
+      "Alter",
+      "Modify",
+      "Transform"
+    ],
+    "exam": "CHSL-2024"
+  },
+  {
+    "n": 117,
+    "w": "Confidential",
+    "h": "गोपनीय / रहस्यमय",
+    "syns": [
+      "Secret",
+      "Private",
+      "Classified"
+    ],
+    "exam": "CHSL-2024"
+  },
+  {
+    "n": 118,
+    "w": "Candid",
+    "h": "स्पष्टवादी / ईमानदार",
+    "syns": [
+      "Honest",
+      "Frank",
+      "Straightforward"
+    ],
+    "exam": "CHSL-2024"
+  },
+  {
+    "n": 119,
+    "w": "Calculating",
+    "h": "चालाक / स्वार्थी",
+    "syns": [
+      "Manipulative",
+      "Scheming",
+      "Cunning"
+    ],
+    "exam": "CHSL-2024"
+  },
+  {
+    "n": 120,
+    "w": "Careful",
+    "h": "सावधान / सतर्क",
+    "syns": [
+      "Cautious",
+      "Watchful",
+      "Attentive"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 121,
+    "w": "Collapse",
+    "h": "ढहना / गिरना",
+    "syns": [
+      "Fall",
+      "Crumble",
+      "Crumple"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 122,
+    "w": "Conscious",
+    "h": "सचेत / जागरूक",
+    "syns": [
+      "Beware",
+      "Aware",
+      "Mindful"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 123,
+    "w": "Caprice",
+    "h": "सनक / मनमर्जी",
+    "syns": [
+      "Impulse",
+      "Whim",
+      "Fancy"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 124,
+    "w": "Congenial",
+    "h": "अनुकूल / सुखद",
+    "syns": [
+      "Pleasant",
+      "Agreeable",
+      "Compatible"
+    ],
+    "exam": "MTS-2024"
+  },
+  {
+    "n": 125,
+    "w": "Cacophony",
+    "h": "कर्कश ध्वनि / शोर",
+    "syns": [
+      "Noise",
+      "Dissonance",
+      "Discord"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 126,
+    "w": "Conundrum",
+    "h": "पहेली / जटिल समस्या",
+    "syns": [
+      "Problem",
+      "Puzzle",
+      "Riddle"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 127,
+    "w": "Condemn",
+    "h": "निंदा करना / दोष देना",
+    "syns": [
+      "Censure",
+      "Denounce",
+      "Criticize"
+    ],
+    "exam": "CPO-2024 / CGL-2025 / CPO 9 Dec, 2019"
+  },
+  {
+    "n": 128,
+    "w": "Candour",
+    "h": "स्पष्टवादिता / ईमानदारी",
+    "syns": [
+      "Honesty",
+      "Frankness",
+      "Openness"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 129,
+    "w": "Concordant",
+    "h": "सामंजस्यपूर्ण / एकमत",
+    "syns": [
+      "Harmonious",
+      "Agreeing",
+      "Consistent"
+    ],
+    "exam": "CPO-2024"
+  },
+  {
+    "n": 130,
+    "w": "Control",
+    "h": "नियंत्रण / काबू",
+    "syns": [
+      "Grip",
+      "Manage",
+      "Regulate"
+    ],
+    "exam": "SELECTION POST-2024"
+  },
+  {
+    "n": 131,
+    "w": "Confiscate",
+    "h": "जब्त करना / छीनना",
+    "syns": [
+      "Seize",
+      "Confiscate",
+      "Impound"
+    ],
+    "exam": "SELECTION POST-2024 / MTS 19 July, 2022 / CGL-2024"
+  },
+  {
+    "n": 132,
+    "w": "Cease",
+    "h": "बंद करना / रुकना",
+    "syns": [
+      "Conclude",
+      "Stop",
+      "Halt"
+    ],
+    "exam": "SELECTION POST-2024"
+  },
+  {
+    "n": 133,
+    "w": "Constraints",
+    "h": "बाधाएँ / प्रतिबंध",
+    "syns": [
+      "Restrictions",
+      "Limitations",
+      "Obstacles"
+    ],
+    "exam": "STENO-2024"
+  },
+  {
+    "n": 134,
+    "w": "Callow",
+    "h": "अनुभवहीन / कच्चा",
+    "syns": [
+      "Inexperienced",
+      "Naive",
+      "Immature"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 135,
+    "w": "Complaisant",
+    "h": "विनम्र / आज्ञाकारी",
+    "syns": [
+      "Submissive",
+      "Obedient",
+      "Compliant"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 136,
+    "w": "Circumspect",
+    "h": "सावधान / विवेकशील",
+    "syns": [
+      "Cautious",
+      "Prudent",
+      "Careful"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 137,
+    "w": "Cadaverous",
+    "h": "मृत जैसा / पीला",
+    "syns": [
+      "Pale",
+      "Gaunt",
+      "Wan"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 138,
+    "w": "Coruscate",
+    "h": "चमकना / दमकना",
+    "syns": [
+      "Sparkle",
+      "Glitter",
+      "Shine"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 139,
+    "w": "Chicanery",
+    "h": "धोखाधड़ी / छल",
+    "syns": [
+      "Deception",
+      "Trickery",
+      "Fraud"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 140,
+    "w": "Conflagration",
+    "h": "बड़ी आग / भीषण अग्निकांड",
+    "syns": [
+      "Fire",
+      "Blaze",
+      "Inferno"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 141,
+    "w": "Cavil",
+    "h": "तुच्छ आपत्ति / बाल की खाल निकालना",
+    "syns": [
+      "Quibble",
+      "Nitpick",
+      "Find fault"
+    ],
+    "exam": "CGL-2025"
+  },
+  {
+    "n": 142,
+    "w": "Censure",
+    "h": "निंदा / आलोचना",
+    "syns": [
+      "Criticise",
+      "Rebuke",
+      "Condemn"
+    ],
+    "exam": "DSSSB PRT 24/03/2022"
+  },
+  {
+    "n": 143,
+    "w": "Cloudy",
+    "h": "धुंधला / बादलदार",
+    "syns": [
+      "Unclear",
+      "Overcast",
+      "Murky"
+    ],
+    "exam": "DSSSB PRT 07/03/2022"
+  },
+  {
+    "n": 144,
+    "w": "Capricious",
+    "h": "मनमौजी / अस्थिर",
+    "syns": [
+      "Unstable",
+      "Impulsive",
+      "Erratic"
+    ],
+    "exam": "DSSSB PRT 30/03/2022"
+  },
+  {
+    "n": 145,
+    "w": "Commensurate",
+    "h": "अनुपात में / समान",
+    "syns": [
+      "Proportionate",
+      "Equivalent",
+      "Corresponding"
+    ],
+    "exam": "DSSSB Junior Stenographer 23/04/2021"
+  },
+  {
+    "n": 146,
+    "w": "Churlish",
+    "h": "असभ्य / रूखा",
+    "syns": [
+      "Sullen",
+      "Rude",
+      "Boorish"
+    ],
+    "exam": "DSSSB Junior Assistant 21/08/2021"
+  },
+  {
+    "n": 147,
+    "w": "Closed",
+    "h": "बंद",
+    "syns": [
+      "Shut",
+      "Sealed",
+      "Not open"
+    ],
+    "exam": "DSSSB 25/08/2013"
+  },
+  {
+    "n": 148,
+    "w": "Conservation",
+    "h": "संरक्षण",
+    "syns": [
+      "Protection",
+      "Preservation",
+      "Safeguarding"
+    ],
+    "exam": "DSSSB LDC 03/08/2015"
+  },
+  {
+    "n": 149,
+    "w": "Crave",
+    "h": "तीव्र इच्छा रखना",
+    "syns": [
+      "Yearn",
+      "Desire",
+      "Long for"
+    ],
+    "exam": "DSSSB LDC 23/08/2019"
+  },
+  {
+    "n": 150,
+    "w": "Contagious",
+    "h": "संक्रामक",
+    "syns": [
+      "Transmittable",
+      "Infectious",
+      "Spreading"
+    ],
+    "exam": "UPSC NDA NA 18/04/2021 / DSSSB Primary 25/08/2013 / CDS 1 2020"
+  },
+  {
+    "n": 151,
+    "w": "Circumscribed",
+    "h": "सीमित / नियंत्रित",
+    "syns": [
+      "Limit",
+      "Confine",
+      "Restrict"
+    ],
+    "exam": "CDS 1 2023"
+  },
+  {
+    "n": 152,
+    "w": "Cliched",
+    "h": "घिसा-पिटा / सामान्य",
+    "syns": [
+      "Hackneyed",
+      "Stale",
+      "Overused"
+    ],
+    "exam": "CDS 1 2020"
+  },
+  {
+    "n": 153,
+    "w": "Cantankerous",
+    "h": "झगड़ालू / चिड़चिड़ा",
+    "syns": [
+      "Ill-Tempered",
+      "Quarrelsome",
+      "Grumpy"
+    ],
+    "exam": "CDS 2 2024"
+  },
+  {
+    "n": 154,
+    "w": "Convulsed",
+    "h": "कँपाया / हिलाया",
+    "syns": [
+      "Shivered",
+      "Shook",
+      "Trembled"
+    ],
+    "exam": "CDS 2 2023"
+  },
+  {
+    "n": 155,
+    "w": "Countered",
+    "h": "विरोध किया / सामना किया",
+    "syns": [
+      "Oppose",
+      "Resist",
+      "Repel"
+    ],
+    "exam": "NDA/NA 1 2017"
+  },
+  {
+    "n": 156,
+    "w": "Compliment",
+    "h": "तारीफ / प्रशंसा",
+    "syns": [
+      "Praise",
+      "Flatter",
+      "Congratulate"
+    ],
+    "exam": "NDA 1 2021"
+  },
+  {
+    "n": 157,
+    "w": "Contention",
+    "h": "विवाद / झगड़ा",
+    "syns": [
+      "Involved in dispute",
+      "Dispute",
+      "Argument"
+    ],
+    "exam": "NDA 1 2023"
+  },
+  {
+    "n": 158,
+    "w": "Cooperative",
+    "h": "सहयोगी / मिलकर काम करने वाला",
+    "syns": [
+      "Complaisant",
+      "Helpful",
+      "Accommodating"
+    ],
+    "exam": "NDA 1 2021"
+  },
+  {
+    "n": 159,
+    "w": "Counteract",
+    "h": "प्रतिकार करना / रोकना",
+    "syns": [
+      "Thwart",
+      "Neutralize",
+      "Oppose"
+    ],
+    "exam": "NDA 1 2024"
+  },
+  {
+    "n": 160,
+    "w": "Counterfeit",
+    "h": "नकली / जाली",
+    "syns": [
+      "Fake",
+      "Spurious",
+      "Forged"
+    ],
+    "exam": "NDA 2 2017"
+  },
+  {
+    "n": 161,
+    "w": "Cunning",
+    "h": "चालाक / धूर्त",
+    "syns": [
+      "Intelligent",
+      "Sly",
+      "Crafty"
+    ],
+    "exam": "NDA 1 2020"
+  },
+  {
+    "n": 162,
+    "w": "Captious",
+    "h": "दोषदर्शी / आलोचक",
+    "syns": [
+      "Fault-Finding",
+      "Critical",
+      "Carping"
+    ],
+    "exam": "NDA 2 2023"
+  },
+  {
+    "n": 163,
+    "w": "Cautioned",
+    "h": "चेतावनी दी गई",
+    "syns": [
+      "Warned",
+      "Alerted",
+      "Cautioned"
+    ],
+    "exam": "NDA 2 2024"
+  },
+  {
+    "n": 164,
+    "w": "Celestial",
+    "h": "दिव्य / स्वर्गीय",
+    "syns": [
+      "Heavenly",
+      "Divine",
+      "Godly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 165,
+    "w": "Conversant",
+    "h": "परिचित / जानकार",
+    "syns": [
+      "Familiar",
+      "Acquainted",
+      "Knowledgeable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 166,
+    "w": "Caption",
+    "h": "शीर्षक / कैप्शन",
+    "syns": [
+      "Title",
+      "Heading",
+      "Label"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 167,
+    "w": "Clemency",
+    "h": "दया / क्षमा",
+    "syns": [
+      "Mercy",
+      "Leniency",
+      "Forgiveness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 168,
+    "w": "Confound",
+    "h": "भ्रमित करना / चकरा देना",
+    "syns": [
+      "Confuse",
+      "Baffle",
+      "Perplex"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 169,
+    "w": "Cache",
+    "h": "छिपाकर रखना / भंडार",
+    "syns": [
+      "Storage",
+      "Store",
+      "Hoard"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 170,
+    "w": "Charisma",
+    "h": "करिश्मा / आकर्षण",
+    "syns": [
+      "Charm",
+      "Magnetism",
+      "Appeal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 171,
+    "w": "Castigate",
+    "h": "दंडित करना / कड़ी आलोचना करना",
+    "syns": [
+      "Punish",
+      "Scold",
+      "Chastise"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 172,
+    "w": "Carping",
+    "h": "दोषदर्शिता / बारीक आलोचना",
+    "syns": [
+      "Fault-finding",
+      "Nitpicking",
+      "Critical"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 173,
+    "w": "Calibre",
+    "h": "योग्यता / स्तर",
+    "syns": [
+      "Talent",
+      "Ability",
+      "Quality"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 174,
+    "w": "Cede",
+    "h": "सौंपना / छोड़ना",
+    "syns": [
+      "Transfer",
+      "Surrender",
+      "Yield"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 175,
+    "w": "Chauvinist",
+    "h": "अत्यधिक देशभक्त / कट्टर समर्थक",
+    "syns": [
+      "Devoted",
+      "Extremist",
+      "Bigot"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 176,
+    "w": "Cognitive",
+    "h": "संज्ञानात्मक / मानसिक",
+    "syns": [
+      "Mental",
+      "Intellectual",
+      "Thinking"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 177,
+    "w": "Clandestine",
+    "h": "गुप्त / रहस्यमय",
+    "syns": [
+      "Secret",
+      "Undercover",
+      "Stealthy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 178,
+    "w": "Covert",
+    "h": "गुप्त / छिपा हुआ",
+    "syns": [
+      "Hidden",
+      "Concealed",
+      "Secret"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 179,
+    "w": "Condolence",
+    "h": "शोक / संवेदना",
+    "syns": [
+      "Sympathy",
+      "Compassion",
+      "Commiseration"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 180,
+    "w": "Connivance",
+    "h": "मिलीभगत / सहयोग",
+    "syns": [
+      "Ignorance",
+      "Complicity",
+      "Secret cooperation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 181,
+    "w": "Contraband",
+    "h": "तस्करी का माल / अवैध",
+    "syns": [
+      "Illegal",
+      "Smuggled goods",
+      "Prohibited"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 182,
+    "w": "Countermand",
+    "h": "आदेश वापस लेना / रद्द करना",
+    "syns": [
+      "Cancel",
+      "Revoke",
+      "Rescind"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 183,
+    "w": "Compliant",
+    "h": "आज्ञाकारी / लचीला",
+    "syns": [
+      "Flexible",
+      "Cooperative",
+      "Yielding"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 184,
+    "w": "Condign",
+    "h": "उचित / उपयुक्त",
+    "syns": [
+      "Adequate",
+      "Appropriate",
+      "Fitting"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 185,
+    "w": "Congregation",
+    "h": "जमाव / सभा",
+    "syns": [
+      "Gathering",
+      "Assembly",
+      "Group"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 186,
+    "w": "Coerce",
+    "h": "जबरदस्ती करना / बाध्य करना",
+    "syns": [
+      "Force",
+      "Compel",
+      "Pressure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 187,
+    "w": "Compatible",
+    "h": "अनुकूल / सुसंगत",
+    "syns": [
+      "Suitable",
+      "Harmonious",
+      "Agreeable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 188,
+    "w": "Collusion",
+    "h": "मिलीभगत / षड्यंत्र",
+    "syns": [
+      "Conspiracy",
+      "Secret agreement",
+      "Plot"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 189,
+    "w": "Contingency",
+    "h": "आकस्मिकता / अप्रत्याशित घटना",
+    "syns": [
+      "Emergency",
+      "Crisis",
+      "Unforeseen event"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 190,
+    "w": "Corroborate",
+    "h": "पुष्टि करना / प्रमाणित करना",
+    "syns": [
+      "Confirm",
+      "Substantiate",
+      "Verify"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 191,
+    "w": "Crestfallen",
+    "h": "निराश / हतोत्साहित",
+    "syns": [
+      "Dejected",
+      "Disappointed",
+      "Disheartened"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 192,
+    "w": "Conclave",
+    "h": "गुप्त सभा / परिषद",
+    "syns": [
+      "Meeting",
+      "Private gathering",
+      "Assembly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 193,
+    "w": "Construe",
+    "h": "अर्थ निकालना / व्याख्या करना",
+    "syns": [
+      "Interpret",
+      "Understand",
+      "Deduce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 194,
+    "w": "Cryptic",
+    "h": "रहस्यमय / गूढ़",
+    "syns": [
+      "Hidden",
+      "Mysterious",
+      "Obscure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 195,
+    "w": "Commodious",
+    "h": "विशाल / आरामदायक",
+    "syns": [
+      "Spacious",
+      "Roomy",
+      "Ample"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 196,
+    "w": "Cavern",
+    "h": "गुफा / खोह",
+    "syns": [
+      "Cave",
+      "Grotto",
+      "Den"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 197,
+    "w": "Chagrin",
+    "h": "निराशा / खीझ",
+    "syns": [
+      "Disappointment",
+      "Embarrassment",
+      "Annoyance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 198,
+    "w": "Chubby",
+    "h": "गोल-मटोल / मोटा",
+    "syns": [
+      "Plump",
+      "Pudgy",
+      "Round"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 199,
+    "w": "Choleric",
+    "h": "क्रोधी / चिड़चिड़ा",
+    "syns": [
+      "Angry",
+      "Irritable",
+      "Hot-tempered"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 200,
+    "w": "Contravene",
+    "h": "उल्लंघन करना / विरोध करना",
+    "syns": [
+      "Violate",
+      "Infringe",
+      "Breach"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 201,
+    "w": "Catchword",
+    "h": "नारा / मुहावरा",
+    "syns": [
+      "Slogan",
+      "Motto",
+      "Tagline"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 202,
+    "w": "Chimerical",
+    "h": "काल्पनिक / असंभव",
+    "syns": [
+      "Mythical",
+      "Illusory",
+      "Fanciful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 203,
+    "w": "Cataclysm",
+    "h": "प्रलय / भयंकर उथल-पुथल",
+    "syns": [
+      "Upheaval",
+      "Disaster",
+      "Catastrophe"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 204,
+    "w": "Compassionate",
+    "h": "दयालु / सहानुभूतिपूर्ण",
+    "syns": [
+      "Kind",
+      "Sympathetic",
+      "Empathetic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 205,
+    "w": "Conjecture",
+    "h": "अनुमान / कल्पना",
+    "syns": [
+      "Guess",
+      "Speculation",
+      "Hypothesis"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 206,
+    "w": "Caveat",
+    "h": "चेतावनी / शर्त",
+    "syns": [
+      "Warning",
+      "Caution",
+      "Proviso"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 207,
+    "w": "Cupidity",
+    "h": "लालच / लोभ",
+    "syns": [
+      "Greed",
+      "Avarice",
+      "Covetousness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 208,
+    "w": "Concoct",
+    "h": "बनाना / गढ़ना",
+    "syns": [
+      "Prepare",
+      "Fabricate",
+      "Devise"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 209,
+    "w": "Checkmate",
+    "h": "मात देना / विफल करना",
+    "syns": [
+      "Defeat",
+      "Thwart",
+      "Foil"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 210,
+    "w": "Carousal",
+    "h": "उत्सव / दावत",
+    "syns": [
+      "Feast",
+      "Merrymaking",
+      "Revelry"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 211,
+    "w": "Curb",
+    "h": "रोकना / नियंत्रित करना",
+    "syns": [
+      "Control",
+      "Restrain",
+      "Check"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 212,
+    "w": "Crunch",
+    "h": "संकट / दबाव",
+    "syns": [
+      "Crisis",
+      "Shortage",
+      "Squeeze"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 213,
+    "w": "Convivial",
+    "h": "मिलनसार / उत्सवप्रिय",
+    "syns": [
+      "Friendly",
+      "Sociable",
+      "Festive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 214,
+    "w": "Curtail",
+    "h": "कम करना / घटाना",
+    "syns": [
+      "Reduce",
+      "Shorten",
+      "Trim"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 215,
+    "w": "Complicity",
+    "h": "मिलीभगत / संलिप्तता",
+    "syns": [
+      "Involvement",
+      "Participation",
+      "Collusion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 216,
+    "w": "Cursory",
+    "h": "सरसरी / जल्दबाजी में",
+    "syns": [
+      "Casual",
+      "Superficial",
+      "Hasty"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 217,
+    "w": "Contiguous",
+    "h": "सटा हुआ / निकटवर्ती",
+    "syns": [
+      "Adjacent",
+      "Neighboring",
+      "Touching"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 218,
+    "w": "Canard",
+    "h": "अफवाह / झूठी खबर",
+    "syns": [
+      "Rumour",
+      "Hoax",
+      "Fabrication"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 219,
+    "w": "Circumvent",
+    "h": "चकमा देना / बचकर निकलना",
+    "syns": [
+      "Outwit",
+      "Bypass",
+      "Evade"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 220,
+    "w": "Cessation",
+    "h": "समाप्ति / रुकावट",
+    "syns": [
+      "Stopping",
+      "Halt",
+      "End"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 221,
+    "w": "Clairvoyant",
+    "h": "भविष्यद्रष्टा / अंतर्ज्ञानी",
+    "syns": [
+      "Fortune-teller",
+      "Psychic",
+      "Seer"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 222,
+    "w": "Cognizance",
+    "h": "ज्ञान / जागरूकता",
+    "syns": [
+      "Knowledge",
+      "Awareness",
+      "Recognition"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 223,
+    "w": "Crazy",
+    "h": "पागल / दीवाना",
+    "syns": [
+      "Foolish",
+      "Mad",
+      "Insane"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 224,
+    "w": "Chivalry",
+    "h": "शिष्टता / बहादुरी",
+    "syns": [
+      "Courtesy",
+      "Gallantry",
+      "Honor"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 225,
+    "w": "Charlatan",
+    "h": "ढोंगी / नीम-हकीम",
+    "syns": [
+      "Fraud",
+      "Imposter",
+      "Quack"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 226,
+    "w": "Covetous",
+    "h": "लालची / लोभी",
+    "syns": [
+      "Greedy",
+      "Avaricious",
+      "Desirous"
+    ],
+    "exam": "CUET 2022"
+  },
+  {
+    "n": 227,
+    "w": "Coercive",
+    "h": "जबरदस्ती का / दबावपूर्ण",
+    "syns": [
+      "Mandatory",
+      "Forceful",
+      "Compulsory"
+    ],
+    "exam": "CUET 2022"
+  },
+  {
+    "n": 228,
+    "w": "Caricature",
+    "h": "कैरिकेचर / अतिरंजित चित्र",
+    "syns": [
+      "Exaggeration",
+      "Parody",
+      "Satire"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 229,
+    "w": "Captious",
+    "h": "आलोचनात्मक / दोषदर्शी",
+    "syns": [
+      "Fault-finding",
+      "Fault-finding",
+      "Nitpicking"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 230,
+    "w": "Cloister",
+    "h": "एकांत में रहना / मठ",
+    "syns": [
+      "Isolate",
+      "Seclude",
+      "Confine"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 231,
+    "w": "Champion",
+    "h": "विजेता / समर्थक",
+    "syns": [
+      "Winner",
+      "Advocate",
+      "Defender"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 232,
+    "w": "Conciliate",
+    "h": "मनाना / सुलह करना",
+    "syns": [
+      "Pacify",
+      "Appease",
+      "Reconcile"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 233,
+    "w": "Consummate",
+    "h": "परिपूर्ण / पूर्ण",
+    "syns": [
+      "Complete",
+      "Perfect",
+      "Accomplished"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 234,
+    "w": "Courtesy",
+    "h": "शिष्टाचार / विनम्रता",
+    "syns": [
+      "Polite",
+      "Politeness",
+      "Respect"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 235,
+    "w": "Chimera",
+    "h": "भ्रम / काल्पनिक कल्पना",
+    "syns": [
+      "Illusion",
+      "Fantasy",
+      "Delusion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 236,
+    "w": "Candescent",
+    "h": "चमकीला / प्रकाशमान",
+    "syns": [
+      "Luminous",
+      "Glowing",
+      "Radiant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 237,
+    "w": "Conscript",
+    "h": "भर्ती करना / सेना में लेना",
+    "syns": [
+      "Recruit",
+      "Draft",
+      "Enlist"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 238,
+    "w": "Constrict",
+    "h": "सिकोड़ना / संकुचित करना",
+    "syns": [
+      "Tighten",
+      "Narrow",
+      "Compress"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 239,
+    "w": "Contemplative",
+    "h": "विचारमग्न / ध्यानशील",
+    "syns": [
+      "Thoughtful",
+      "Meditative",
+      "Reflective"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 240,
+    "w": "Convoke",
+    "h": "बुलाना / आह्वान करना",
+    "syns": [
+      "Summon",
+      "Call together",
+      "Assemble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 241,
+    "w": "Coy",
+    "h": "संकोची / शर्मीला",
+    "syns": [
+      "Shy",
+      "Timid",
+      "Reserved"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 242,
+    "w": "Considerable",
+    "h": "काफी / महत्वपूर्ण",
+    "syns": [
+      "Significant",
+      "Large",
+      "Substantial"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 243,
+    "w": "Courageous",
+    "h": "साहसी / बहादुर",
+    "syns": [
+      "Bold",
+      "Brave",
+      "Fearless"
+    ],
+    "exam": "SSC MTS 2025"
+  },
+  {
+    "n": 244,
+    "w": "Clever",
+    "h": "चालाक / होशियार",
+    "syns": [
+      "Intelligent",
+      "Smart",
+      "Bright"
+    ],
+    "exam": "SSC MTS 2025"
+  },
+  {
+    "n": 245,
+    "w": "Cautious",
+    "h": "सतर्क / सावधान",
+    "syns": [
+      "Careful",
+      "Wary",
+      "Alert"
+    ],
+    "exam": "SSC MTS 2025"
+  },
+  {
+    "n": 246,
+    "w": "Circumstantial",
+    "h": "परिस्थितिजन्य / विस्तृत",
+    "syns": [
+      "Detailed",
+      "Indirect",
+      "Evidential"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 247,
+    "w": "Calumniate",
+    "h": "झूठा आरोप लगाना / बदनाम करना",
+    "syns": [
+      "Defame",
+      "Slander",
+      "Malign"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 248,
+    "w": "Carnal",
+    "h": "शारीरिक / कामुक",
+    "syns": [
+      "Sensual",
+      "Fleshly",
+      "Bodily"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 249,
+    "w": "Carouse",
+    "h": "मौज-मस्ती करना / जश्न मनाना",
+    "syns": [
+      "Revel",
+      "Celebrate",
+      "Make merry"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 250,
+    "w": "Casanova",
+    "h": "प्रेमी / लुभाने वाला",
+    "syns": [
+      "Suitor",
+      "Womanizer",
+      "Flirt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 251,
+    "w": "Caterwaul",
+    "h": "कर्कश आवाज़ / चीखना",
+    "syns": [
+      "Screech",
+      "Shriek",
+      "Wail"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 252,
+    "w": "Cauterize",
+    "h": "जलाकर बंद करना / दागना",
+    "syns": [
+      "Sterilize",
+      "Burn",
+      "Sear"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 253,
+    "w": "Celerity",
+    "h": "तेज़ी / फुर्ती",
+    "syns": [
+      "Swiftness",
+      "Speed",
+      "Quickness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 254,
+    "w": "Censorious",
+    "h": "अत्यंत आलोचनात्मक",
+    "syns": [
+      "Critical",
+      "Fault-finding",
+      "Harsh"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 255,
+    "w": "Cheeky",
+    "h": "ढीठ / निर्लज्ज",
+    "syns": [
+      "Impudent",
+      "Insolent",
+      "Brazen"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 256,
+    "w": "Chivalrous",
+    "h": "शिष्ट / वीर",
+    "syns": [
+      "Gallant",
+      "Noble",
+      "Brave"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 257,
+    "w": "Chortle",
+    "h": "खिलखिलाना / हँसना",
+    "syns": [
+      "Giggle",
+      "Chuckle",
+      "Laugh"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 258,
+    "w": "Claptrap",
+    "h": "बकवास / व्यर्थ की बात",
+    "syns": [
+      "Balderdash",
+      "Nonsense",
+      "Rubbish"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 259,
+    "w": "Clout",
+    "h": "प्रभाव / शक्ति",
+    "syns": [
+      "Influence",
+      "Power",
+      "Authority"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 260,
+    "w": "Cluster",
+    "h": "समूह / झुंड",
+    "syns": [
+      "Assembly",
+      "Group",
+      "Collection"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 261,
+    "w": "Coalesce",
+    "h": "मिलना / एकजुट होना",
+    "syns": [
+      "Amalgamate",
+      "Merge",
+      "Unite"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 262,
+    "w": "Coax",
+    "h": "मनाना / फुसलाना",
+    "syns": [
+      "Persuade",
+      "Wheedle",
+      "Cajole"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 263,
+    "w": "Coddle",
+    "h": "लाड़ करना / नाज़ उठाना",
+    "syns": [
+      "Pamper",
+      "Mollycoddle",
+      "Spoil"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 264,
+    "w": "Cognizant",
+    "h": "जागरूक / सचेत",
+    "syns": [
+      "Aware",
+      "Conscious",
+      "Informed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 265,
+    "w": "Cognoscente",
+    "h": "विशेषज्ञ / पारखी",
+    "syns": [
+      "Expert",
+      "Connoisseur",
+      "Specialist"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 266,
+    "w": "Collate",
+    "h": "मिलाना / क्रम लगाना",
+    "syns": [
+      "Compare",
+      "Arrange",
+      "Organize"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 267,
+    "w": "Comeuppance",
+    "h": "उचित दंड / सजा",
+    "syns": [
+      "Punishment",
+      "Just deserts",
+      "Retribution"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 268,
+    "w": "Commiserate",
+    "h": "सहानुभूति रखना",
+    "syns": [
+      "Sympathize",
+      "Empathize",
+      "Console"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 269,
+    "w": "Conciliary",
+    "h": "समझौताकारी / शांतिपूर्ण",
+    "syns": [
+      "Pacifying",
+      "Reconciliatory",
+      "Appeasing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 270,
+    "w": "Consignee",
+    "h": "प्राप्तकर्ता / माल पाने वाला",
+    "syns": [
+      "Recipient",
+      "Receiver",
+      "Addressee"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 271,
+    "w": "Constrain",
+    "h": "रोकना / बाधित करना",
+    "syns": [
+      "Restrict",
+      "Limit",
+      "Confine"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 272,
+    "w": "Contraption",
+    "h": "यंत्र / उपकरण",
+    "syns": [
+      "Device",
+      "Gadget",
+      "Mechanism"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 273,
+    "w": "Countervailing",
+    "h": "प्रतिसंतुलन करना",
+    "syns": [
+      "Opposing",
+      "Counterbalancing",
+      "Offsetting"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 274,
+    "w": "Crescendo",
+    "h": "चरमोत्कर्ष / क्रमशः बढ़ाव",
+    "syns": [
+      "Climax",
+      "Peak",
+      "High point"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 275,
+    "w": "Crevasse",
+    "h": "गहरी दरार / खाई",
+    "syns": [
+      "Crack",
+      "Fissure",
+      "Gap"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 276,
+    "w": "Cruddy",
+    "h": "गंदा / निकृष्ट",
+    "syns": [
+      "Filthy",
+      "Dirty",
+      "Squalid"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 277,
+    "w": "Circuitous",
+    "h": "घुमावदार / चक्करदार",
+    "syns": [
+      "Indirect",
+      "Roundabout",
+      "Winding"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 278,
+    "w": "Confer",
+    "h": "परामर्श करना / प्रदान करना",
+    "syns": [
+      "Consult",
+      "Discuss",
+      "Bestow"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 279,
+    "w": "Conglomerate",
+    "h": "समूह / संगठन",
+    "syns": [
+      "Syndicate",
+      "Corporation",
+      "Combine"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 280,
+    "w": "Convenient",
+    "h": "सुविधाजनक / आरामदायक",
+    "syns": [
+      "Comfortable",
+      "Handy",
+      "Accessible"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 281,
+    "w": "Convoluted",
+    "h": "जटिल / उलझा हुआ",
+    "syns": [
+      "Complex",
+      "Intricate",
+      "Tangled"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 282,
+    "w": "Culminate",
+    "h": "परिणत होना / चरम पर पहुँचना",
+    "syns": [
+      "Conclude",
+      "End",
+      "Climax"
+    ],
+    "exam": ""
+  }
+]

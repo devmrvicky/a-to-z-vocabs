@@ -1,0 +1,2323 @@
+[
+  {
+    "n": 1,
+    "w": "Eager",
+    "h": "उत्सुक / उत्साहित",
+    "syns": [
+      "Keen",
+      "Enthusiastic",
+      "Avid"
+    ],
+    "exam": "CGL 19 July, 2023 / CHSL 9 Mar, 2023 / CPO 2024 / CGL 9 Dec, 2022"
+  },
+  {
+    "n": 2,
+    "w": "Earnestly",
+    "h": "ईमानदारी से / गंभीरता से",
+    "syns": [
+      "Sincerely",
+      "Genuinely",
+      "Seriously"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Enervated",
+    "h": "थका हुआ / कमज़ोर",
+    "syns": [
+      "Weaken",
+      "Exhausted",
+      "Debilitated"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 4,
+    "w": "Exuberance",
+    "h": "उत्साह / जोश",
+    "syns": [
+      "Vibrancy",
+      "Enthusiasm",
+      "Energy"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Extol",
+    "h": "प्रशंसा करना / सराहना",
+    "syns": [
+      "Praise",
+      "Commend",
+      "Glorify"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Extinct",
+    "h": "विलुप्त / समाप्त",
+    "syns": [
+      "Vanished",
+      "Dead",
+      "No longer existing"
+    ],
+    "exam": "CGL 25 July, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Exaltation",
+    "h": "उत्कर्ष / परम आनंद",
+    "syns": [
+      "Ecstasy",
+      "Joy",
+      "Elation"
+    ],
+    "exam": "CGL 2 December, 2022"
+  },
+  {
+    "n": 8,
+    "w": "Empty",
+    "h": "खाली / रिक्त",
+    "syns": [
+      "Vacant",
+      "Bare",
+      "Hollow"
+    ],
+    "exam": "CGL 8 December, 2022"
+  },
+  {
+    "n": 9,
+    "w": "Encountered",
+    "h": "सामना करना / मिलना",
+    "syns": [
+      "Experience",
+      "Met",
+      "Faced"
+    ],
+    "exam": "CGL 9 December, 2022"
+  },
+  {
+    "n": 10,
+    "w": "Eccentric",
+    "h": "विचित्र / अजीब",
+    "syns": [
+      "Peculiar",
+      "Odd",
+      "Strange"
+    ],
+    "exam": "CGL 13 Dec, 2022 / CHSL 10 June, 2022 / MTS 6 July, 2022 / MTS 2024 / SELECTION POST 2024"
+  },
+  {
+    "n": 11,
+    "w": "Eradicate",
+    "h": "उखाड़ना / समाप्त करना",
+    "syns": [
+      "Uproot",
+      "Eliminate",
+      "Wipe out"
+    ],
+    "exam": "CGL 9 Mar, 2020 / IB ACIO 2025"
+  },
+  {
+    "n": 12,
+    "w": "Exceed",
+    "h": "अधिक होना / पार करना",
+    "syns": [
+      "Surpass",
+      "Outdo",
+      "Transcend"
+    ],
+    "exam": "CGL 9 March, 2020"
+  },
+  {
+    "n": 13,
+    "w": "Evidence",
+    "h": "साक्ष्य / प्रमाण",
+    "syns": [
+      "Indication",
+      "Proof",
+      "Testimony"
+    ],
+    "exam": "CGL 12 Sep, 2019 Tier-2"
+  },
+  {
+    "n": 14,
+    "w": "Estimate",
+    "h": "अनुमान लगाना / आकलन करना",
+    "syns": [
+      "Assess",
+      "Evaluate",
+      "Calculate"
+    ],
+    "exam": "CGL 15 Nov, 2020 Tier-2 / CHSL 2024"
+  },
+  {
+    "n": 15,
+    "w": "Efficiency",
+    "h": "दक्षता / कुशलता",
+    "syns": [
+      "Capability",
+      "Competence",
+      "Proficiency"
+    ],
+    "exam": "CGL 16 November, 2020 Tier-2"
+  },
+  {
+    "n": 16,
+    "w": "Extortionate",
+    "h": "अत्यधिक / चोरी करने वाला",
+    "syns": [
+      "Exorbitant",
+      "Excessive",
+      "Overpriced"
+    ],
+    "exam": "CGL 8 August, 2022 Tier-2"
+  },
+  {
+    "n": 17,
+    "w": "Efficacy",
+    "h": "प्रभावशीलता / सक्षमता",
+    "syns": [
+      "Efficiency",
+      "Effectiveness",
+      "Power"
+    ],
+    "exam": "CHSL 13 Mar, 2023 / SELECTION POST 2024"
+  },
+  {
+    "n": 18,
+    "w": "Edacious",
+    "h": "लालची / खाऊ",
+    "syns": [
+      "Gluttonous",
+      "Voracious",
+      "Greedy"
+    ],
+    "exam": "CHSL 13 March, 2023"
+  },
+  {
+    "n": 19,
+    "w": "Ecclesial",
+    "h": "चर्च संबंधी / धार्मिक",
+    "syns": [
+      "Churchly",
+      "Religious",
+      "Sacred"
+    ],
+    "exam": "CHSL 16 March, 2023"
+  },
+  {
+    "n": 20,
+    "w": "Elucidate",
+    "h": "स्पष्ट करना / समझाना",
+    "syns": [
+      "Explicate",
+      "Explain",
+      "Clarify"
+    ],
+    "exam": "CHSL 20 Mar, 2023 / CDS 1 2016"
+  },
+  {
+    "n": 21,
+    "w": "Enigmatic",
+    "h": "रहस्यमय / गूढ़",
+    "syns": [
+      "Mysterious",
+      "Puzzling",
+      "Cryptic"
+    ],
+    "exam": "CHSL 21 March, 2023"
+  },
+  {
+    "n": 22,
+    "w": "Expended",
+    "h": "खर्च किया / समाप्त किया",
+    "syns": [
+      "Exhausted",
+      "Used up",
+      "Consumed"
+    ],
+    "exam": "CHSL 26 May, 2022"
+  },
+  {
+    "n": 23,
+    "w": "Ecstasy",
+    "h": "परम आनंद / उत्साह",
+    "syns": [
+      "Bliss",
+      "Rapture",
+      "Euphoria"
+    ],
+    "exam": "CHSL 27 May, 2022"
+  },
+  {
+    "n": 24,
+    "w": "Excruciating",
+    "h": "अत्यंत पीड़ादायक / असह्य",
+    "syns": [
+      "Piercing",
+      "Intense",
+      "Agonizing"
+    ],
+    "exam": "CHSL 6 June, 2022 / CUET 2022"
+  },
+  {
+    "n": 25,
+    "w": "Exorcise",
+    "h": "भूत भगाना / निष्कासित करना",
+    "syns": [
+      "Expel",
+      "Drive away",
+      "Cast out"
+    ],
+    "exam": "CHSL 9 June, 2022"
+  },
+  {
+    "n": 26,
+    "w": "Encroach",
+    "h": "अतिक्रमण करना / घुसपैठ करना",
+    "syns": [
+      "Intrude",
+      "Trespass",
+      "Invade"
+    ],
+    "exam": "CHSL 4 August, 2021"
+  },
+  {
+    "n": 27,
+    "w": "Emerge",
+    "h": "उभरना / प्रकट होना",
+    "syns": [
+      "Appear",
+      "Surface",
+      "Come out"
+    ],
+    "exam": "CHSL 10 August, 2021"
+  },
+  {
+    "n": 28,
+    "w": "Elegant",
+    "h": "सुरुचिपूर्ण / भव्य",
+    "syns": [
+      "Graceful",
+      "Stylish",
+      "Graceful"
+    ],
+    "exam": "MTS 5 Sep, 2023 / MTS 20 Oct, 2021"
+  },
+  {
+    "n": 29,
+    "w": "Enchanted",
+    "h": "मोहित / जादुई",
+    "syns": [
+      "Appealing",
+      "Charmed",
+      "Fascinated"
+    ],
+    "exam": "MTS 12 September, 2023"
+  },
+  {
+    "n": 30,
+    "w": "Equivocal",
+    "h": "अस्पष्ट / संदिग्ध",
+    "syns": [
+      "Ambiguous",
+      "Vague",
+      "Unclear"
+    ],
+    "exam": "MTS 4 May, 2023"
+  },
+  {
+    "n": 31,
+    "w": "Easiness",
+    "h": "सरलता / आसानी",
+    "syns": [
+      "Gullibility",
+      "Simplicity",
+      "Comfort"
+    ],
+    "exam": "MTS 16 May, 2023"
+  },
+  {
+    "n": 32,
+    "w": "Enthuse",
+    "h": "उत्साहित करना",
+    "syns": [
+      "Fondle",
+      "Inspire",
+      "Motivate"
+    ],
+    "exam": "MTS 20 June, 2023"
+  },
+  {
+    "n": 33,
+    "w": "Erring",
+    "h": "गलती करने वाला",
+    "syns": [
+      "Wrong",
+      "Mistaken",
+      "Faulty"
+    ],
+    "exam": "MTS 14 July, 2022"
+  },
+  {
+    "n": 34,
+    "w": "Enraged",
+    "h": "क्रोधित / उग्र",
+    "syns": [
+      "Furious",
+      "Angry",
+      "Incensed"
+    ],
+    "exam": "MTS 19 July, 2022 / MTS 2024"
+  },
+  {
+    "n": 35,
+    "w": "Enthrall",
+    "h": "मोहित करना / आकर्षित करना",
+    "syns": [
+      "Captivate",
+      "Fascinate",
+      "Mesmerize"
+    ],
+    "exam": "MTS 20 July, 2022 / MTS 22 Oct, 2021 / MTS 2024"
+  },
+  {
+    "n": 36,
+    "w": "Eternity",
+    "h": "अनंत काल / हमेशा के लिए",
+    "syns": [
+      "Forever",
+      "Infinity",
+      "Perpetuity"
+    ],
+    "exam": "MTS 22 July, 2022"
+  },
+  {
+    "n": 37,
+    "w": "Emphatic",
+    "h": "जोरदार / दृढ़",
+    "syns": [
+      "Vigorous",
+      "Forceful",
+      "Strong"
+    ],
+    "exam": "MTS 25 July, 2022"
+  },
+  {
+    "n": 38,
+    "w": "Expository",
+    "h": "व्याख्यात्मक",
+    "syns": [
+      "Illustrative",
+      "Explanatory",
+      "Descriptive"
+    ],
+    "exam": "MTS 26 July, 2022"
+  },
+  {
+    "n": 39,
+    "w": "Evident",
+    "h": "स्पष्ट / प्रकट",
+    "syns": [
+      "Clear",
+      "Obvious",
+      "Plain"
+    ],
+    "exam": "MTS 7 October, 2021"
+  },
+  {
+    "n": 40,
+    "w": "Exultation",
+    "h": "आनंद / उत्सव",
+    "syns": [
+      "Jubilation",
+      "Triumph",
+      "Joy"
+    ],
+    "exam": "MTS 22 October, 2021"
+  },
+  {
+    "n": 41,
+    "w": "Exciting",
+    "h": "रोमांचक / उत्तेजक",
+    "syns": [
+      "Electrifying",
+      "Thrilling",
+      "Stimulating"
+    ],
+    "exam": "SSC GD 12 Jan, 2023 / CUET 2022 & 2023"
+  },
+  {
+    "n": 42,
+    "w": "Earn",
+    "h": "कमाना / अर्जित करना",
+    "syns": [
+      "Receive",
+      "Gain",
+      "Acquire"
+    ],
+    "exam": "SSC GD 12 January, 2023"
+  },
+  {
+    "n": 43,
+    "w": "Exterminate",
+    "h": "नष्ट करना / समूल मिटाना",
+    "syns": [
+      "Eradicate",
+      "Eliminate",
+      "Annihilate"
+    ],
+    "exam": "SSC GD 16 January, 2023"
+  },
+  {
+    "n": 44,
+    "w": "Espoused",
+    "h": "अपनाया / समर्थन किया",
+    "syns": [
+      "Adopted",
+      "Embraced",
+      "Supported"
+    ],
+    "exam": "SSC GD 16 January, 2023"
+  },
+  {
+    "n": 45,
+    "w": "Eligible",
+    "h": "योग्य / पात्र",
+    "syns": [
+      "Qualified",
+      "Fit",
+      "Suitable"
+    ],
+    "exam": "SSC GD 23 January, 2023"
+  },
+  {
+    "n": 46,
+    "w": "Enough",
+    "h": "पर्याप्त / काफी",
+    "syns": [
+      "Sufficient",
+      "Adequate",
+      "Ample"
+    ],
+    "exam": "SSC GD 24 January, 2023"
+  },
+  {
+    "n": 47,
+    "w": "Earned",
+    "h": "कमाया / अर्जित",
+    "syns": [
+      "Gained",
+      "Received",
+      "Obtained"
+    ],
+    "exam": "SSC GD 24 January, 2023"
+  },
+  {
+    "n": 48,
+    "w": "Entrap",
+    "h": "फँसाना / जाल में लेना",
+    "syns": [
+      "Implicate",
+      "Snare",
+      "Lure"
+    ],
+    "exam": "SSC GD 30 January, 2023"
+  },
+  {
+    "n": 49,
+    "w": "Esteem",
+    "h": "सम्मान / आदर",
+    "syns": [
+      "Respect",
+      "Regard",
+      "Honor"
+    ],
+    "exam": "SSC GD 31 January, 2023"
+  },
+  {
+    "n": 50,
+    "w": "Early",
+    "h": "जल्दी / पहले",
+    "syns": [
+      "Beforehand",
+      "Ahead of time",
+      "In advance"
+    ],
+    "exam": "SSC GD 31 January, 2023"
+  },
+  {
+    "n": 51,
+    "w": "Enmity",
+    "h": "शत्रुता / दुश्मनी",
+    "syns": [
+      "Hostility",
+      "Animosity",
+      "Hatred"
+    ],
+    "exam": "SSC GD 2 February, 2023"
+  },
+  {
+    "n": 52,
+    "w": "Endeavors",
+    "h": "प्रयास / कोशिश",
+    "syns": [
+      "Efforts",
+      "Attempts",
+      "Efforts"
+    ],
+    "exam": "SSC GD 13 Feb, 2023 / MTS 2024"
+  },
+  {
+    "n": 53,
+    "w": "Enjoyable",
+    "h": "आनंददायक / मज़ेदार",
+    "syns": [
+      "Delightful",
+      "Pleasant",
+      "Fun"
+    ],
+    "exam": "SSC GD 18 November, 2021"
+  },
+  {
+    "n": 54,
+    "w": "Enormous",
+    "h": "विशाल / बहुत बड़ा",
+    "syns": [
+      "Massive",
+      "Huge",
+      "Gigantic"
+    ],
+    "exam": "SSC GD 1 Dec, 2021 / SELECTION POST 2024 / CPO 27 Sep, 2019 Tier-2"
+  },
+  {
+    "n": 55,
+    "w": "Erect",
+    "h": "खड़ा करना / निर्माण करना",
+    "syns": [
+      "Raise",
+      "Build",
+      "Construct"
+    ],
+    "exam": "SSC GD 2 December, 2021"
+  },
+  {
+    "n": 56,
+    "w": "Execute",
+    "h": "क्रियान्वित करना / पूरा करना",
+    "syns": [
+      "Implement",
+      "Carry out",
+      "Perform"
+    ],
+    "exam": "SSC GD 2 Dec, 2021 / MTS 2024 / NDA 1 2020"
+  },
+  {
+    "n": 57,
+    "w": "Eliminate",
+    "h": "हटाना / समाप्त करना",
+    "syns": [
+      "Exclude",
+      "Remove",
+      "Exclude"
+    ],
+    "exam": "SSC GD 2 December, 2021"
+  },
+  {
+    "n": 58,
+    "w": "Excerpt",
+    "h": "उद्धरण / अंश",
+    "syns": [
+      "Extract",
+      "Passage",
+      "Quotation"
+    ],
+    "exam": "SSC GD 9 December, 2021"
+  },
+  {
+    "n": 59,
+    "w": "Eternal",
+    "h": "शाश्वत / अनंत",
+    "syns": [
+      "Everlasting",
+      "Endless",
+      "Immortal"
+    ],
+    "exam": "SSC GD 10 December, 2021"
+  },
+  {
+    "n": 60,
+    "w": "Extravagance",
+    "h": "फिज़ूलखर्ची / अपव्यय",
+    "syns": [
+      "Self-Indulgence",
+      "Lavishness",
+      "Waste"
+    ],
+    "exam": "CPO 4 October, 2023"
+  },
+  {
+    "n": 61,
+    "w": "Essential",
+    "h": "अत्यावश्यक / ज़रूरी",
+    "syns": [
+      "Crucial",
+      "Vital",
+      "Indispensable"
+    ],
+    "exam": "CPO 5 October, 2023"
+  },
+  {
+    "n": 62,
+    "w": "Erudite",
+    "h": "विद्वान / ज्ञानी",
+    "syns": [
+      "Scholarly",
+      "Learned",
+      "Knowledgeable"
+    ],
+    "exam": "CPO 9 Nov, 2022 / STENO 17 Nov, 2022 / CHSL 2024"
+  },
+  {
+    "n": 63,
+    "w": "Engulf",
+    "h": "निगलना / डुबोना",
+    "syns": [
+      "Inundate",
+      "Flood",
+      "Overwhelm"
+    ],
+    "exam": "CPO 9 December, 2019"
+  },
+  {
+    "n": 64,
+    "w": "Exasperate",
+    "h": "क्रोधित करना / चिढ़ाना",
+    "syns": [
+      "Infuriate",
+      "Irritate",
+      "Anger"
+    ],
+    "exam": "CPO 13 December, 2019"
+  },
+  {
+    "n": 65,
+    "w": "Efficacious",
+    "h": "प्रभावी / असरदार",
+    "syns": [
+      "Effective",
+      "Productive",
+      "Capable"
+    ],
+    "exam": "CPO 13 December, 2019"
+  },
+  {
+    "n": 66,
+    "w": "Expiation",
+    "h": "प्रायश्चित / पश्चाताप",
+    "syns": [
+      "Atonement",
+      "Penance",
+      "Redemption"
+    ],
+    "exam": "CPO 27 September, 2019 Tier-2"
+  },
+  {
+    "n": 67,
+    "w": "Entice",
+    "h": "प्रलोभन देना / लुभाना",
+    "syns": [
+      "Beguile",
+      "Tempt",
+      "Allure"
+    ],
+    "exam": "CPO 8 January, 2024"
+  },
+  {
+    "n": 68,
+    "w": "Explicit",
+    "h": "स्पष्ट / खुला",
+    "syns": [
+      "Clear",
+      "Definite",
+      "Unambiguous"
+    ],
+    "exam": "STENO 12 Oct, 2023 / STENO 24 Dec, 2020"
+  },
+  {
+    "n": 69,
+    "w": "Exactly",
+    "h": "बिल्कुल / ठीक",
+    "syns": [
+      "Precisely",
+      "Accurately",
+      "Precisely"
+    ],
+    "exam": "STENO 13 October, 2023"
+  },
+  {
+    "n": 70,
+    "w": "Exaggeration",
+    "h": "अतिशयोक्ति",
+    "syns": [
+      "Amplification",
+      "Overstatement",
+      "Hyperbole"
+    ],
+    "exam": "STENO 18 November, 2022"
+  },
+  {
+    "n": 71,
+    "w": "Emblem",
+    "h": "प्रतीक / चिह्न",
+    "syns": [
+      "Symbol",
+      "Badge",
+      "Insignia"
+    ],
+    "exam": "STENO 11 November, 2021"
+  },
+  {
+    "n": 72,
+    "w": "Extract",
+    "h": "निकालना / अर्क",
+    "syns": [
+      "Withdraw",
+      "Remove",
+      "Derive"
+    ],
+    "exam": "STENO 12 November, 2021"
+  },
+  {
+    "n": 73,
+    "w": "Enthusiasm",
+    "h": "उत्साह / जोश",
+    "syns": [
+      "Zeal",
+      "Passion",
+      "Fervor"
+    ],
+    "exam": "STENO 22 December, 2020"
+  },
+  {
+    "n": 74,
+    "w": "Eminent",
+    "h": "प्रतिष्ठित / प्रसिद्ध",
+    "syns": [
+      "Renowned",
+      "Famous",
+      "Distinguished"
+    ],
+    "exam": "STENO 24 December, 2020"
+  },
+  {
+    "n": 75,
+    "w": "Erroneous",
+    "h": "गलत / त्रुटिपूर्ण",
+    "syns": [
+      "Inaccurate",
+      "Incorrect",
+      "Wrong"
+    ],
+    "exam": "STENO 24 December, 2020"
+  },
+  {
+    "n": 76,
+    "w": "Evaluate",
+    "h": "मूल्यांकन करना",
+    "syns": [
+      "Assess",
+      "Judge",
+      "Appraise"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 77,
+    "w": "Edible",
+    "h": "खाने योग्य",
+    "syns": [
+      "Nutritive",
+      "Consumable",
+      "Safe to eat"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 78,
+    "w": "Eloquent",
+    "h": "वाक्पटु / प्रभावशाली वक्ता",
+    "syns": [
+      "Articulate",
+      "Expressive",
+      "Persuasive"
+    ],
+    "exam": "CGL 2024 / MTS 2024 / KVS PRT 28-02-2023"
+  },
+  {
+    "n": 79,
+    "w": "Exceptional",
+    "h": "असाधारण / अनोखा",
+    "syns": [
+      "Outstanding",
+      "Extraordinary",
+      "Remarkable"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 80,
+    "w": "Evoke",
+    "h": "जगाना / उत्पन्न करना",
+    "syns": [
+      "Induce",
+      "Trigger",
+      "Stimulate"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 81,
+    "w": "Evasive",
+    "h": "टालमटोल करने वाला",
+    "syns": [
+      "Ambiguous",
+      "Elusive",
+      "Dodgy"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 82,
+    "w": "Energy",
+    "h": "ऊर्जा / शक्ति",
+    "syns": [
+      "Power",
+      "Vitality",
+      "Vigor"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 83,
+    "w": "Excitement",
+    "h": "उत्तेजना / रोमांच",
+    "syns": [
+      "Enthusiasm",
+      "Thrill",
+      "Stimulation"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 84,
+    "w": "Excessive",
+    "h": "अत्यधिक / बहुत ज़्यादा",
+    "syns": [
+      "Exorbitant",
+      "Extreme",
+      "Extravagant"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 85,
+    "w": "Exquisite",
+    "h": "अत्यंत सुंदर / बेहतरीन",
+    "syns": [
+      "Beautiful",
+      "Magnificent",
+      "Superb"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 86,
+    "w": "Epitome",
+    "h": "आदर्श उदाहरण / प्रतीक",
+    "syns": [
+      "Example",
+      "Model",
+      "Embodiment"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 87,
+    "w": "Emancipation",
+    "h": "मुक्ति / स्वतंत्रता",
+    "syns": [
+      "Freedom",
+      "Liberation",
+      "Release"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 88,
+    "w": "Exemplary",
+    "h": "अनुकरणीय / आदर्श",
+    "syns": [
+      "Excellent",
+      "Model",
+      "Commendable"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 89,
+    "w": "Entangle",
+    "h": "उलझाना / फँसाना",
+    "syns": [
+      "Trap",
+      "Snare",
+      "Enmesh"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 90,
+    "w": "Extrinsic",
+    "h": "बाहरी / अप्रासंगिक",
+    "syns": [
+      "Outward",
+      "External",
+      "Outside"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 91,
+    "w": "Ephemeral",
+    "h": "क्षणिक / अल्पकालीन",
+    "syns": [
+      "Transient",
+      "Short-lived",
+      "Fleeting"
+    ],
+    "exam": "MTS 2024 / CGL 2025"
+  },
+  {
+    "n": 92,
+    "w": "Evanescent",
+    "h": "क्षणभंगुर / नश्वर",
+    "syns": [
+      "Fleeting",
+      "Momentary",
+      "Brief"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 93,
+    "w": "Entail",
+    "h": "शामिल करना / आवश्यक बनाना",
+    "syns": [
+      "Necessitate",
+      "Involve",
+      "Require"
+    ],
+    "exam": "CPO 2024"
+  },
+  {
+    "n": 94,
+    "w": "Envoy",
+    "h": "दूत / राजदूत",
+    "syns": [
+      "Ambassador",
+      "Diplomat",
+      "Representative"
+    ],
+    "exam": "SELECTION POST 2024"
+  },
+  {
+    "n": 95,
+    "w": "Embezzlement",
+    "h": "गबन / हेराफेरी",
+    "syns": [
+      "Misappropriation",
+      "Fraud",
+      "Theft"
+    ],
+    "exam": "SELECTION POST 2024"
+  },
+  {
+    "n": 96,
+    "w": "Enrage",
+    "h": "क्रोधित करना",
+    "syns": [
+      "Infuriate",
+      "Infuriate",
+      "Provoke"
+    ],
+    "exam": "STENO-2024"
+  },
+  {
+    "n": 97,
+    "w": "Exiguous",
+    "h": "बहुत कम / नगण्य",
+    "syns": [
+      "Scanty",
+      "Meager",
+      "Sparse"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 98,
+    "w": "Eulogy",
+    "h": "प्रशंसा / शोकगीत",
+    "syns": [
+      "Tribute",
+      "Commendation",
+      "Praise"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 99,
+    "w": "Ebullient",
+    "h": "उत्साही / जोशीला",
+    "syns": [
+      "Enthusiastic",
+      "Lively",
+      "Vivacious"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 100,
+    "w": "Exhilaration",
+    "h": "उत्तेजना / आनंद",
+    "syns": [
+      "Excitement",
+      "Delight",
+      "Thrill"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 101,
+    "w": "Elixir",
+    "h": "अमृत / जादुई औषधि",
+    "syns": [
+      "Potion",
+      "Cure",
+      "Remedy"
+    ],
+    "exam": "DP HCM 10 JAN 2026"
+  },
+  {
+    "n": 102,
+    "w": "Exacerbated",
+    "h": "बढ़ाया / तेज किया",
+    "syns": [
+      "Aggravated",
+      "Worsened",
+      "Intensified"
+    ],
+    "exam": "DP HCM 9 JAN 2026"
+  },
+  {
+    "n": 103,
+    "w": "Enigma",
+    "h": "पहेली / रहस्य",
+    "syns": [
+      "Mystery",
+      "Puzzle",
+      "Riddle"
+    ],
+    "exam": "KVS PRT 21-02-2023"
+  },
+  {
+    "n": 104,
+    "w": "Earnest",
+    "h": "ईमानदार / गंभीर",
+    "syns": [
+      "Serious",
+      "Sincere",
+      "Dedicated"
+    ],
+    "exam": "KVS PRT 25-02-2023"
+  },
+  {
+    "n": 105,
+    "w": "Endowment",
+    "h": "दान / निधि",
+    "syns": [
+      "Funding",
+      "Grant",
+      "Scholarship"
+    ],
+    "exam": "DSSSB PRT 26/03/2022"
+  },
+  {
+    "n": 106,
+    "w": "Engaging",
+    "h": "आकर्षक / दिलचस्प",
+    "syns": [
+      "Appealing",
+      "Interesting",
+      "Charming"
+    ],
+    "exam": "CDS 2 2018 / MTS 2024"
+  },
+  {
+    "n": 107,
+    "w": "Extradition",
+    "h": "प्रत्यर्पण",
+    "syns": [
+      "Deportation",
+      "Surrender",
+      "Handover"
+    ],
+    "exam": "CDS 2 2018"
+  },
+  {
+    "n": 108,
+    "w": "Eavesdropping",
+    "h": "चुपके से सुनना",
+    "syns": [
+      "Listening Secretly",
+      "Snooping",
+      "Spying"
+    ],
+    "exam": "CDS 1 2023"
+  },
+  {
+    "n": 109,
+    "w": "Effrontery",
+    "h": "धृष्टता / बेशर्मी",
+    "syns": [
+      "Impudence",
+      "Audacity",
+      "Insolence"
+    ],
+    "exam": "CDS 2 2015"
+  },
+  {
+    "n": 110,
+    "w": "Emancipate",
+    "h": "मुक्त करना / आज़ाद करना",
+    "syns": [
+      "Liberate",
+      "Free",
+      "Release"
+    ],
+    "exam": "CDS 1 2015"
+  },
+  {
+    "n": 111,
+    "w": "Exhaustive",
+    "h": "सम्पूर्ण / विस्तृत",
+    "syns": [
+      "Thorough",
+      "Complete",
+      "Comprehensive"
+    ],
+    "exam": "CDS 2 2015"
+  },
+  {
+    "n": 112,
+    "w": "Exhorted",
+    "h": "प्रेरित किया / उत्साहित किया",
+    "syns": [
+      "Urged",
+      "Encouraged",
+      "Motivated"
+    ],
+    "exam": "CDS 1 2023"
+  },
+  {
+    "n": 113,
+    "w": "Exhilarating",
+    "h": "रोमांचक / उत्साहजनक",
+    "syns": [
+      "Exciting",
+      "Stimulating",
+      "Invigorating"
+    ],
+    "exam": "NDA 1 2023"
+  },
+  {
+    "n": 114,
+    "w": "Ecstatic",
+    "h": "परम आनंदित / उत्साहित",
+    "syns": [
+      "Rapturous",
+      "Overjoyed",
+      "Euphoric"
+    ],
+    "exam": "NDA 2 2019 / MTS 2024"
+  },
+  {
+    "n": 115,
+    "w": "Enamoured",
+    "h": "आकर्षित / प्रेमी",
+    "syns": [
+      "Fond",
+      "Captivated",
+      "Charmed"
+    ],
+    "exam": "NDA 2 2016"
+  },
+  {
+    "n": 116,
+    "w": "Equanimity",
+    "h": "समभाव / धैर्य",
+    "syns": [
+      "Patiently",
+      "Composure",
+      "Calmness"
+    ],
+    "exam": "NDA 1 2020"
+  },
+  {
+    "n": 117,
+    "w": "Exhausted",
+    "h": "थका हुआ / चुका हुआ",
+    "syns": [
+      "Tired",
+      "Weary",
+      "Drained"
+    ],
+    "exam": "NDA 2 2017"
+  },
+  {
+    "n": 118,
+    "w": "Elusive",
+    "h": "मायावी / पकड़ में न आने वाला",
+    "syns": [
+      "Baffling",
+      "Hard to catch",
+      "Slippery"
+    ],
+    "exam": "NDA 2 2024"
+  },
+  {
+    "n": 119,
+    "w": "Excommunicate",
+    "h": "बहिष्कार करना",
+    "syns": [
+      "Expel",
+      "Banish",
+      "Exclude"
+    ],
+    "exam": "NDA 2 2022"
+  },
+  {
+    "n": 120,
+    "w": "Exhume",
+    "h": "खोदकर निकालना",
+    "syns": [
+      "Dig",
+      "Unearth",
+      "Dig up"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 121,
+    "w": "Exorcist",
+    "h": "भूत भगाने वाला",
+    "syns": [
+      "Priest",
+      "Exorciser",
+      "Shaman"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 122,
+    "w": "Elevate",
+    "h": "ऊपर उठाना / पदोन्नति",
+    "syns": [
+      "Raise",
+      "Promote",
+      "Lift"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 123,
+    "w": "Echelon",
+    "h": "स्तर / श्रेणी",
+    "syns": [
+      "Level",
+      "Rank",
+      "Tier"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 124,
+    "w": "Ensconce",
+    "h": "सुरक्षित रूप से बसना",
+    "syns": [
+      "Settle",
+      "Establish",
+      "Install"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 125,
+    "w": "Euphoria",
+    "h": "अत्यधिक आनंद / उत्साह",
+    "syns": [
+      "Joy",
+      "Elation",
+      "Ecstasy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 126,
+    "w": "Esoteric",
+    "h": "गूढ़ / रहस्यमय",
+    "syns": [
+      "Secret",
+      "Mysterious",
+      "Hidden"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 127,
+    "w": "Enigma",
+    "h": "पहेली / रहस्य",
+    "syns": [
+      "Mystery",
+      "Mystery",
+      "Puzzle"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 128,
+    "w": "Erratic",
+    "h": "अनियमित / अस्थिर",
+    "syns": [
+      "Irregular",
+      "Unpredictable",
+      "Inconsistent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 129,
+    "w": "Etiquette",
+    "h": "शिष्टाचार / सभ्यता",
+    "syns": [
+      "Manners",
+      "Protocol",
+      "Decorum"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 130,
+    "w": "Elite",
+    "h": "श्रेष्ठ / विशिष्ट",
+    "syns": [
+      "Superior",
+      "Superior",
+      "Select"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 131,
+    "w": "Escapade",
+    "h": "साहसिक कारनामा",
+    "syns": [
+      "Adventure",
+      "Exploit",
+      "Stunt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 132,
+    "w": "Expedite",
+    "h": "शीघ्र करना / गति देना",
+    "syns": [
+      "Hasten",
+      "Speed up",
+      "Accelerate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 133,
+    "w": "Enjoin",
+    "h": "आदेश देना / निर्देश देना",
+    "syns": [
+      "Command",
+      "Order",
+      "Direct"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 134,
+    "w": "Evince",
+    "h": "प्रकट करना / दिखाना",
+    "syns": [
+      "Display",
+      "Show",
+      "Demonstrate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 135,
+    "w": "Epicure",
+    "h": "भोजनप्रेमी / रसिक",
+    "syns": [
+      "Gourmet",
+      "Food lover",
+      "Connoisseur"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 136,
+    "w": "Exotic",
+    "h": "विदेशी / अनोखा",
+    "syns": [
+      "Foreign",
+      "Unusual",
+      "Alien"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 137,
+    "w": "Exude",
+    "h": "निकलना / रिसना",
+    "syns": [
+      "Emit",
+      "Ooze",
+      "Secrete"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 138,
+    "w": "Effete",
+    "h": "कमज़ोर / थका हुआ",
+    "syns": [
+      "Worn-out",
+      "Feeble",
+      "Frail"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 139,
+    "w": "Egalitarian",
+    "h": "समानतावादी",
+    "syns": [
+      "Equalist",
+      "Equal rights",
+      "Fair"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 140,
+    "w": "Effervescent",
+    "h": "उत्साही / जोशीला",
+    "syns": [
+      "Bubbly",
+      "Animated",
+      "Vivacious"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 141,
+    "w": "Eclat",
+    "h": "शानदार सफलता / प्रतिभा",
+    "syns": [
+      "Applause",
+      "Brilliance",
+      "Glamour"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 142,
+    "w": "Ebb",
+    "h": "घटना / कम होना",
+    "syns": [
+      "Decline",
+      "Decrease",
+      "Fade"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 143,
+    "w": "Exigent",
+    "h": "अत्यावश्यक / जरूरी",
+    "syns": [
+      "Urgent",
+      "Pressing",
+      "Demanding"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 144,
+    "w": "Evolve",
+    "h": "विकसित होना",
+    "syns": [
+      "Develop",
+      "Grow",
+      "Progress"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 145,
+    "w": "Erstwhile",
+    "h": "पूर्व / भूतपूर्व",
+    "syns": [
+      "Former",
+      "Previous",
+      "Old"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 146,
+    "w": "Empathy",
+    "h": "सहानुभूति / समझ",
+    "syns": [
+      "Sympathy",
+      "Compassion",
+      "Understanding"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 147,
+    "w": "Exculpate",
+    "h": "दोषमुक्त करना / बरी करना",
+    "syns": [
+      "Acquit",
+      "Absolve",
+      "Clear"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 148,
+    "w": "Expiate",
+    "h": "प्रायश्चित करना",
+    "syns": [
+      "Atone",
+      "Make amends",
+      "Compensate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 149,
+    "w": "Embellish",
+    "h": "सजाना / अलंकृत करना",
+    "syns": [
+      "Decorate",
+      "Adorn",
+      "Beautify"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 150,
+    "w": "Egregious",
+    "h": "अत्यंत बुरा / घोर",
+    "syns": [
+      "Excellent",
+      "Outrageous",
+      "Flagrant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 151,
+    "w": "Exodus",
+    "h": "बड़े पैमाने पर पलायन",
+    "syns": [
+      "Migration",
+      "Departure",
+      "Emigration"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 152,
+    "w": "Errant",
+    "h": "भटकने वाला / अनुचित",
+    "syns": [
+      "Wandering",
+      "Straying",
+      "Deviating"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 153,
+    "w": "Engross",
+    "h": "तल्लीन करना / व्यस्त करना",
+    "syns": [
+      "Absorb",
+      "Immerse",
+      "Captivate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 154,
+    "w": "Enormity",
+    "h": "घोर पाप / अत्यंत बुराई",
+    "syns": [
+      "Wickedness",
+      "Atrocity",
+      "Evil"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 155,
+    "w": "Extant",
+    "h": "अभी भी विद्यमान",
+    "syns": [
+      "Existing",
+      "Living",
+      "Surviving"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 156,
+    "w": "Ecstasy",
+    "h": "परम आनंद",
+    "syns": [
+      "Delight",
+      "Bliss",
+      "Rapture"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 157,
+    "w": "Effigy",
+    "h": "पुतला / मूर्ति",
+    "syns": [
+      "Statue",
+      "Likeness",
+      "Dummy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 158,
+    "w": "Exorbitant",
+    "h": "अत्यधिक / बहुत महँगा",
+    "syns": [
+      "Excessive",
+      "Extravagant",
+      "Exorbitant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 159,
+    "w": "Embezzlement",
+    "h": "गबन",
+    "syns": [
+      "Fraud",
+      "Misappropriation",
+      "Theft"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 160,
+    "w": "Emanate",
+    "h": "उत्पन्न होना / निकलना",
+    "syns": [
+      "Originate",
+      "Arise",
+      "Flow"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 161,
+    "w": "Enamoured",
+    "h": "आकर्षित / मोहित",
+    "syns": [
+      "Attracted",
+      "Infatuated",
+      "Smitten"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 162,
+    "w": "Exonerate",
+    "h": "बरी करना / दोषमुक्त करना",
+    "syns": [
+      "Acquit",
+      "Absolve",
+      "Vindicate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 163,
+    "w": "Expunge",
+    "h": "मिटाना / हटाना",
+    "syns": [
+      "Delete",
+      "Erase",
+      "Remove"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 164,
+    "w": "Emulate",
+    "h": "अनुकरण करना",
+    "syns": [
+      "Imitate",
+      "Mimic",
+      "Copy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 165,
+    "w": "Enhance",
+    "h": "बढ़ाना / सुधारना",
+    "syns": [
+      "Improve",
+      "Upgrade",
+      "Boost"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 166,
+    "w": "Estranged",
+    "h": "दूर / अलग किया हुआ",
+    "syns": [
+      "Separated",
+      "Alienated",
+      "Disconnected"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 167,
+    "w": "Expediency",
+    "h": "सुविधा / उपयुक्तता",
+    "syns": [
+      "Advisable",
+      "Practicality",
+      "Convenience"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 168,
+    "w": "Extraneous",
+    "h": "असंगत / अप्रासंगिक",
+    "syns": [
+      "External",
+      "Irrelevant",
+      "Unrelated"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 169,
+    "w": "Extort",
+    "h": "जबरदस्ती लेना / वसूलना",
+    "syns": [
+      "Demand",
+      "Squeeze",
+      "Coerce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 170,
+    "w": "Evasive",
+    "h": "टालने वाला / चकमा देने वाला",
+    "syns": [
+      "Avoiding",
+      "Elusive",
+      "Non-committal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 171,
+    "w": "Ennui",
+    "h": "ऊब / उदासी",
+    "syns": [
+      "Boredom",
+      "Tedium",
+      "Listlessness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 172,
+    "w": "Encomium",
+    "h": "प्रशंसा / तारीफ",
+    "syns": [
+      "Praise",
+      "Tribute",
+      "Accolade"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 173,
+    "w": "Erode",
+    "h": "क्षरण करना / घिसना",
+    "syns": [
+      "Decay",
+      "Wear away",
+      "Corrode"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 174,
+    "w": "Eschew",
+    "h": "परहेज करना / टालना",
+    "syns": [
+      "Avoid",
+      "Shun",
+      "Abstain"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 175,
+    "w": "Epoch",
+    "h": "युग / काल",
+    "syns": [
+      "Era",
+      "Period",
+      "Age"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 176,
+    "w": "Endemic",
+    "h": "किसी क्षेत्र विशेष में पाया जाने वाला",
+    "syns": [
+      "Common",
+      "Native",
+      "Local"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 177,
+    "w": "Equitable",
+    "h": "न्यायसंगत / उचित",
+    "syns": [
+      "Fair",
+      "Just",
+      "Impartial"
+    ],
+    "exam": "CUET 2022"
+  },
+  {
+    "n": 178,
+    "w": "Exciting",
+    "h": "रोमांचक",
+    "syns": [
+      "Thrilling",
+      "Stimulating",
+      "Exhilarating"
+    ],
+    "exam": "CUET 2022"
+  },
+  {
+    "n": 179,
+    "w": "Embolden",
+    "h": "साहसी बनाना / प्रोत्साहित करना",
+    "syns": [
+      "Encourage",
+      "Inspire",
+      "Motivate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 180,
+    "w": "Ethereal",
+    "h": "अलौकिक / स्वर्गीय",
+    "syns": [
+      "Delicate",
+      "Airy",
+      "Celestial"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 181,
+    "w": "Euphonious",
+    "h": "मधुर / सुरीला",
+    "syns": [
+      "Melodious",
+      "Pleasant-sounding",
+      "Sweet"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 182,
+    "w": "Exalt",
+    "h": "महिमामंडित करना / ऊँचा उठाना",
+    "syns": [
+      "Praise",
+      "Honor",
+      "Elevate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 183,
+    "w": "Extricate",
+    "h": "मुक्त करना / छुड़ाना",
+    "syns": [
+      "Liberate",
+      "Rescue",
+      "Free"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 184,
+    "w": "Expectation",
+    "h": "उम्मीद / अपेक्षा",
+    "syns": [
+      "Hope",
+      "Anticipation",
+      "Prospect"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 185,
+    "w": "Edify",
+    "h": "शिक्षित करना / सुधारना",
+    "syns": [
+      "Instruct",
+      "Enlighten",
+      "Educate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 186,
+    "w": "Effluvium",
+    "h": "दुर्गंध / बदबू",
+    "syns": [
+      "Stench",
+      "Bad smell",
+      "Odor"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 187,
+    "w": "Emasculate",
+    "h": "कमज़ोर करना / शक्तिहीन करना",
+    "syns": [
+      "Weaken",
+      "Enfeeble",
+      "Debilitate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 188,
+    "w": "Emaciate",
+    "h": "दुबला करना / सुखाना",
+    "syns": [
+      "Waste",
+      "Thin",
+      "Make lean"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 189,
+    "w": "Embargo",
+    "h": "प्रतिबंध / रोक",
+    "syns": [
+      "Ban",
+      "Trade restriction",
+      "Blockade"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 190,
+    "w": "Embroil",
+    "h": "उलझाना / झगड़े में डालना",
+    "syns": [
+      "Entangle",
+      "Involve",
+      "Implicate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 191,
+    "w": "Emeritus",
+    "h": "सेवानिवृत्त / मानद",
+    "syns": [
+      "Retired",
+      "Honorary",
+      "Senior"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 192,
+    "w": "Encumbrance",
+    "h": "बोझ / बाधा",
+    "syns": [
+      "Burden",
+      "Obstacle",
+      "Hindrance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 193,
+    "w": "Endeavour",
+    "h": "प्रयास / कोशिश",
+    "syns": [
+      "Attempt",
+      "Try",
+      "Effort"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 194,
+    "w": "Engender",
+    "h": "उत्पन्न करना / जन्म देना",
+    "syns": [
+      "Generate",
+      "Cause",
+      "Produce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 195,
+    "w": "Entrain",
+    "h": "बोर्ड करना / साथ लेना",
+    "syns": [
+      "Board",
+      "Board",
+      "Join"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 196,
+    "w": "Errand",
+    "h": "काम / संदेश",
+    "syns": [
+      "Mission",
+      "Task",
+      "Job"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 197,
+    "w": "Erratum",
+    "h": "त्रुटि / गलती",
+    "syns": [
+      "Mistake",
+      "Error",
+      "Typo"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 198,
+    "w": "Ersatz",
+    "h": "नकली / कृत्रिम",
+    "syns": [
+      "Artificial",
+      "Fake",
+      "Substitute"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 199,
+    "w": "Espionage",
+    "h": "जासूसी",
+    "syns": [
+      "Spying",
+      "Intelligence gathering",
+      "Surveillance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 200,
+    "w": "Eulogize",
+    "h": "प्रशंसा करना",
+    "syns": [
+      "Praise",
+      "Glorify",
+      "Laud"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 201,
+    "w": "Exaction",
+    "h": "जबरन वसूली / माँग",
+    "syns": [
+      "Demand",
+      "Levy",
+      "Extortion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 202,
+    "w": "Execrable",
+    "h": "घृणित / अत्यंत बुरा",
+    "syns": [
+      "Horrible",
+      "Abominable",
+      "Wretched"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 203,
+    "w": "Excogitate",
+    "h": "सोचना / योजना बनाना",
+    "syns": [
+      "Devise",
+      "Invent",
+      "Think up"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 204,
+    "w": "Embrace",
+    "h": "गले लगाना / अपनाना",
+    "syns": [
+      "Hug",
+      "Accept",
+      "Cuddle"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 205,
+    "w": "Enact",
+    "h": "लागू करना / नाटक करना",
+    "syns": [
+      "Establish",
+      "Pass",
+      "Implement"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 206,
+    "w": "Engendered",
+    "h": "उत्पन्न किया",
+    "syns": [
+      "Produced",
+      "Created",
+      "Generated"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 207,
+    "w": "Escalation",
+    "h": "वृद्धि / बढ़ोतरी",
+    "syns": [
+      "Increase",
+      "Rise",
+      "Growth"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 208,
+    "w": "Ethnic",
+    "h": "जातीय / नस्लीय",
+    "syns": [
+      "Racial",
+      "Cultural",
+      "Community-based"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 209,
+    "w": "Exclusion",
+    "h": "बहिष्कार / बाहर करना",
+    "syns": [
+      "Omission",
+      "Elimination",
+      "Expulsion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 210,
+    "w": "Exile",
+    "h": "निर्वासन / देश निकाला",
+    "syns": [
+      "Expel",
+      "Banishment",
+      "Expulsion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 211,
+    "w": "Expose",
+    "h": "उजागर करना / प्रकट करना",
+    "syns": [
+      "Publish",
+      "Reveal",
+      "Disclose"
+    ],
+    "exam": ""
+  }
+]
