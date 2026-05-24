@@ -390,27 +390,123 @@ footer strong {
    A TO Z FILTER
 ========================= */
 
+/* =========================
+   A-Z FILTER BAR
+========================= */
+
 .alphabet-filter {
+  position: sticky;
+
+  top: 0;
+
+  z-index: 999;
+
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  padding: 18px 24px;
-  justify-content: center;
-  background: var(--surface);
+
+  gap: 12px;
+
+  overflow-x: auto;
+
+  overflow-y: hidden;
+
+  flex-wrap: nowrap;
+
+  padding: 14px 18px;
+
+  background: rgba(10, 10, 15, 0.92);
+
+  backdrop-filter: blur(14px);
+
   border-bottom: 1px solid var(--border);
+
+  scroll-behavior: smooth;
+
+  -webkit-overflow-scrolling: touch;
+}
+
+/* HIDE SCROLLBAR */
+
+.alphabet-filter::-webkit-scrollbar {
+  height: 5px;
+}
+
+.alphabet-filter::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.alphabet-filter::-webkit-scrollbar-thumb {
+  background: rgba(240, 180, 41, 0.2);
+  border-radius: 999px;
 }
 
 .alphabet-btn {
-  width: 42px;
+  min-width: 72px;
   height: 42px;
-  border-radius: 10px;
+  padding: 0 14px;
+  border-radius: 999px;
   border: 1px solid var(--border);
-  background: var(--card);
+  background: rgba(255, 255, 255, 0.02);
   color: var(--muted);
   cursor: pointer;
-  font-weight: 700;
-  font-size: 14px;
+  flex-shrink: 0;
   transition: all 0.25s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+/* LETTER */
+
+.letter-name {
+  font-size: 15px;
+  font-weight: 800;
+  color: inherit;
+  line-height: 1;
+}
+
+/* COUNT */
+
+.letter-count {
+  font-size: 11px;
+  opacity: 0.8;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.06);
+  /* padding: 2px 6px; */
+  border-radius: 999px;
+  line-height: 1;
+}
+
+/* HOVER */
+
+.alphabet-btn:hover {
+  transform: translateY(-2px);
+  border-color: rgba(240, 180, 41, 0.4);
+  color: var(--gold);
+}
+
+/* ACTIVE */
+
+.alphabet-btn.active {
+  background: linear-gradient(
+    135deg,
+    rgba(240, 180, 41, 0.18),
+    rgba(240, 180, 41, 0.08)
+  );
+
+  border-color: var(--gold);
+
+  color: var(--gold);
+
+  box-shadow:
+    0 0 0 1px rgba(240, 180, 41, 0.15),
+    0 8px 24px rgba(240, 180, 41, 0.1);
+}
+
+.alphabet-btn.active .letter-count {
+  background: rgba(240, 180, 41, 0.16);
+
+  color: var(--gold);
 }
 
 .alphabet-btn:hover {
@@ -429,16 +525,19 @@ footer strong {
 /* MOBILE RESPONSIVE */
 
 @media (max-width: 768px) {
-  .alphabet-filter {
-    justify-content: center;
-    gap: 8px;
-    padding: 14px 12px;
+  .alphabet-btn {
+    min-width: 64px;
+    height: 38px;
+    padding: 0 12px;
+    gap: 6px;
   }
 
-  .alphabet-btn {
-    width: 38px;
-    height: 38px;
-    font-size: 13px;
+  .letter-name {
+    font-size: 14px;
+  }
+
+  .letter-count {
+    font-size: 10px;
   }
 }
 
@@ -573,5 +672,163 @@ footer strong {
   .collapse-btn {
     width: 34px;
     height: 34px;
+  }
+}
+
+/* =========================
+   POSITION
+========================= */
+
+.pos-inline {
+  color: var(--cyan);
+  font-size: 13px;
+  font-weight: 600;
+  margin-left: 6px;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+/* =========================
+   CARD ACTIONS
+========================= */
+
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* =========================
+   BOOKMARK BUTTON
+========================= */
+
+.bookmark-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: rgba(56, 189, 248, 0.08);
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.25s ease;
+  font-size: 16px;
+}
+
+.bookmark-btn:hover {
+  border-color: var(--cyan);
+  color: var(--cyan);
+}
+
+.bookmark-btn.active {
+  color: var(--gold);
+  border-color: var(--gold);
+  background: rgba(240, 180, 41, 0.12);
+}
+
+/* =========================
+   PRONUNCIATION
+========================= */
+
+.pronunciation-block {
+  background: rgba(56, 189, 248, 0.08);
+  border-left: 3px solid var(--cyan);
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+}
+
+.pronunciation-text {
+  color: var(--cyan);
+  font-size: 16px;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+/* =========================
+   EXAMPLE
+========================= */
+
+.example-block {
+  background: rgba(167, 139, 250, 0.08);
+  border-left: 3px solid var(--purple);
+  padding: 12px 14px;
+  border-radius: 0 8px 8px 0;
+}
+
+.example-text {
+  color: #ddd;
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+/* =========================
+   EXAM SOURCE
+========================= */
+
+.exam-section {
+  margin-top: 4px;
+}
+
+.exam-source {
+  display: inline-block;
+  background: rgba(240, 180, 41, 0.08);
+  border: 1px solid rgba(240, 180, 41, 0.25);
+  color: var(--gold);
+  padding: 7px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 768px) {
+  .bookmark-btn,
+  .collapse-btn {
+    width: 34px;
+    height: 34px;
+  }
+
+  .pronunciation-text {
+    font-size: 14px;
+  }
+
+  .example-text {
+    font-size: 14px;
+  }
+}
+
+/* =========================
+   SEARCH HIGHLIGHT
+========================= */
+
+.search-highlight {
+  border-color: var(--gold) !important;
+
+  box-shadow:
+    0 0 0 1px rgba(240, 180, 41, 0.25),
+    0 0 30px rgba(240, 180, 41, 0.18);
+
+  animation: searchPulse 2s ease;
+}
+
+@keyframes searchPulse {
+  0% {
+    transform: scale(1);
+  }
+
+  25% {
+    transform: scale(1.015);
+  }
+
+  50% {
+    transform: scale(1);
+  }
+
+  75% {
+    transform: scale(1.01);
+  }
+
+  100% {
+    transform: scale(1);
   }
 }
