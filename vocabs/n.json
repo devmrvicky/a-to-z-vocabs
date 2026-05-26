@@ -1,0 +1,651 @@
+[
+  {
+    "n": 1,
+    "w": "Nefarious",
+    "h": "दुष्ट / बुरा",
+    "syns": [
+      "Wicked",
+      "Evil",
+      "Villainous"
+    ],
+    "exam": "CGL 14 July, 2023 / CHSL 8 Aug, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Nostalgia",
+    "h": "पुरानी यादों की चाहत",
+    "syns": [
+      "Longing",
+      "Nostalgia",
+      "Yearning"
+    ],
+    "exam": "CGL 19 July, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Notorious",
+    "h": "कुख्यात / बदनाम",
+    "syns": [
+      "Infamous",
+      "Disreputable",
+      "Scandalous"
+    ],
+    "exam": "CGL 27 July, 2023 / SSC GD 2023"
+  },
+  {
+    "n": 4,
+    "w": "Nuisance",
+    "h": "उपद्रव / झंझट",
+    "syns": [
+      "Annoyance",
+      "Bother",
+      "Trouble"
+    ],
+    "exam": "CGL 8 December, 2022"
+  },
+  {
+    "n": 5,
+    "w": "Novice",
+    "h": "नौसिखिया / अनुभवहीन",
+    "syns": [
+      "Beginner",
+      "Beginner",
+      "Newcomer"
+    ],
+    "exam": "CGL 18 August, 2021"
+  },
+  {
+    "n": 6,
+    "w": "Negligent",
+    "h": "लापरवाह / असावधान",
+    "syns": [
+      "Careless",
+      "Negligent",
+      "Heedless"
+    ],
+    "exam": "CHSL 3 August, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Naive",
+    "h": "भोला / सरल",
+    "syns": [
+      "Simple",
+      "Innocent",
+      "Credulous"
+    ],
+    "exam": "CHSL 8 Aug, 2023 / MTS 6 Sep, 2023 / CPO 2023"
+  },
+  {
+    "n": 8,
+    "w": "Nonchalant",
+    "h": "बेपरवाह / उदासीन",
+    "syns": [
+      "Indifferent",
+      "Carefree",
+      "Cool"
+    ],
+    "exam": "CHSL 9 March, 2023"
+  },
+  {
+    "n": 9,
+    "w": "Negate",
+    "h": "नकारना / खंडन करना",
+    "syns": [
+      "Deny",
+      "Contradict",
+      "Nullify"
+    ],
+    "exam": "CHSL 14 March, 2023"
+  },
+  {
+    "n": 10,
+    "w": "Notable",
+    "h": "उल्लेखनीय / प्रसिद्ध",
+    "syns": [
+      "Distinguished",
+      "Remarkable",
+      "Prominent"
+    ],
+    "exam": "CHSL 21 March, 2023 / CGL 2024"
+  },
+  {
+    "n": 11,
+    "w": "Nemesis",
+    "h": "दुश्मन / प्रतिशोध",
+    "syns": [
+      "Downfall",
+      "Fate",
+      "Ruin"
+    ],
+    "exam": "CHSL 10 June, 2022"
+  },
+  {
+    "n": 12,
+    "w": "Nurture",
+    "h": "पोषण करना / पालन करना",
+    "syns": [
+      "Nourish",
+      "Foster",
+      "Cultivate"
+    ],
+    "exam": "MTS 2 May, 2023 / CPO 11 Nov, 2022"
+  },
+  {
+    "n": 13,
+    "w": "Negligence",
+    "h": "लापरवाही / उपेक्षा",
+    "syns": [
+      "Carelessness",
+      "Neglect",
+      "Inattention"
+    ],
+    "exam": "MTS 19 May, 2023"
+  },
+  {
+    "n": 14,
+    "w": "Nifty",
+    "h": "चतुर / कुशल",
+    "syns": [
+      "Clever",
+      "Skillful",
+      "Smart"
+    ],
+    "exam": "MTS 15 July, 2022"
+  },
+  {
+    "n": 15,
+    "w": "Nonchalance",
+    "h": "बेफिक्री / उदासीनता",
+    "syns": [
+      "Indifference",
+      "Unconcern",
+      "Casualness"
+    ],
+    "exam": "MTS 25 July, 2022"
+  },
+  {
+    "n": 16,
+    "w": "Noble",
+    "h": "कुलीन / शरीफ",
+    "syns": [
+      "Honourable",
+      "Dignified",
+      "Virtuous"
+    ],
+    "exam": "SSC GD 11 Jan, 2023 / MTS 18 Oct, 2021"
+  },
+  {
+    "n": 17,
+    "w": "Needless",
+    "h": "अनावश्यक / फालतू",
+    "syns": [
+      "Unnecessary",
+      "Pointless",
+      "Superfluous"
+    ],
+    "exam": "SSC GD 23 January, 2023"
+  },
+  {
+    "n": 18,
+    "w": "Nourishing",
+    "h": "पोषक / स्वास्थ्यवर्धक",
+    "syns": [
+      "Nutritious",
+      "Wholesome",
+      "Healthy"
+    ],
+    "exam": "SSC GD 1 February, 2023"
+  },
+  {
+    "n": 19,
+    "w": "Noted",
+    "h": "प्रसिद्ध / जाना-माना",
+    "syns": [
+      "Famous",
+      "Well-known",
+      "Celebrated"
+    ],
+    "exam": "SSC GD 3 February, 2023"
+  },
+  {
+    "n": 20,
+    "w": "Naughty",
+    "h": "शरारती / दुष्ट",
+    "syns": [
+      "Mischievous",
+      "Rascal",
+      "Playful"
+    ],
+    "exam": "SSC GD 14 December, 2021"
+  },
+  {
+    "n": 21,
+    "w": "Nasty",
+    "h": "घृणित / बुरा",
+    "syns": [
+      "Disgusting",
+      "Horrible",
+      "Awful"
+    ],
+    "exam": "CPO 9 November, 2022"
+  },
+  {
+    "n": 22,
+    "w": "Numerous",
+    "h": "असंख्य / बहुत",
+    "syns": [
+      "Many",
+      "Plentiful",
+      "Abundant"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 23,
+    "w": "Nebulous",
+    "h": "अस्पष्ट / धुंधला",
+    "syns": [
+      "Vague",
+      "Hazy",
+      "Cloudy"
+    ],
+    "exam": "STENO 17 November, 2022"
+  },
+  {
+    "n": 24,
+    "w": "Noisy",
+    "h": "शोरगुल / कोलाहलपूर्ण",
+    "syns": [
+      "Loud",
+      "Boisterous",
+      "Clamorous"
+    ],
+    "exam": "CGL 2024 / MTS 2024"
+  },
+  {
+    "n": 25,
+    "w": "Nonentity",
+    "h": "नगण्य / महत्वहीन व्यक्ति",
+    "syns": [
+      "Nobody",
+      "Unimportant",
+      "Cipher"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 26,
+    "w": "Nullify",
+    "h": "अमान्य करना / रद्द करना",
+    "syns": [
+      "Cancel",
+      "Annul",
+      "Invalidate"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 27,
+    "w": "Nocturnal",
+    "h": "रात्रिचर / रात्रि संबंधी",
+    "syns": [
+      "Night",
+      "Night-active",
+      "After-dark"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 28,
+    "w": "Numb",
+    "h": "सुन्न / भावशून्य",
+    "syns": [
+      "Paralysed",
+      "Insensible",
+      "Frozen"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 29,
+    "w": "Notion",
+    "h": "विचार / धारणा",
+    "syns": [
+      "Idea",
+      "Concept",
+      "Perception"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 30,
+    "w": "Notwithstanding",
+    "h": "बावजूद / होते हुए भी",
+    "syns": [
+      "Despite",
+      "In spite of",
+      "Nevertheless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 31,
+    "w": "Nourish",
+    "h": "पोषण देना",
+    "syns": [
+      "Sustain",
+      "Feed",
+      "Support"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 32,
+    "w": "Nascent",
+    "h": "उभरता हुआ / नया",
+    "syns": [
+      "New",
+      "Emerging",
+      "Developing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 33,
+    "w": "Narcissism",
+    "h": "आत्म-प्रेम / अहंभाव",
+    "syns": [
+      "Pride",
+      "Vanity",
+      "Egotism"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 34,
+    "w": "Nefarious",
+    "h": "दुर्भावनापूर्ण / अधर्मी",
+    "syns": [
+      "Wicked",
+      "Wicked",
+      "Villainous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 35,
+    "w": "Nemesis",
+    "h": "परिणाम / दंड",
+    "syns": [
+      "Punishment",
+      "Downfall",
+      "Ruin"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 36,
+    "w": "Niggard",
+    "h": "कंजूस",
+    "syns": [
+      "Stingy",
+      "Miser",
+      "Tightwad"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 37,
+    "w": "Nocturnal",
+    "h": "रात का",
+    "syns": [
+      "Night",
+      "Nighttime",
+      "After dark"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 38,
+    "w": "Nonconformist",
+    "h": "रूढ़ि-विरोधी",
+    "syns": [
+      "Rebel",
+      "Dissenter",
+      "Maverick"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 39,
+    "w": "Nonplussed",
+    "h": "हक्का-बक्का",
+    "syns": [
+      "Confused",
+      "Bewildered",
+      "Baffled"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 40,
+    "w": "Noxious",
+    "h": "हानिकारक / विषाक्त",
+    "syns": [
+      "Harmful",
+      "Poisonous",
+      "Toxic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 41,
+    "w": "Nuance",
+    "h": "सूक्ष्म अंतर",
+    "syns": [
+      "Big",
+      "Shade",
+      "Distinction"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 42,
+    "w": "Nullify",
+    "h": "रद्द करना",
+    "syns": [
+      "Cancel",
+      "Revoke",
+      "Invalidate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 43,
+    "w": "Nauseous",
+    "h": "जी मिचलाना",
+    "syns": [
+      "Sick",
+      "Queasy",
+      "Sick"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 44,
+    "w": "Nihilism",
+    "h": "निहिलवाद",
+    "syns": [
+      "Nothingness",
+      "Emptiness",
+      "Rejection"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 45,
+    "w": "Neophyte",
+    "h": "नौसिखिया",
+    "syns": [
+      "Beginner",
+      "Learner",
+      "Newcomer"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 46,
+    "w": "Nincompoop",
+    "h": "मूर्ख",
+    "syns": [
+      "Fool",
+      "Idiot",
+      "Dunce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 47,
+    "w": "Nitpick",
+    "h": "बारीकी से आलोचना करना",
+    "syns": [
+      "Criticize",
+      "Find fault",
+      "Quibble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 48,
+    "w": "Negatory",
+    "h": "नकारात्मक",
+    "syns": [
+      "Consent",
+      "Refusing",
+      "Denying"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 49,
+    "w": "Nonpareil",
+    "h": "अतुलनीय / अनोखा",
+    "syns": [
+      "Unique",
+      "Unrivaled",
+      "Matchless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 50,
+    "w": "Nomadic",
+    "h": "घुमक्कड़ / यायावर",
+    "syns": [
+      "Wandering",
+      "Traveling",
+      "Itinerant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 51,
+    "w": "Negatory",
+    "h": "इनकार करने वाला",
+    "syns": [
+      "Denial",
+      "Negative",
+      "Denying"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 52,
+    "w": "Nonpareil",
+    "h": "अद्वितीय",
+    "syns": [
+      "Unique",
+      "Peerless",
+      "Matchless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 53,
+    "w": "Nudity",
+    "h": "नग्नता",
+    "syns": [
+      "Nakedness",
+      "Bareness",
+      "Exposure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 54,
+    "w": "Nurturer",
+    "h": "देखभाल करने वाला",
+    "syns": [
+      "Caregiver",
+      "Carer",
+      "Protector"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 55,
+    "w": "Nausea",
+    "h": "मतली / जी मिचलाना",
+    "syns": [
+      "Sickness",
+      "Queasiness",
+      "Vomiting urge"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 56,
+    "w": "Nomadic",
+    "h": "प्रवासी",
+    "syns": [
+      "Wandering",
+      "Roaming",
+      "Unsettled"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 57,
+    "w": "Nurture",
+    "h": "लालन-पालन",
+    "syns": [
+      "Encourage",
+      "Raise",
+      "Foster"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 58,
+    "w": "Niggardly",
+    "h": "कंजूस / कृपण",
+    "syns": [
+      "Miserly",
+      "Stingy",
+      "Mean"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 59,
+    "w": "Nitty gritty",
+    "h": "मूल बात / सार",
+    "syns": [
+      "Essentials",
+      "Core details",
+      "Main points"
+    ],
+    "exam": ""
+  }
+]

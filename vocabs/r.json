@@ -1,0 +1,1806 @@
+[
+  {
+    "n": 1,
+    "w": "Ready",
+    "h": "तैयार",
+    "syns": [
+      "Prepared",
+      "Set",
+      "Organized"
+    ],
+    "exam": "CGL 14 July, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Respectful",
+    "h": "आदरपूर्ण",
+    "syns": [
+      "Admiring",
+      "Reverential",
+      "Deferential"
+    ],
+    "exam": "CGL 18 July, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Ravaged",
+    "h": "तबाह / नष्ट",
+    "syns": [
+      "Ruined",
+      "Destroyed",
+      "Devastated"
+    ],
+    "exam": "CGL 18 July, 2023"
+  },
+  {
+    "n": 4,
+    "w": "Reproduce",
+    "h": "पुनः उत्पन्न करना",
+    "syns": [
+      "Replicate",
+      "Copy",
+      "Duplicate"
+    ],
+    "exam": "CGL 27 July, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Remorse",
+    "h": "पश्चाताप",
+    "syns": [
+      "Repentance",
+      "Guilt",
+      "Contrition"
+    ],
+    "exam": "CGL 2 December, 2022"
+  },
+  {
+    "n": 6,
+    "w": "Retaliated",
+    "h": "बदला लिया",
+    "syns": [
+      "Revenge",
+      "Revenged",
+      "Got back"
+    ],
+    "exam": "CGL 8 December, 2022"
+  },
+  {
+    "n": 7,
+    "w": "Resentment",
+    "h": "नाराज़गी / रोष",
+    "syns": [
+      "Anger",
+      "Bitterness",
+      "Grudge"
+    ],
+    "exam": "CHSL 2 August, 2023"
+  },
+  {
+    "n": 8,
+    "w": "Rotate",
+    "h": "घूमना / चक्कर लगाना",
+    "syns": [
+      "Revolve",
+      "Spin",
+      "Turn"
+    ],
+    "exam": "CHSL 2 August, 2023"
+  },
+  {
+    "n": 9,
+    "w": "Requirement",
+    "h": "आवश्यकता",
+    "syns": [
+      "Essential",
+      "Need",
+      "Necessity"
+    ],
+    "exam": "CHSL 7 August, 2023"
+  },
+  {
+    "n": 10,
+    "w": "Rapidly",
+    "h": "तेज़ी से",
+    "syns": [
+      "Promptly",
+      "Swiftly",
+      "Speedily"
+    ],
+    "exam": "CHSL 10 August, 2023"
+  },
+  {
+    "n": 11,
+    "w": "Repercussion",
+    "h": "परिणाम / प्रभाव",
+    "syns": [
+      "Consequence",
+      "Effect",
+      "Impact"
+    ],
+    "exam": "CHSL 17 August, 2023"
+  },
+  {
+    "n": 12,
+    "w": "Ridicule",
+    "h": "उपहास / मज़ाक उड़ाना",
+    "syns": [
+      "Derision",
+      "Mock",
+      "Scoff"
+    ],
+    "exam": "CHSL 9 March, 2023"
+  },
+  {
+    "n": 13,
+    "w": "Remedy",
+    "h": "उपचार / इलाज",
+    "syns": [
+      "Cure",
+      "Treatment",
+      "Solution"
+    ],
+    "exam": "CHSL 16 March, 2023"
+  },
+  {
+    "n": 14,
+    "w": "Reconnoitre",
+    "h": "जासूसी करना / सर्वेक्षण",
+    "syns": [
+      "Inspect",
+      "Scout",
+      "Survey"
+    ],
+    "exam": "CHSL 30 May, 2022"
+  },
+  {
+    "n": 15,
+    "w": "Rescind",
+    "h": "रद्द करना",
+    "syns": [
+      "Revoke",
+      "Cancel",
+      "Annul"
+    ],
+    "exam": "CHSL 30 May, 2022"
+  },
+  {
+    "n": 16,
+    "w": "Rampart",
+    "h": "दुर्ग / प्राचीर",
+    "syns": [
+      "Bulwark",
+      "Fortification",
+      "Barrier"
+    ],
+    "exam": "CHSL 1 May 2022"
+  },
+  {
+    "n": 17,
+    "w": "Resplendent",
+    "h": "दीप्तिमान / भव्य",
+    "syns": [
+      "Magnificent",
+      "Brilliant",
+      "Glorious"
+    ],
+    "exam": "CHSL 6 June 2022"
+  },
+  {
+    "n": 18,
+    "w": "Robbed",
+    "h": "लूटा गया",
+    "syns": [
+      "Plundered",
+      "Looted",
+      "Stolen from"
+    ],
+    "exam": "CHSL 7 June 2022"
+  },
+  {
+    "n": 19,
+    "w": "Resolute",
+    "h": "दृढ़ / अटल",
+    "syns": [
+      "Strong",
+      "Determined",
+      "Firm"
+    ],
+    "exam": "CHSL 7 June 2022"
+  },
+  {
+    "n": 20,
+    "w": "Renounce",
+    "h": "त्यागना / छोड़ना",
+    "syns": [
+      "Abjure",
+      "Abandon",
+      "Forswear"
+    ],
+    "exam": "CHSL 9 June 2022"
+  },
+  {
+    "n": 21,
+    "w": "Ravenous",
+    "h": "भूखा / भक्षक",
+    "syns": [
+      "Esurient",
+      "Starving",
+      "Voracious"
+    ],
+    "exam": "CHSL 10 June 2022"
+  },
+  {
+    "n": 22,
+    "w": "Repulsive",
+    "h": "घृणित / विकर्षक",
+    "syns": [
+      "Disgusting",
+      "Revolting",
+      "Repellent"
+    ],
+    "exam": "MTS 1 September, 2023"
+  },
+  {
+    "n": 23,
+    "w": "Radical",
+    "h": "मूलगामी / क्रांतिकारी",
+    "syns": [
+      "Fanatical",
+      "Extreme",
+      "Drastic"
+    ],
+    "exam": "MTS 2 May, 2023"
+  },
+  {
+    "n": 24,
+    "w": "Relocation",
+    "h": "स्थानांतरण",
+    "syns": [
+      "Migration",
+      "Move",
+      "Transfer"
+    ],
+    "exam": "MTS 15 May, 2023"
+  },
+  {
+    "n": 25,
+    "w": "Remarkable",
+    "h": "उल्लेखनीय / असाधारण",
+    "syns": [
+      "Noticeable",
+      "Extraordinary",
+      "Notable"
+    ],
+    "exam": "MTS 16 June, 2023"
+  },
+  {
+    "n": 26,
+    "w": "Random",
+    "h": "यादृच्छिक / बेतरतीब",
+    "syns": [
+      "Chance",
+      "Arbitrary",
+      "Haphazard"
+    ],
+    "exam": "MTS 6 July, 2022"
+  },
+  {
+    "n": 27,
+    "w": "Rebuke",
+    "h": "फटकारना / डाँटना",
+    "syns": [
+      "Scold",
+      "Reprimand",
+      "Scold"
+    ],
+    "exam": "MTS 18 July, 2022"
+  },
+  {
+    "n": 28,
+    "w": "Reveal",
+    "h": "प्रकट करना / उजागर करना",
+    "syns": [
+      "Disclose",
+      "Expose",
+      "Uncover"
+    ],
+    "exam": "MTS 22 July, 2022"
+  },
+  {
+    "n": 29,
+    "w": "Reliable",
+    "h": "भरोसेमंद / विश्वसनीय",
+    "syns": [
+      "Dependable",
+      "Trustworthy",
+      "Steadfast"
+    ],
+    "exam": "MTS 25 July, 2022"
+  },
+  {
+    "n": 30,
+    "w": "Royal",
+    "h": "राजसी / शाही",
+    "syns": [
+      "Kingly",
+      "Regal",
+      "Majestic"
+    ],
+    "exam": "MTS 8 October, 2021"
+  },
+  {
+    "n": 31,
+    "w": "Rely",
+    "h": "भरोसा करना",
+    "syns": [
+      "Depend",
+      "Trust",
+      "Count on"
+    ],
+    "exam": "MTS 8 October, 2021"
+  },
+  {
+    "n": 32,
+    "w": "Rapturous",
+    "h": "परम आनंदित",
+    "syns": [
+      "Delighted",
+      "Ecstatic",
+      "Overjoyed"
+    ],
+    "exam": "MTS 12 October, 2021"
+  },
+  {
+    "n": 33,
+    "w": "Rabid",
+    "h": "उग्र / कट्टर",
+    "syns": [
+      "Extreme",
+      "Fanatical",
+      "Frenzied"
+    ],
+    "exam": "MTS 12 October, 2021"
+  },
+  {
+    "n": 34,
+    "w": "Regular",
+    "h": "नियमित / सामान्य",
+    "syns": [
+      "Usual",
+      "Consistent",
+      "Normal"
+    ],
+    "exam": "MTS 14 October, 2021"
+  },
+  {
+    "n": 35,
+    "w": "Retort",
+    "h": "जवाब देना / पलटवार",
+    "syns": [
+      "Reply",
+      "Counter",
+      "Retaliate"
+    ],
+    "exam": "MTS 22 October, 2021"
+  },
+  {
+    "n": 36,
+    "w": "Rejuvenate",
+    "h": "पुनर्जीवित करना",
+    "syns": [
+      "Refreshen",
+      "Revitalize",
+      "Renew"
+    ],
+    "exam": "MTS 10 January, 2023"
+  },
+  {
+    "n": 37,
+    "w": "Reckon",
+    "h": "अनुमान लगाना / सोचना",
+    "syns": [
+      "Think",
+      "Calculate",
+      "Estimate"
+    ],
+    "exam": "MTS 25 January, 2023"
+  },
+  {
+    "n": 38,
+    "w": "Rigid",
+    "h": "कठोर / अनमनीय",
+    "syns": [
+      "Stiff",
+      "Inflexible",
+      "Firm"
+    ],
+    "exam": "MTS 30 January, 2023"
+  },
+  {
+    "n": 39,
+    "w": "Ruthless",
+    "h": "निर्दयी / क्रूर",
+    "syns": [
+      "Merciless",
+      "Heartless",
+      "Brutal"
+    ],
+    "exam": "MTS 31 January, 2023"
+  },
+  {
+    "n": 40,
+    "w": "Rogue",
+    "h": "दुष्ट / धोखेबाज",
+    "syns": [
+      "Ruffian",
+      "Scoundrel",
+      "Villain"
+    ],
+    "exam": "MTS 6 February, 2023"
+  },
+  {
+    "n": 41,
+    "w": "Rudimentary",
+    "h": "प्रारंभिक / मूलभूत",
+    "syns": [
+      "Elementary",
+      "Basic",
+      "Preliminary"
+    ],
+    "exam": "MTS 9 February, 2023"
+  },
+  {
+    "n": 42,
+    "w": "Recommend",
+    "h": "सुझाना / अनुशंसा करना",
+    "syns": [
+      "Approve",
+      "Suggest",
+      "Advocate"
+    ],
+    "exam": "MTS 16 November, 2021"
+  },
+  {
+    "n": 43,
+    "w": "Radical",
+    "h": "क्रांतिकारी",
+    "syns": [
+      "Revolutionary",
+      "Fundamental",
+      "Extreme"
+    ],
+    "exam": "MTS 18 November, 2021"
+  },
+  {
+    "n": 44,
+    "w": "Reliable",
+    "h": "भरोसेमंद",
+    "syns": [
+      "Trusted",
+      "Trustworthy",
+      "Solid"
+    ],
+    "exam": "MTS 23 November, 2021"
+  },
+  {
+    "n": 45,
+    "w": "Restrain",
+    "h": "रोकना / नियंत्रित करना",
+    "syns": [
+      "Control",
+      "Hold back",
+      "Limit"
+    ],
+    "exam": "MTS 26 November, 2021"
+  },
+  {
+    "n": 46,
+    "w": "Refuge",
+    "h": "आश्रय / शरण",
+    "syns": [
+      "Shelter",
+      "Sanctuary",
+      "Haven"
+    ],
+    "exam": "MTS 29 November, 2021"
+  },
+  {
+    "n": 47,
+    "w": "Rapid",
+    "h": "तेज़ / शीघ्र",
+    "syns": [
+      "Quick",
+      "Fast",
+      "Speedy"
+    ],
+    "exam": "MTS 29 November, 2021"
+  },
+  {
+    "n": 48,
+    "w": "Rift",
+    "h": "दरार / विभाजन",
+    "syns": [
+      "Break",
+      "Split",
+      "Crack"
+    ],
+    "exam": "MTS 30 November, 2021"
+  },
+  {
+    "n": 49,
+    "w": "Rambling",
+    "h": "भटकता हुआ / बेसिलसिला",
+    "syns": [
+      "Discursive",
+      "Wandering",
+      "Digressive"
+    ],
+    "exam": "MTS 1 December, 2021"
+  },
+  {
+    "n": 50,
+    "w": "Reckless",
+    "h": "लापरवाह / बेपरवाह",
+    "syns": [
+      "Rash",
+      "Careless",
+      "Impulsive"
+    ],
+    "exam": "MTS 1 December, 2021 / MTS 2025"
+  },
+  {
+    "n": 51,
+    "w": "Regret",
+    "h": "पछतावा / खेद",
+    "syns": [
+      "Repent",
+      "Remorse",
+      "Sorrow"
+    ],
+    "exam": "MTS 7 December, 2021"
+  },
+  {
+    "n": 52,
+    "w": "Retrieve",
+    "h": "वापस पाना / ढूँढना",
+    "syns": [
+      "Recover",
+      "Get back",
+      "Rescue"
+    ],
+    "exam": "MTS 9 December, 2021"
+  },
+  {
+    "n": 53,
+    "w": "Repel",
+    "h": "पीछे धकेलना / घृणा करना",
+    "syns": [
+      "Resist",
+      "Repulse",
+      "Ward off"
+    ],
+    "exam": "MTS 13 December, 2021"
+  },
+  {
+    "n": 54,
+    "w": "Reliable",
+    "h": "विश्वसनीय",
+    "syns": [
+      "Dependable",
+      "Trustworthy",
+      "Safe"
+    ],
+    "exam": "MTS 14 December, 2021"
+  },
+  {
+    "n": 55,
+    "w": "Remedial",
+    "h": "उपचारात्मक",
+    "syns": [
+      "Corrective",
+      "Therapeutic",
+      "Healing"
+    ],
+    "exam": "MTS 15 Dec, 2021 / NDA 2009"
+  },
+  {
+    "n": 56,
+    "w": "Recover",
+    "h": "ठीक होना / वापस पाना",
+    "syns": [
+      "Regain",
+      "Regain",
+      "Recoup"
+    ],
+    "exam": "MTS 15 December, 2021"
+  },
+  {
+    "n": 57,
+    "w": "Robe",
+    "h": "वस्त्र / पहनावा",
+    "syns": [
+      "Attire",
+      "Garment",
+      "Gown"
+    ],
+    "exam": "CPO October 2023"
+  },
+  {
+    "n": 58,
+    "w": "Rehabilitate",
+    "h": "पुनर्वास करना",
+    "syns": [
+      "Reinstall",
+      "Restore",
+      "Reintegrate"
+    ],
+    "exam": "CPO 5 October, 2023"
+  },
+  {
+    "n": 59,
+    "w": "Reminiscence",
+    "h": "स्मृति / यादें",
+    "syns": [
+      "Remembrance",
+      "Memory",
+      "Recollection"
+    ],
+    "exam": "CPO 5 October, 2023"
+  },
+  {
+    "n": 60,
+    "w": "Reluctant",
+    "h": "अनिच्छुक / झिझकने वाला",
+    "syns": [
+      "Hesitant",
+      "Unwilling",
+      "Hesitant"
+    ],
+    "exam": "CPO 9 November, 2022"
+  },
+  {
+    "n": 61,
+    "w": "Radiant",
+    "h": "दीप्तिमान / चमकदार",
+    "syns": [
+      "Glowing",
+      "Glowing",
+      "Lustrous"
+    ],
+    "exam": "CPO 9 November, 2022"
+  },
+  {
+    "n": 62,
+    "w": "Restrain",
+    "h": "रोकना",
+    "syns": [
+      "Constrain",
+      "Hold back",
+      "Curb"
+    ],
+    "exam": "CPO 9 November, 2022"
+  },
+  {
+    "n": 63,
+    "w": "Revoke",
+    "h": "रद्द करना",
+    "syns": [
+      "Repeal",
+      "Withdraw",
+      "Nullify"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 64,
+    "w": "Reason",
+    "h": "कारण / तर्क",
+    "syns": [
+      "Cause",
+      "Rationale",
+      "Motive"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 65,
+    "w": "Rebellious",
+    "h": "विद्रोही",
+    "syns": [
+      "Unruly",
+      "Defiant",
+      "Disruptive"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 66,
+    "w": "Redundant",
+    "h": "अनावश्यक / फालतू",
+    "syns": [
+      "Unnecessary",
+      "Surplus",
+      "Excessive"
+    ],
+    "exam": "11 December, 2019"
+  },
+  {
+    "n": 67,
+    "w": "Reprimand",
+    "h": "फटकारना / चेतावनी देना",
+    "syns": [
+      "Rebuke",
+      "Scold",
+      "Admonish"
+    ],
+    "exam": "CPO 13 December, 2019"
+  },
+  {
+    "n": 68,
+    "w": "Reticent",
+    "h": "अल्पभाषी / चुप्पी",
+    "syns": [
+      "Taciturn",
+      "Reserved",
+      "Withdrawn"
+    ],
+    "exam": "CPO 30 December, 2019"
+  },
+  {
+    "n": 69,
+    "w": "Resolution",
+    "h": "संकल्प / निर्णय",
+    "syns": [
+      "Decision",
+      "Determination",
+      "Firmness"
+    ],
+    "exam": "CPO 27 September, 2019"
+  },
+  {
+    "n": 70,
+    "w": "Rendezvous",
+    "h": "मुलाकात / नियुक्त स्थान",
+    "syns": [
+      "Meeting",
+      "Appointment",
+      "Encounter"
+    ],
+    "exam": "CPO 17 November, 2022"
+  },
+  {
+    "n": 71,
+    "w": "Rectify",
+    "h": "सुधारना / ठीक करना",
+    "syns": [
+      "Amends",
+      "Correct",
+      "Fix"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 72,
+    "w": "Respite",
+    "h": "विराम / राहत",
+    "syns": [
+      "Break",
+      "Rest",
+      "Relief"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 73,
+    "w": "Repulse",
+    "h": "पीछे हटाना / घृणा",
+    "syns": [
+      "Repel",
+      "Drive back",
+      "Push away"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 74,
+    "w": "Respect",
+    "h": "आदर / सम्मान",
+    "syns": [
+      "Honour",
+      "Esteem",
+      "Revere"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 75,
+    "w": "Request",
+    "h": "निवेदन / प्रार्थना",
+    "syns": [
+      "Plead",
+      "Solicit",
+      "Ask"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 76,
+    "w": "Retract",
+    "h": "वापस लेना / निराकरण करना",
+    "syns": [
+      "Revoke",
+      "Withdraw",
+      "Take back"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 77,
+    "w": "Remission",
+    "h": "माफी / कमी",
+    "syns": [
+      "Pardon",
+      "Clemency",
+      "Reduction"
+    ],
+    "exam": "CHSL 2024 / CUET 2025"
+  },
+  {
+    "n": 78,
+    "w": "Recluse",
+    "h": "एकांतवासी / सन्यासी",
+    "syns": [
+      "Solitary",
+      "Hermit",
+      "Loner"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 79,
+    "w": "Reluctant",
+    "h": "अनिच्छुक",
+    "syns": [
+      "Unwilling",
+      "Hesitant",
+      "Disinclined"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 80,
+    "w": "Reverent",
+    "h": "श्रद्धावान / आदरपूर्ण",
+    "syns": [
+      "Respectful",
+      "Devout",
+      "Deferential"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 81,
+    "w": "Ruthlessly",
+    "h": "निर्दयता से",
+    "syns": [
+      "Inhumanly",
+      "Brutally",
+      "Harshly"
+    ],
+    "exam": "CPO 2024"
+  },
+  {
+    "n": 82,
+    "w": "Resign",
+    "h": "इस्तीफा देना / छोड़ना",
+    "syns": [
+      "Surrender",
+      "Quit",
+      "Step down"
+    ],
+    "exam": "SSC PHASE 2024"
+  },
+  {
+    "n": 83,
+    "w": "Remote",
+    "h": "दूर / अलग",
+    "syns": [
+      "Aloof",
+      "Isolated",
+      "Far away"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 84,
+    "w": "Recumbent",
+    "h": "लेटा हुआ",
+    "syns": [
+      "Prostrate",
+      "Lying down",
+      "Resting"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 85,
+    "w": "Rebellious",
+    "h": "विद्रोही / अवज्ञाकारी",
+    "syns": [
+      "Disobedient",
+      "Defiant",
+      "Unruly"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 86,
+    "w": "Reprieve",
+    "h": "राहत / दंड स्थगन",
+    "syns": [
+      "Delay",
+      "Stay of punishment",
+      "Postpone"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 87,
+    "w": "Requisite",
+    "h": "आवश्यक / ज़रूरी",
+    "syns": [
+      "Necessary",
+      "Essential",
+      "Needed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 88,
+    "w": "Realm",
+    "h": "राज्य / क्षेत्र",
+    "syns": [
+      "Kingdom",
+      "Domain",
+      "Territory"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 89,
+    "w": "Refurbish",
+    "h": "नवीनीकरण करना",
+    "syns": [
+      "Renew",
+      "Renovate",
+      "Restore"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 90,
+    "w": "Robust",
+    "h": "मज़बूत / ताकतवर",
+    "syns": [
+      "Strong",
+      "Strong",
+      "Sturdy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 91,
+    "w": "Remonstrate",
+    "h": "विरोध करना / आपत्ति",
+    "syns": [
+      "Protest",
+      "Object",
+      "Complain"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 92,
+    "w": "Repudiate",
+    "h": "अस्वीकार करना",
+    "syns": [
+      "Deny",
+      "Reject",
+      "Renounce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 93,
+    "w": "Raze",
+    "h": "ध्वस्त करना / जमींदोज़",
+    "syns": [
+      "Destroy",
+      "Demolish",
+      "Level"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 94,
+    "w": "Relinquish",
+    "h": "छोड़ना / त्यागना",
+    "syns": [
+      "Leave",
+      "Give up",
+      "Renounce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 95,
+    "w": "Ramification",
+    "h": "परिणाम / शाखा",
+    "syns": [
+      "Result",
+      "Consequence",
+      "Branch"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 96,
+    "w": "Recant",
+    "h": "वापस लेना / खंडन करना",
+    "syns": [
+      "Withdraw",
+      "Retract",
+      "Take back"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 97,
+    "w": "Restive",
+    "h": "बेचैन / अशांत",
+    "syns": [
+      "Restless",
+      "Agitated",
+      "Uneasy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 98,
+    "w": "Rampage",
+    "h": "उपद्रव / तांडव",
+    "syns": [
+      "Violent Rush",
+      "Fury",
+      "Destruction"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 99,
+    "w": "Renegade",
+    "h": "विद्रोही / पाखंडी",
+    "syns": [
+      "Rebel",
+      "Turncoat",
+      "Traitor"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 100,
+    "w": "Retard",
+    "h": "धीमा करना / रोकना",
+    "syns": [
+      "Delay",
+      "Slow down",
+      "Impede"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 101,
+    "w": "Reprisal",
+    "h": "बदला / प्रतिशोध",
+    "syns": [
+      "Punishment",
+      "Revenge",
+      "Vengeance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 102,
+    "w": "Rancour",
+    "h": "कड़वाहट / द्वेष",
+    "syns": [
+      "Bitterness",
+      "Resentment",
+      "Animosity"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 103,
+    "w": "Regime",
+    "h": "शासन / सत्ता",
+    "syns": [
+      "Rule",
+      "Government",
+      "System"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 104,
+    "w": "Render",
+    "h": "प्रदान करना / देना",
+    "syns": [
+      "Give",
+      "Provide",
+      "Supply"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 105,
+    "w": "Reiterate",
+    "h": "दोहराना / फिर कहना",
+    "syns": [
+      "Repeat",
+      "Restate",
+      "Stress again"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 106,
+    "w": "Rusticate",
+    "h": "निष्कासित करना",
+    "syns": [
+      "Expel",
+      "Banish",
+      "Send away"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 107,
+    "w": "Replenish",
+    "h": "फिर से भरना",
+    "syns": [
+      "Refill",
+      "Restock",
+      "Fill again"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 108,
+    "w": "Replete",
+    "h": "भरपूर / परिपूर्ण",
+    "syns": [
+      "Full",
+      "Abundant",
+      "Stuffed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 109,
+    "w": "Renunciation",
+    "h": "त्याग / परित्याग",
+    "syns": [
+      "Giving Up",
+      "Forsaking",
+      "Abstaining"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 110,
+    "w": "Ruse",
+    "h": "चाल / चालाकी",
+    "syns": [
+      "Trick",
+      "Ploy",
+      "Deception"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 111,
+    "w": "Replica",
+    "h": "प्रतिकृति / नकल",
+    "syns": [
+      "Copy",
+      "Copy",
+      "Duplicate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 112,
+    "w": "Rife",
+    "h": "व्यापक / फैला हुआ",
+    "syns": [
+      "Common",
+      "Prevalent",
+      "Widespread"
+    ],
+    "exam": "CUET 2024"
+  },
+  {
+    "n": 113,
+    "w": "Redoubtable",
+    "h": "भयंकर / दुर्जेय",
+    "syns": [
+      "Formidable",
+      "Fearsome",
+      "Formidable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 114,
+    "w": "Rustic",
+    "h": "ग्रामीण / देहाती",
+    "syns": [
+      "Rural",
+      "Country",
+      "Unsophisticated"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 115,
+    "w": "Rout",
+    "h": "करारी हार",
+    "syns": [
+      "Defeat",
+      "Overwhelming defeat",
+      "Crushing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 116,
+    "w": "Righteous",
+    "h": "धर्मी / नेक",
+    "syns": [
+      "Virtuous",
+      "Moral",
+      "Just"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 117,
+    "w": "Reverence",
+    "h": "श्रद्धा / सम्मान",
+    "syns": [
+      "Respect",
+      "Awe",
+      "Admiration"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 118,
+    "w": "Repugnant",
+    "h": "घृणित / अत्यंत अप्रिय",
+    "syns": [
+      "Disgusting",
+      "Abhorrent",
+      "Loathsome"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 119,
+    "w": "Remnant",
+    "h": "बचा-खुचा / अवशेष",
+    "syns": [
+      "Remainder",
+      "Leftover",
+      "Relic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 120,
+    "w": "Redress",
+    "h": "निवारण / मुआवज़ा",
+    "syns": [
+      "Remedy",
+      "Correction",
+      "Relief"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 121,
+    "w": "Redeem",
+    "h": "बचाना / मुक्त करना",
+    "syns": [
+      "Save",
+      "Rescue",
+      "Recover"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 122,
+    "w": "Ravish",
+    "h": "मोहित करना",
+    "syns": [
+      "Delight",
+      "Enchant",
+      "Charm"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 123,
+    "w": "Ratify",
+    "h": "अनुमोदित करना / मंजूर करना",
+    "syns": [
+      "Approve",
+      "Endorse",
+      "Confirm"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 124,
+    "w": "Rapture",
+    "h": "परम आनंद",
+    "syns": [
+      "Joy",
+      "Bliss",
+      "Ecstasy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 125,
+    "w": "Radiance",
+    "h": "चमक / प्रभा",
+    "syns": [
+      "Brightness",
+      "Glow",
+      "Brilliance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 126,
+    "w": "Raucous",
+    "h": "कर्कश / शोरगुल",
+    "syns": [
+      "Shrill",
+      "Harsh noise",
+      "Harsh"
+    ],
+    "exam": "CUET 2025"
+  },
+  {
+    "n": 127,
+    "w": "Repose",
+    "h": "विश्राम / आराम",
+    "syns": [
+      "Rest",
+      "Relaxation",
+      "Peace"
+    ],
+    "exam": "CUET 2025"
+  },
+  {
+    "n": 128,
+    "w": "Rampant",
+    "h": "बेकाबू / व्यापक",
+    "syns": [
+      "Widespread",
+      "Unrestrained",
+      "Uncontrolled"
+    ],
+    "exam": "CUET 2025"
+  },
+  {
+    "n": 129,
+    "w": "Reconciled",
+    "h": "सुलहा हुआ / मान लिया",
+    "syns": [
+      "Agreed",
+      "Settled",
+      "Made peace"
+    ],
+    "exam": "CUET 2025"
+  },
+  {
+    "n": 130,
+    "w": "Reassure",
+    "h": "भरोसा दिलाना",
+    "syns": [
+      "Comfort",
+      "Soothe",
+      "Calm"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 131,
+    "w": "Rectitude",
+    "h": "नेकी / ईमानदारी",
+    "syns": [
+      "Morality",
+      "Integrity",
+      "Virtue"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 132,
+    "w": "Rejoice",
+    "h": "आनंद मनाना / खुश होना",
+    "syns": [
+      "Celebrate",
+      "Exult",
+      "Be happy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 133,
+    "w": "Relish",
+    "h": "आनंद लेना / स्वाद",
+    "syns": [
+      "Enjoy",
+      "Enjoy",
+      "Savor"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 134,
+    "w": "Resurgence",
+    "h": "पुनरुत्थान / फिर उभरना",
+    "syns": [
+      "Revival",
+      "Comeback",
+      "Renewal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 135,
+    "w": "Recondite",
+    "h": "गूढ़ / रहस्यमय",
+    "syns": [
+      "Obscure",
+      "Abstruse",
+      "Deep"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 136,
+    "w": "Ravishing",
+    "h": "मनोहर / अत्यंत सुंदर",
+    "syns": [
+      "Charming",
+      "Stunning",
+      "Gorgeous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 137,
+    "w": "Rapacity",
+    "h": "लालच / लोभ",
+    "syns": [
+      "Greed",
+      "Greed",
+      "Avarice"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 138,
+    "w": "Rapport",
+    "h": "मेल / संबंध",
+    "syns": [
+      "Affinity",
+      "Harmony",
+      "Bond"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 139,
+    "w": "Recapitulate",
+    "h": "संक्षेप में दोहराना",
+    "syns": [
+      "Summarize",
+      "Review",
+      "Recap"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 140,
+    "w": "Receptacle",
+    "h": "पात्र / बर्तन",
+    "syns": [
+      "Container",
+      "Vessel",
+      "Box"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 141,
+    "w": "Recuperate",
+    "h": "ठीक होना / स्वस्थ होना",
+    "syns": [
+      "Recover",
+      "Get better",
+      "Heal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 142,
+    "w": "Refractory",
+    "h": "जिद्दी / अड़ियल",
+    "syns": [
+      "Stubborn",
+      "Unruly",
+      "Hardheaded"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 143,
+    "w": "Refulgent",
+    "h": "चमकदार / दीप्तिमान",
+    "syns": [
+      "Radiant",
+      "Glowing",
+      "Luminous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 144,
+    "w": "Rejoinder",
+    "h": "जवाब / प्रतिउत्तर",
+    "syns": [
+      "Retort",
+      "Reply",
+      "Response"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 145,
+    "w": "Relentless",
+    "h": "निरंतर / निर्दयी",
+    "syns": [
+      "Persistent",
+      "Unyielding",
+      "Tireless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 146,
+    "w": "Reproof",
+    "h": "फटकार / निंदा",
+    "syns": [
+      "Admonition",
+      "Scolding",
+      "Censure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 147,
+    "w": "Resilient",
+    "h": "लचीला / जल्दी ठीक होने वाला",
+    "syns": [
+      "Tenacious",
+      "Strong",
+      "Flexible"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 148,
+    "w": "Resuscitate",
+    "h": "पुनर्जीवित करना",
+    "syns": [
+      "Revive",
+      "Rescue",
+      "Reanimate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 149,
+    "w": "Retribution",
+    "h": "दंड / प्रतिशोध",
+    "syns": [
+      "Punishment",
+      "Justice",
+      "Penalty"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 150,
+    "w": "Reverie",
+    "h": "दिवास्वप्न",
+    "syns": [
+      "Daydream",
+      "Fantasy",
+      "Dream"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 151,
+    "w": "Revile",
+    "h": "गाली देना / निंदा करना",
+    "syns": [
+      "Insult",
+      "Abuse",
+      "Condemn"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 152,
+    "w": "Revulsion",
+    "h": "घृणा / विद्वेष",
+    "syns": [
+      "Disgust",
+      "Repulsion",
+      "Aversion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 153,
+    "w": "Rhapsody",
+    "h": "उत्साहपूर्ण प्रशंसा",
+    "syns": [
+      "Ecstasy",
+      "Delight",
+      "Enthusiasm"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 154,
+    "w": "Ribald",
+    "h": "अश्लील / भद्दा",
+    "syns": [
+      "Crude",
+      "Vulgar",
+      "Lewd"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 155,
+    "w": "Rickety",
+    "h": "जर्जर / लड़खड़ाता",
+    "syns": [
+      "Shaky",
+      "Unsteady",
+      "Wobbly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 156,
+    "w": "Rigmarole",
+    "h": "उलझन / जटिल प्रक्रिया",
+    "syns": [
+      "Confusion",
+      "Complication",
+      "Red tape"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 157,
+    "w": "Rivet",
+    "h": "ध्यान खींचना / कील लगाना",
+    "syns": [
+      "Fasten",
+      "Fix",
+      "Secure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 158,
+    "w": "Ruminate",
+    "h": "गहराई से सोचना",
+    "syns": [
+      "Meditate",
+      "Ponder",
+      "Think deeply"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 159,
+    "w": "Rapprochement",
+    "h": "सुलह / मेल-मिलाप",
+    "syns": [
+      "Reunion",
+      "Reconciliation",
+      "Making up"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 160,
+    "w": "Recourse",
+    "h": "सहारा / उपाय",
+    "syns": [
+      "Support",
+      "Resort",
+      "Option"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 161,
+    "w": "Repression",
+    "h": "दमन / दबाव",
+    "syns": [
+      "Suppression",
+      "Control",
+      "Restriction"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 162,
+    "w": "Resounding",
+    "h": "प्रभावशाली / गूँजने वाला",
+    "syns": [
+      "Eloquent",
+      "Powerful",
+      "Emphatic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 163,
+    "w": "Retail",
+    "h": "खुदरा बिक्री",
+    "syns": [
+      "Sell",
+      "Sell",
+      "Market"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 164,
+    "w": "Retain",
+    "h": "बनाए रखना / रोकना",
+    "syns": [
+      "Preserve",
+      "Keep",
+      "Hold on to"
+    ],
+    "exam": ""
+  }
+]

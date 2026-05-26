@@ -1,0 +1,266 @@
+[
+  {
+    "n": 1,
+    "w": "Quell",
+    "h": "दबाना / शांत करना",
+    "syns": [
+      "Suppress",
+      "Crush",
+      "Silence"
+    ],
+    "exam": "CHSL 17 August, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Quail",
+    "h": "सिकुड़ना / डरना",
+    "syns": [
+      "Cringe",
+      "Flinch",
+      "Cower"
+    ],
+    "exam": "16 March, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Quaint",
+    "h": "अजीब / पुराने ढंग का",
+    "syns": [
+      "Queer",
+      "Unusual",
+      "Old-fashioned"
+    ],
+    "exam": "1 June 2022"
+  },
+  {
+    "n": 4,
+    "w": "Quintessential",
+    "h": "विशिष्ट / सर्वोत्कृष्ट",
+    "syns": [
+      "Typical",
+      "Classic",
+      "Representative"
+    ],
+    "exam": "7 June 2022"
+  },
+  {
+    "n": 5,
+    "w": "Queer",
+    "h": "अजीब / विचित्र",
+    "syns": [
+      "Strange",
+      "Odd",
+      "Unusual"
+    ],
+    "exam": "SSC GD 1 February, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Quandary",
+    "h": "दुविधा / असमंजस",
+    "syns": [
+      "Dilemma",
+      "Predicament",
+      "Fix"
+    ],
+    "exam": "CPO 11 Nov, 2022 / STENO 2024"
+  },
+  {
+    "n": 7,
+    "w": "Quite",
+    "h": "बिल्कुल / पूर्णतः",
+    "syns": [
+      "Noticeably",
+      "Completely",
+      "Absolutely"
+    ],
+    "exam": "DP HCM JAN 2026"
+  },
+  {
+    "n": 8,
+    "w": "Quip",
+    "h": "चुटकुला / व्यंग्योक्ति",
+    "syns": [
+      "Joke",
+      "Witticism",
+      "Remark"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 9,
+    "w": "Query",
+    "h": "प्रश्न / शंका",
+    "syns": [
+      "Question",
+      "Question",
+      "Inquiry"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 10,
+    "w": "Quisling",
+    "h": "देशद्रोही",
+    "syns": [
+      "Traitor",
+      "Betrayer",
+      "Collaborator"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 11,
+    "w": "Quack",
+    "h": "नीम-हकीम / ढोंगी",
+    "syns": [
+      "Fake doctor",
+      "Imposter",
+      "Fraud"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 12,
+    "w": "Quasi",
+    "h": "जैसा / अर्ध",
+    "syns": [
+      "Seeming",
+      "Apparent",
+      "Semi"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 13,
+    "w": "Quest",
+    "h": "खोज / अभियान",
+    "syns": [
+      "Search",
+      "Mission",
+      "Journey"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 14,
+    "w": "Questionable",
+    "h": "संदिग्ध",
+    "syns": [
+      "Doubtful",
+      "Dubious",
+      "Suspicious"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 15,
+    "w": "Quash",
+    "h": "रद्द करना / दबाना",
+    "syns": [
+      "Reject",
+      "Suppress",
+      "Cancel"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 16,
+    "w": "Quench",
+    "h": "बुझाना / शांत करना",
+    "syns": [
+      "Mitigate",
+      "Satisfy",
+      "Extinguish"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 17,
+    "w": "Qualms",
+    "h": "संदेह / झिझक",
+    "syns": [
+      "Doubts",
+      "Misgivings",
+      "Hesitation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 18,
+    "w": "Quixotic",
+    "h": "अव्यावहारिक / कल्पनावादी",
+    "syns": [
+      "Idealistic",
+      "Unrealistic",
+      "Impractical"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 19,
+    "w": "Querulous",
+    "h": "शिकायती / बड़बड़ाने वाला",
+    "syns": [
+      "Complaining",
+      "Whining",
+      "Grumbling"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 20,
+    "w": "Quibble",
+    "h": "बाल की खाल निकालना",
+    "syns": [
+      "Argue",
+      "Nitpick",
+      "Cavil"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 21,
+    "w": "Quarantine",
+    "h": "एकांतवास / पृथक करना",
+    "syns": [
+      "Isolation",
+      "Seclusion",
+      "Separation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 22,
+    "w": "Quotidian",
+    "h": "रोज़ाना / दैनिक",
+    "syns": [
+      "Daily",
+      "Everyday",
+      "Routine"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 23,
+    "w": "Quaff",
+    "h": "जल्दी पीना",
+    "syns": [
+      "Drink",
+      "Guzzle",
+      "Gulp"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 24,
+    "w": "Quirk",
+    "h": "अजीब आदत / विचित्रता",
+    "syns": [
+      "Eccentricity",
+      "Mannerism",
+      "Idiosyncrasy"
+    ],
+    "exam": ""
+  }
+]
