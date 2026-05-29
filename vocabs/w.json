@@ -1,0 +1,431 @@
+[
+  {
+    "n": 1,
+    "w": "Wavering",
+    "h": "डगमगाना / अनिश्चित",
+    "syns": [
+      "Fluctuating",
+      "Uncertain",
+      "Indecisive"
+    ],
+    "exam": "CGL 8 December, 2022"
+  },
+  {
+    "n": 2,
+    "w": "Weary",
+    "h": "थका हुआ / उकताया",
+    "syns": [
+      "Exhausted",
+      "Tired",
+      "Fatigued"
+    ],
+    "exam": "CDS I, 2020"
+  },
+  {
+    "n": 3,
+    "w": "Whimsical",
+    "h": "सनकी / काल्पनिक",
+    "syns": [
+      "Funny",
+      "Playful",
+      "Capricious"
+    ],
+    "exam": "CHSL 10 March 2023"
+  },
+  {
+    "n": 4,
+    "w": "Wager",
+    "h": "दाँव / शर्त",
+    "syns": [
+      "Bet",
+      "Gamble",
+      "Stake"
+    ],
+    "exam": "CHSL 14 March, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Wallow",
+    "h": "लोटना / विलासिता में डूबना",
+    "syns": [
+      "Flounder",
+      "Revel",
+      "Indulge"
+    ],
+    "exam": "CHSL 20 March, 2023 / CHSL 3 May, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Withdraw",
+    "h": "वापस लेना / हटना",
+    "syns": [
+      "Retreat",
+      "Pull out",
+      "Recede"
+    ],
+    "exam": "CHSL 8 May, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Wraith",
+    "h": "प्रेत / भूत",
+    "syns": [
+      "Spirit",
+      "Ghost",
+      "Apparition"
+    ],
+    "exam": "CHSL 19 May, 2023"
+  },
+  {
+    "n": 8,
+    "w": "Wealthy",
+    "h": "धनी / समृद्ध",
+    "syns": [
+      "Affluent",
+      "Rich",
+      "Opulent"
+    ],
+    "exam": "MTS 13 June, 2023 / SSC GD 2023"
+  },
+  {
+    "n": 9,
+    "w": "Welter",
+    "h": "उथल-पुथल / भ्रम",
+    "syns": [
+      "Turmoil",
+      "Confusion",
+      "Chaos"
+    ],
+    "exam": "SSC GD 14 June, 2023"
+  },
+  {
+    "n": 10,
+    "w": "Wrench",
+    "h": "मोड़ना / छीनना",
+    "syns": [
+      "Wrest",
+      "Twist",
+      "Jerk"
+    ],
+    "exam": "SSC CPO 24 November, 2020"
+  },
+  {
+    "n": 11,
+    "w": "Wonderful",
+    "h": "अद्भुत / शानदार",
+    "syns": [
+      "Amazing",
+      "Marvelous",
+      "Remarkable"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 12,
+    "w": "Wholly",
+    "h": "पूर्णतः / बिल्कुल",
+    "syns": [
+      "Entirely",
+      "Completely",
+      "Fully"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 13,
+    "w": "Weird",
+    "h": "विचित्र / अजीब",
+    "syns": [
+      "Unnatural",
+      "Strange",
+      "Bizarre"
+    ],
+    "exam": "UPSC NDA 19/04/2009"
+  },
+  {
+    "n": 14,
+    "w": "Wrath",
+    "h": "क्रोध / रोष",
+    "syns": [
+      "Anger",
+      "Rage",
+      "Fury"
+    ],
+    "exam": "DSSSB 27-07-2014"
+  },
+  {
+    "n": 15,
+    "w": "Wary",
+    "h": "सतर्क / सावधान",
+    "syns": [
+      "Gingerly",
+      "Careful",
+      "Cautious"
+    ],
+    "exam": "DSSSB TGT 09/09/2018"
+  },
+  {
+    "n": 16,
+    "w": "Wane",
+    "h": "कम होना / घटना",
+    "syns": [
+      "Decline",
+      "Diminish",
+      "Reduce"
+    ],
+    "exam": "SSC JE 23-08-2019"
+  },
+  {
+    "n": 17,
+    "w": "Waft",
+    "h": "तैरना / बहना",
+    "syns": [
+      "Drift",
+      "Float",
+      "Blow"
+    ],
+    "exam": "DSSSB Junior Assistant 25/8/2021"
+  },
+  {
+    "n": 18,
+    "w": "Waver",
+    "h": "डगमगाना / अनिश्चित",
+    "syns": [
+      "Vacillate",
+      "Hesitate",
+      "Falter"
+    ],
+    "exam": "DSSSB PRT 25/03/2022"
+  },
+  {
+    "n": 19,
+    "w": "Wave",
+    "h": "लहराना / इशारा करना",
+    "syns": [
+      "Gesture",
+      "Signal",
+      "Beckon"
+    ],
+    "exam": "Bihar Police Fireman 27/03/2022"
+  },
+  {
+    "n": 20,
+    "w": "Waive",
+    "h": "छोड़ना / माफ करना",
+    "syns": [
+      "Relinquish",
+      "Abandon",
+      "Forgo"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 21,
+    "w": "Wanton",
+    "h": "अनावश्यक / मनमाना",
+    "syns": [
+      "Careless",
+      "Deliberate",
+      "Reckless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 22,
+    "w": "Wreck",
+    "h": "नष्ट करना / बर्बाद करना",
+    "syns": [
+      "Damage",
+      "Ruin",
+      "Destroy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 23,
+    "w": "Wont",
+    "h": "आदत / रिवाज",
+    "syns": [
+      "Habitual",
+      "Custom",
+      "Practice"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 24,
+    "w": "Wary",
+    "h": "सावधान / चौकस",
+    "syns": [
+      "Cautious",
+      "Alert",
+      "Vigilant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 25,
+    "w": "Wean",
+    "h": "दूध छुड़ाना / हटाना",
+    "syns": [
+      "Deprive",
+      "Detach",
+      "Remove"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 26,
+    "w": "Warrant",
+    "h": "जायज ठहराना / वारंट",
+    "syns": [
+      "Justify",
+      "Authorize",
+      "Validate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 27,
+    "w": "Wilful",
+    "h": "जानबूझकर / जिद्दी",
+    "syns": [
+      "Stubborn",
+      "Deliberate",
+      "Intentional"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 28,
+    "w": "Wan",
+    "h": "पीला / फीका",
+    "syns": [
+      "Pale",
+      "Colorless",
+      "Ashen"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 29,
+    "w": "Wilt",
+    "h": "मुरझाना / कमजोर होना",
+    "syns": [
+      "Fade",
+      "Droop",
+      "Wither"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 30,
+    "w": "Whip",
+    "h": "कोड़ा मारना / हराना",
+    "syns": [
+      "Punish",
+      "Beat",
+      "Strike"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 31,
+    "w": "Wangle",
+    "h": "चालाकी से प्राप्त करना",
+    "syns": [
+      "Manipulate",
+      "Obtain by tricks",
+      "Worm out"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 32,
+    "w": "Wicked",
+    "h": "दुष्ट / बुरा",
+    "syns": [
+      "Evil",
+      "Villainous",
+      "Vile"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 33,
+    "w": "Withhold",
+    "h": "रोकना / बनाए रखना",
+    "syns": [
+      "Restrain",
+      "Suppress",
+      "Keep back"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 34,
+    "w": "Wayward",
+    "h": "सनकी / हठी",
+    "syns": [
+      "Capricious",
+      "Erratic",
+      "Unpredictable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 35,
+    "w": "Wield",
+    "h": "इस्तेमाल करना / चलाना",
+    "syns": [
+      "Use",
+      "Handle",
+      "Apply"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 36,
+    "w": "Wanton",
+    "h": "लापरवाह / बेपरवाह",
+    "syns": [
+      "Reckless",
+      "Unrestrained",
+      "Thoughtless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 37,
+    "w": "Wean",
+    "h": "दूध छुड़ाना",
+    "syns": [
+      "Accustom",
+      "Withdraw",
+      "Separate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 38,
+    "w": "Wondrous",
+    "h": "अद्भुत / आश्चर्यजनक",
+    "syns": [
+      "Marvelous",
+      "Miraculous",
+      "Magnificent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 39,
+    "w": "Wretched",
+    "h": "दुखी / बेचारा",
+    "syns": [
+      "Miserable",
+      "Pitiful",
+      "Unhappy"
+    ],
+    "exam": ""
+  }
+]

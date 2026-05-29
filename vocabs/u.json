@@ -1,0 +1,299 @@
+[
+  {
+    "n": 1,
+    "w": "Unbiased",
+    "h": "निष्पक्ष / तटस्थ",
+    "syns": [
+      "Objective",
+      "Fair",
+      "Impartial"
+    ],
+    "exam": "CGL 18 July, 2023 / CHSL 2023"
+  },
+  {
+    "n": 2,
+    "w": "Utilitarian",
+    "h": "उपयोगितावादी / व्यावहारिक",
+    "syns": [
+      "Useful",
+      "Functional",
+      "Practical"
+    ],
+    "exam": "CGL 18 July, 2023 / CHSL 2022"
+  },
+  {
+    "n": 3,
+    "w": "Urge",
+    "h": "आग्रह करना / तीव्र इच्छा",
+    "syns": [
+      "Appeal",
+      "Implore",
+      "Push"
+    ],
+    "exam": "CGL 12 April, 2022"
+  },
+  {
+    "n": 4,
+    "w": "Uncanny",
+    "h": "अलौकिक / अज़ीब",
+    "syns": [
+      "Mysterious",
+      "Weird",
+      "Supernatural"
+    ],
+    "exam": "CGL 23 August, 2021 / MTS 2022"
+  },
+  {
+    "n": 5,
+    "w": "Unique",
+    "h": "अनोखा / अद्वितीय",
+    "syns": [
+      "Exclusive",
+      "Singular",
+      "One-of-a-kind"
+    ],
+    "exam": "STENO 10 August, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Unfamiliar",
+    "h": "अपरिचित / अज्ञात",
+    "syns": [
+      "Strange",
+      "Unknown",
+      "Strange"
+    ],
+    "exam": "MTS 10 May, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Upsetting",
+    "h": "परेशान करने वाला",
+    "syns": [
+      "Perturbing",
+      "Disturbing",
+      "Distressing"
+    ],
+    "exam": "CPO 18 May, 2023"
+  },
+  {
+    "n": 8,
+    "w": "Unlucky",
+    "h": "अभागा / दुर्भाग्यशाली",
+    "syns": [
+      "Hapless",
+      "Unfortunate",
+      "Ill-fated"
+    ],
+    "exam": "CPO 10 November, 2022"
+  },
+  {
+    "n": 9,
+    "w": "Utmost",
+    "h": "अत्यधिक / सर्वाधिक",
+    "syns": [
+      "Greatest",
+      "Maximum",
+      "Highest"
+    ],
+    "exam": "STENO 18 November 2022"
+  },
+  {
+    "n": 10,
+    "w": "Upbraid",
+    "h": "फटकारना / डाँटना",
+    "syns": [
+      "Reprimand",
+      "Scold",
+      "Rebuke"
+    ],
+    "exam": "SSC CGL 2025"
+  },
+  {
+    "n": 11,
+    "w": "Ubiquitous",
+    "h": "सर्वव्यापी / हर जगह",
+    "syns": [
+      "Omnipresent",
+      "Everywhere",
+      "All-pervading"
+    ],
+    "exam": "DSSSB 5th-II 25-06-2017"
+  },
+  {
+    "n": 12,
+    "w": "Unlimited",
+    "h": "असीमित / अनंत",
+    "syns": [
+      "Infinite",
+      "Boundless",
+      "Endless"
+    ],
+    "exam": "CDS 2 2015"
+  },
+  {
+    "n": 13,
+    "w": "Utopian",
+    "h": "काल्पनिक / आदर्शवादी",
+    "syns": [
+      "Ideal",
+      "Idealistic",
+      "Visionary"
+    ],
+    "exam": "CDS 2 2023"
+  },
+  {
+    "n": 14,
+    "w": "Untenable",
+    "h": "अस्थिर / असमर्थनीय",
+    "syns": [
+      "Indefensible",
+      "Unsound",
+      "Indefensible"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 15,
+    "w": "Unbridled",
+    "h": "बेलगाम / अनियंत्रित",
+    "syns": [
+      "Excessive",
+      "Unchecked",
+      "Unrestrained"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 16,
+    "w": "Uxorious",
+    "h": "पत्नी की पूजा करने वाला",
+    "syns": [
+      "Devoted to wife",
+      "Overattentive to wife",
+      "Submissive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 17,
+    "w": "Umbrage",
+    "h": "नाराज़गी / क्षोभ",
+    "syns": [
+      "Offence",
+      "Offense",
+      "Resentment"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 18,
+    "w": "Ulterior",
+    "h": "गुप्त / पोशीदा",
+    "syns": [
+      "Hidden",
+      "Undisclosed",
+      "Concealed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 19,
+    "w": "Unkempt",
+    "h": "मैला / बेतरतीब",
+    "syns": [
+      "Dirty",
+      "Scruffy",
+      "Untidy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 20,
+    "w": "Unequivocal",
+    "h": "स्पष्ट / निर्विवाद",
+    "syns": [
+      "Clear",
+      "Definite",
+      "Absolute"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 21,
+    "w": "Unsavoury",
+    "h": "अप्रिय / घृणित",
+    "syns": [
+      "Unpleasant",
+      "Disagreeable",
+      "Offensive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 22,
+    "w": "Unruly",
+    "h": "उद्दंड / अनुशासनहीन",
+    "syns": [
+      "Lawless",
+      "Disobedient",
+      "Disruptive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 23,
+    "w": "Urbane",
+    "h": "शिष्ट / सभ्य",
+    "syns": [
+      "Sophisticated",
+      "Polished",
+      "Cultured"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 24,
+    "w": "Underneath",
+    "h": "नीचे / तल में",
+    "syns": [
+      "Beneath",
+      "Below",
+      "Under"
+    ],
+    "exam": "MTS 2025"
+  },
+  {
+    "n": 25,
+    "w": "Unconscionable",
+    "h": "बेईमान / अनुचित",
+    "syns": [
+      "Egregious",
+      "Unreasonable",
+      "Outrageous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 26,
+    "w": "Usurp",
+    "h": "अनधिकृत कब्ज़ा / हड़पना",
+    "syns": [
+      "Seize",
+      "Grab",
+      "Appropriate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 27,
+    "w": "Unanimously",
+    "h": "सर्वसम्मति से",
+    "syns": [
+      "Collectively",
+      "With one voice",
+      "Together"
+    ],
+    "exam": ""
+  }
+]
