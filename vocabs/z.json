@@ -1,0 +1,68 @@
+[
+  {
+    "n": 1,
+    "w": "Zealous",
+    "h": "उत्साही / जोशीला",
+    "syns": [
+      "Enthusiastic",
+      "Ardent",
+      "Fervent"
+    ],
+    "exam": "CGL 24 July, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Zeal",
+    "h": "उत्साह / जोश",
+    "syns": [
+      "Passion",
+      "Enthusiasm",
+      "Fervor"
+    ],
+    "exam": "KVS PRT 22-02-2023"
+  },
+  {
+    "n": 3,
+    "w": "Zealot",
+    "h": "कट्टर समर्थक / अंध-विश्वासी",
+    "syns": [
+      "Fanatic",
+      "Extremist",
+      "Bigot"
+    ],
+    "exam": "UPSC NDA 11/08/2013"
+  },
+  {
+    "n": 4,
+    "w": "Zigzag",
+    "h": "टेढ़ा-मेढ़ा / घुमावदार",
+    "syns": [
+      "Winding",
+      "Crooked",
+      "Winding"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 5,
+    "w": "Zenith",
+    "h": "शिखर / उच्चतम बिंदु",
+    "syns": [
+      "Peak",
+      "Apex",
+      "Summit"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 6,
+    "w": "Zany",
+    "h": "हास्यास्पद / अजीब",
+    "syns": [
+      "Comical",
+      "Funny",
+      "Eccentric"
+    ],
+    "exam": ""
+  }
+]
