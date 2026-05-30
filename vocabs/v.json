@@ -1,0 +1,860 @@
+[
+  {
+    "n": 1,
+    "w": "Vain",
+    "h": "व्यर्थ / अहंकारी",
+    "syns": [
+      "Useless",
+      "Futile",
+      "Fruitless"
+    ],
+    "exam": "CGL 17 July, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Vigilant",
+    "h": "सतर्क / चौकस",
+    "syns": [
+      "Cautious",
+      "Alert",
+      "Watchful"
+    ],
+    "exam": "CGL 17 July, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Verbose",
+    "h": "वाचाल / बहुत बोलने वाला",
+    "syns": [
+      "Talkative",
+      "Wordy",
+      "Long-winded"
+    ],
+    "exam": "CGL 18 July, 2023 / SSC GD 2023 / CDS 2 2024"
+  },
+  {
+    "n": 4,
+    "w": "Vendetta",
+    "h": "दुश्मनी / बदले की भावना",
+    "syns": [
+      "Disagreement",
+      "Feud",
+      "Grudge"
+    ],
+    "exam": "CGL 19 July, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Vulnerable",
+    "h": "कमजोर / असुरक्षित",
+    "syns": [
+      "At risk",
+      "Exposed",
+      "Susceptible"
+    ],
+    "exam": "CGL 20 July, 2023 / SSC GD 2021 / SSC CPO 2021 / NDA 2 2019"
+  },
+  {
+    "n": 6,
+    "w": "Vast",
+    "h": "विशाल / व्यापक",
+    "syns": [
+      "Extensive",
+      "Enormous",
+      "Wide"
+    ],
+    "exam": "CGL 21 July, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Void",
+    "h": "रिक्त / शून्य",
+    "syns": [
+      "Gap",
+      "Empty space",
+      "Null"
+    ],
+    "exam": "CGL 3 December, 2022"
+  },
+  {
+    "n": 8,
+    "w": "Vivacious",
+    "h": "जीवंत / उत्साही",
+    "syns": [
+      "Energetic",
+      "Lively",
+      "Vibrant"
+    ],
+    "exam": "CGL 5 December, 2022"
+  },
+  {
+    "n": 9,
+    "w": "Vertical",
+    "h": "ऊर्ध्वाधर / सीधा खड़ा",
+    "syns": [
+      "Upright",
+      "Erect",
+      "Standing straight"
+    ],
+    "exam": "CGL 11 April, 2022"
+  },
+  {
+    "n": 10,
+    "w": "Vogue",
+    "h": "प्रचलन / फैशन",
+    "syns": [
+      "Fashion",
+      "Trend",
+      "Craze"
+    ],
+    "exam": "CGL 2 March, 2023 Tier-2"
+  },
+  {
+    "n": 11,
+    "w": "Vigorous",
+    "h": "ज़ोरदार / सक्रिय",
+    "syns": [
+      "Strenuous",
+      "Energetic",
+      "Forceful"
+    ],
+    "exam": "CHSL 13 March, 2023"
+  },
+  {
+    "n": 12,
+    "w": "Vacillate",
+    "h": "डगमगाना / अनिर्णायक होना",
+    "syns": [
+      "Hesitate",
+      "Waver",
+      "Fluctuate"
+    ],
+    "exam": "CHSL 14 March, 2023 / CHSL 2021"
+  },
+  {
+    "n": 13,
+    "w": "Vault",
+    "h": "तिजोरी / उछलना",
+    "syns": [
+      "Leap",
+      "Jump",
+      "Spring"
+    ],
+    "exam": "CHSL 15 March, 2023"
+  },
+  {
+    "n": 14,
+    "w": "Vanity",
+    "h": "घमंड / व्यर्थता",
+    "syns": [
+      "Conceit",
+      "Egotism",
+      "Pride"
+    ],
+    "exam": "CHSL 1 June 2022"
+  },
+  {
+    "n": 15,
+    "w": "Valiance",
+    "h": "वीरता / साहस",
+    "syns": [
+      "Courage",
+      "Bravery",
+      "Gallantry"
+    ],
+    "exam": "MTS 3 May, 2023"
+  },
+  {
+    "n": 16,
+    "w": "Voluminous",
+    "h": "विशाल / बहुत बड़ा",
+    "syns": [
+      "Commodious",
+      "Bulky",
+      "Large"
+    ],
+    "exam": "MTS 10 May, 2023"
+  },
+  {
+    "n": 17,
+    "w": "Victorious",
+    "h": "विजयी / सफल",
+    "syns": [
+      "Champion",
+      "Winning",
+      "Triumphant"
+    ],
+    "exam": "MTS 11 May, 2023"
+  },
+  {
+    "n": 18,
+    "w": "Virtuoso",
+    "h": "कुशल कलाकार / विशेषज्ञ",
+    "syns": [
+      "Maestro",
+      "Expert",
+      "Master"
+    ],
+    "exam": "MTS 12 May, 2023 / DSSSB 5th-II 25-06-2017"
+  },
+  {
+    "n": 19,
+    "w": "Versions",
+    "h": "संस्करण / रूपांतरण",
+    "syns": [
+      "Variations",
+      "Editions",
+      "Forms"
+    ],
+    "exam": "MTS 17 May, 2023"
+  },
+  {
+    "n": 20,
+    "w": "Villainous",
+    "h": "दुष्ट / खलनायकी",
+    "syns": [
+      "Nefarious",
+      "Evil",
+      "Wicked"
+    ],
+    "exam": "MTS 17 May, 2023"
+  },
+  {
+    "n": 21,
+    "w": "Venial",
+    "h": "क्षमा योग्य / छोटा पाप",
+    "syns": [
+      "Pardonable",
+      "Forgivable",
+      "Minor"
+    ],
+    "exam": "MTS 18 May, 2023 / DSSSB Junior Assistant 25/8/2021"
+  },
+  {
+    "n": 22,
+    "w": "Voracious",
+    "h": "अत्यधिक भूखा / लालची",
+    "syns": [
+      "Greedy",
+      "Ravenous",
+      "Insatiable"
+    ],
+    "exam": "MTS 22 July, 2022 / DSSSB PRT 27/03/2022"
+  },
+  {
+    "n": 23,
+    "w": "Vanquish",
+    "h": "जीतना / परास्त करना",
+    "syns": [
+      "Defeat",
+      "Conquer",
+      "Overcome"
+    ],
+    "exam": "MTS 25 July, 2022 / SSC GD 25 January, 2023"
+  },
+  {
+    "n": 24,
+    "w": "Vacant",
+    "h": "खाली / रिक्त",
+    "syns": [
+      "Bare",
+      "Empty",
+      "Unoccupied"
+    ],
+    "exam": "MTS 8 October, 2021"
+  },
+  {
+    "n": 25,
+    "w": "Vital",
+    "h": "अत्यावश्यक / महत्वपूर्ण",
+    "syns": [
+      "Crucial",
+      "Essential",
+      "Critical"
+    ],
+    "exam": "MTS 26 November, 2021 / SSC GD 2021"
+  },
+  {
+    "n": 26,
+    "w": "Venture",
+    "h": "साहसिक प्रयास / उद्यम",
+    "syns": [
+      "Attempt",
+      "Undertaking",
+      "Risk"
+    ],
+    "exam": "MTS 7 December, 2021"
+  },
+  {
+    "n": 27,
+    "w": "Viable",
+    "h": "व्यवहार्य / संभव",
+    "syns": [
+      "Feasible",
+      "Workable",
+      "Practicable"
+    ],
+    "exam": "SSC CPO 3 October, 2023"
+  },
+  {
+    "n": 28,
+    "w": "Vagrancy",
+    "h": "आवारागर्दी",
+    "syns": [
+      "Vagabond",
+      "Wandering",
+      "Homelessness"
+    ],
+    "exam": "SSC CPO 5 October, 2023"
+  },
+  {
+    "n": 29,
+    "w": "Venerable",
+    "h": "आदरणीय / पूजनीय",
+    "syns": [
+      "Esteemed",
+      "Respected",
+      "Revered"
+    ],
+    "exam": "SSC CPO 11 December, 2019"
+  },
+  {
+    "n": 30,
+    "w": "Vitiate",
+    "h": "दूषित करना / खराब करना",
+    "syns": [
+      "Corrupt",
+      "Contaminate",
+      "Impair"
+    ],
+    "exam": "SSC CPO 8 January, 2024"
+  },
+  {
+    "n": 31,
+    "w": "Valuable",
+    "h": "बहुमूल्य / कीमती",
+    "syns": [
+      "Precious",
+      "Worthy",
+      "Priceless"
+    ],
+    "exam": "SSC CPO 24 December, 2020"
+  },
+  {
+    "n": 32,
+    "w": "Vexed",
+    "h": "परेशान / नाराज़",
+    "syns": [
+      "Annoyed",
+      "Irritated",
+      "Frustrated"
+    ],
+    "exam": "CGL 2024 / NDA 2 2022 / DSSSB 2013"
+  },
+  {
+    "n": 33,
+    "w": "Venom",
+    "h": "ज़हर / विष",
+    "syns": [
+      "Poison",
+      "Toxin",
+      "Poison"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 34,
+    "w": "Visitors",
+    "h": "दर्शनार्थी / मेहमान",
+    "syns": [
+      "Tourists",
+      "Guests",
+      "Tourists"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 35,
+    "w": "Vindictive",
+    "h": "प्रतिशोधी / बदला लेने वाला",
+    "syns": [
+      "Revengeful",
+      "Spiteful",
+      "Vengeful"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 36,
+    "w": "Vague",
+    "h": "अस्पष्ट / धुंधला",
+    "syns": [
+      "Hazy",
+      "Unclear",
+      "Fuzzy"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 37,
+    "w": "Vivid",
+    "h": "जीवंत / स्पष्ट",
+    "syns": [
+      "Bright",
+      "Clear",
+      "Colorful"
+    ],
+    "exam": "MTS 2024 / NDA 2 2019"
+  },
+  {
+    "n": 38,
+    "w": "Vicissitudes",
+    "h": "उतार-चढ़ाव / परिवर्तन",
+    "syns": [
+      "Changes",
+      "Ups and downs",
+      "Changes"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 39,
+    "w": "Vicariously",
+    "h": "परोक्ष रूप से",
+    "syns": [
+      "Indirectly",
+      "Secondhand",
+      "Through another"
+    ],
+    "exam": "DSSSB TGT 16/09/2018"
+  },
+  {
+    "n": 40,
+    "w": "Vandalize",
+    "h": "नष्ट करना / तोड़फोड़ करना",
+    "syns": [
+      "Damage",
+      "Damage",
+      "Destroy"
+    ],
+    "exam": "ACIO Tier-II 18/02/2021"
+  },
+  {
+    "n": 41,
+    "w": "Vitriolic",
+    "h": "तीखी / ज़हरीली आलोचना",
+    "syns": [
+      "Abusive",
+      "Caustic",
+      "Corrosive"
+    ],
+    "exam": "NDA 2 2019"
+  },
+  {
+    "n": 42,
+    "w": "Vocation",
+    "h": "व्यवसाय / पेशा",
+    "syns": [
+      "Occupation",
+      "Calling",
+      "Profession"
+    ],
+    "exam": "CDS 1 2020"
+  },
+  {
+    "n": 43,
+    "w": "Vulgar",
+    "h": "अश्लील / भद्दा",
+    "syns": [
+      "Crude",
+      "Coarse",
+      "Obscene"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 44,
+    "w": "Vouch",
+    "h": "गवाही देना / प्रमाणित करना",
+    "syns": [
+      "Assure",
+      "Guarantee",
+      "Certify"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 45,
+    "w": "Volatile",
+    "h": "अस्थिर / उड़नशील",
+    "syns": [
+      "Unpredictable",
+      "Changeable",
+      "Unstable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 46,
+    "w": "Vicious",
+    "h": "क्रूर / दुष्ट",
+    "syns": [
+      "Brutal",
+      "Savage",
+      "Cruel"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 47,
+    "w": "Vibrate",
+    "h": "कंपन करना",
+    "syns": [
+      "Quiver",
+      "Shake",
+      "Tremble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 48,
+    "w": "Valour",
+    "h": "वीरता / साहस",
+    "syns": [
+      "Courage",
+      "Courage",
+      "Bravery"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 49,
+    "w": "Valid",
+    "h": "वैध / उचित",
+    "syns": [
+      "Legitimate",
+      "Genuine",
+      "Authentic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 50,
+    "w": "Valiant",
+    "h": "बहादुर / वीर",
+    "syns": [
+      "Gallant",
+      "Brave",
+      "Bold"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 51,
+    "w": "Vagrant",
+    "h": "आवारा / बेघर",
+    "syns": [
+      "Tramp",
+      "Wanderer",
+      "Nomad"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 52,
+    "w": "Vituperative",
+    "h": "निंदात्मक / तिरस्कारपूर्ण",
+    "syns": [
+      "Abusive",
+      "Abusive",
+      "Scathing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 53,
+    "w": "Vindicate",
+    "h": "उचित ठहराना / बरी करना",
+    "syns": [
+      "Justify",
+      "Defend",
+      "Exonerate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 54,
+    "w": "Versatile",
+    "h": "बहुमुखी / अनेकार्थी",
+    "syns": [
+      "Multi-Skilled",
+      "Adaptable",
+      "All-rounder"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 55,
+    "w": "Verity",
+    "h": "सच्चाई / सत्य",
+    "syns": [
+      "Truth",
+      "Truthfulness",
+      "Fact"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 56,
+    "w": "Vociferous",
+    "h": "ज़ोरदार / आवाज़ करने वाला",
+    "syns": [
+      "Noisy",
+      "Clamorous",
+      "Loud"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 57,
+    "w": "Vie",
+    "h": "मुकाबला करना / प्रतिस्पर्धा",
+    "syns": [
+      "Compete",
+      "Contend",
+      "Strive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 58,
+    "w": "Vent",
+    "h": "व्यक्त करना / निकालना",
+    "syns": [
+      "Express",
+      "Release",
+      "Express"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 59,
+    "w": "Veer",
+    "h": "मुड़ना / दिशा बदलना",
+    "syns": [
+      "Turn Aside",
+      "Swerve",
+      "Deviate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 60,
+    "w": "Vehement",
+    "h": "उत्साही / प्रबल",
+    "syns": [
+      "Forceful",
+      "Intense",
+      "Passionate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 61,
+    "w": "Vagary",
+    "h": "सनक / मनमर्जी",
+    "syns": [
+      "Whim",
+      "Whim",
+      "Impulse"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 62,
+    "w": "Venal",
+    "h": "रिश्वतखोर / भ्रष्ट",
+    "syns": [
+      "Corrupt",
+      "Bribable",
+      "Mercenary"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 63,
+    "w": "Vilify",
+    "h": "बदनाम करना / निंदा करना",
+    "syns": [
+      "Defame",
+      "Slander",
+      "Malign"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 64,
+    "w": "Vintage",
+    "h": "पुराना / प्रतिष्ठित",
+    "syns": [
+      "Classic",
+      "Old",
+      "Antique"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 65,
+    "w": "Vandalism",
+    "h": "तोड़फोड़ / बर्बरता",
+    "syns": [
+      "Destruction",
+      "Destruction",
+      "Damage"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 66,
+    "w": "Venerate",
+    "h": "पूजा करना / आदर करना",
+    "syns": [
+      "Respect",
+      "Revere",
+      "Worship"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 67,
+    "w": "Valor",
+    "h": "वीरता",
+    "syns": [
+      "Bravery",
+      "Bravery",
+      "Heroism"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 68,
+    "w": "Valedictory",
+    "h": "विदाई / अलविदा",
+    "syns": [
+      "Farewell",
+      "Goodbye",
+      "Parting"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 69,
+    "w": "Variegated",
+    "h": "विविध रंगों वाला / रंगबिरंगा",
+    "syns": [
+      "Colourful",
+      "Multicolored",
+      "Diverse"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 70,
+    "w": "Vaunt",
+    "h": "डींग मारना / शेखी",
+    "syns": [
+      "Boast",
+      "Show off",
+      "Brag"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 71,
+    "w": "Veracity",
+    "h": "सत्यता / सत्यनिष्ठा",
+    "syns": [
+      "Authenticity",
+      "Truthfulness",
+      "Honesty"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 72,
+    "w": "Verdant",
+    "h": "हरा-भरा / उपजाऊ",
+    "syns": [
+      "Lush",
+      "Green",
+      "Lush"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 73,
+    "w": "Verisimilitude",
+    "h": "सच्चाई का आभास / प्रामाणिकता",
+    "syns": [
+      "Authenticity",
+      "Realism",
+      "Plausibility"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 74,
+    "w": "Verbatim",
+    "h": "शब्द-दर-शब्द / हूबहू",
+    "syns": [
+      "Exactly",
+      "Word for word",
+      "Literally"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 75,
+    "w": "Virile",
+    "h": "पुरुषोचित / मज़बूत",
+    "syns": [
+      "Masculine",
+      "Strong",
+      "Manly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 76,
+    "w": "Visceral",
+    "h": "भावनात्मक / भीतरी",
+    "syns": [
+      "Emotional",
+      "Gut-level",
+      "Deep"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 77,
+    "w": "Vituperation",
+    "h": "कटु आलोचना / गाली",
+    "syns": [
+      "Denunciation",
+      "Tirade",
+      "Condemnation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 78,
+    "w": "Voluble",
+    "h": "वाचाल / बहुत बोलने वाला",
+    "syns": [
+      "Garrulous",
+      "Talkative",
+      "Loquacious"
+    ],
+    "exam": ""
+  }
+]

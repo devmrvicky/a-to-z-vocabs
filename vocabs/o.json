@@ -1,0 +1,1146 @@
+[
+  {
+    "n": 1,
+    "w": "Obligatory",
+    "h": "अनिवार्य / जरूरी",
+    "syns": [
+      "Compulsory",
+      "Mandatory",
+      "Required"
+    ],
+    "exam": "CGL 2022 / CGL 2020 / CDS 2019 / CDS 2023"
+  },
+  {
+    "n": 2,
+    "w": "Old",
+    "h": "पुराना / बूढ़ा",
+    "syns": [
+      "Aged",
+      "Ancient",
+      "Elderly"
+    ],
+    "exam": "CGL 2022"
+  },
+  {
+    "n": 3,
+    "w": "Ostentatious",
+    "h": "दिखावटी / आडंबरपूर्ण",
+    "syns": [
+      "Showy",
+      "Flashy",
+      "Pretentious"
+    ],
+    "exam": "CGL 2022"
+  },
+  {
+    "n": 4,
+    "w": "Obstruct",
+    "h": "बाधा डालना / रोकना",
+    "syns": [
+      "Block",
+      "Hinder",
+      "Bar"
+    ],
+    "exam": "CGL 2022 / MTS 2022 / MTS 2023"
+  },
+  {
+    "n": 5,
+    "w": "Ovation",
+    "h": "तालियाँ / प्रशंसा",
+    "syns": [
+      "Applause",
+      "Clapping",
+      "Standing ovation"
+    ],
+    "exam": "CGL 2020"
+  },
+  {
+    "n": 6,
+    "w": "Onerous",
+    "h": "बोझिल / कठिन",
+    "syns": [
+      "Arduous",
+      "Burdensome",
+      "Heavy"
+    ],
+    "exam": "CGL 2019 / NDA 2023"
+  },
+  {
+    "n": 7,
+    "w": "Objection",
+    "h": "आपत्ति / विरोध",
+    "syns": [
+      "Protest",
+      "Opposition",
+      "Complaint"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 8,
+    "w": "Oblivious",
+    "h": "अनजान / बेखबर",
+    "syns": [
+      "Ignorant",
+      "Unaware",
+      "Heedless"
+    ],
+    "exam": "CHSL / CPO"
+  },
+  {
+    "n": 9,
+    "w": "Opaque",
+    "h": "अपारदर्शी / अस्पष्ट",
+    "syns": [
+      "Cloudy",
+      "Murky",
+      "Dull"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 10,
+    "w": "Obliquity",
+    "h": "तिरछापन / वक्रता",
+    "syns": [
+      "Opacity",
+      "Slant",
+      "Deviation"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 11,
+    "w": "Obligation",
+    "h": "दायित्व / कर्तव्य",
+    "syns": [
+      "Imperative",
+      "Duty",
+      "Responsibility"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 12,
+    "w": "Oblate",
+    "h": "चपटा / दबा हुआ",
+    "syns": [
+      "Compressed",
+      "Flattened",
+      "Squashed"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 13,
+    "w": "Opulence",
+    "h": "समृद्धि / वैभव",
+    "syns": [
+      "Prosperity",
+      "Wealth",
+      "Luxury"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 14,
+    "w": "Overture",
+    "h": "प्रस्तावना / प्रस्ताव",
+    "syns": [
+      "Preamble",
+      "Introduction",
+      "Opening"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 15,
+    "w": "Obsession",
+    "h": "जुनून / सनक",
+    "syns": [
+      "Fascination",
+      "Fixation",
+      "Mania"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 16,
+    "w": "Obvious",
+    "h": "स्पष्ट / प्रत्यक्ष",
+    "syns": [
+      "Clear",
+      "Apparent",
+      "Plain"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 17,
+    "w": "Opposite",
+    "h": "विपरीत / उलटा",
+    "syns": [
+      "Antagonistic",
+      "Contrary",
+      "Conflicting"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 18,
+    "w": "Occlude",
+    "h": "बंद करना / अवरुद्ध करना",
+    "syns": [
+      "Obstruct",
+      "Block",
+      "Close"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 19,
+    "w": "Obtrusive",
+    "h": "ध्यान खींचने वाला / दखलंदाज",
+    "syns": [
+      "Prominent",
+      "Intrusive",
+      "Pushy"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 20,
+    "w": "Outraged",
+    "h": "क्रोधित / नाराज",
+    "syns": [
+      "Angry",
+      "Furious",
+      "Indignant"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 21,
+    "w": "Obstruction",
+    "h": "बाधा / रुकावट",
+    "syns": [
+      "Hindrance",
+      "Barrier",
+      "Impediment"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 22,
+    "w": "Ominous",
+    "h": "अशुभ / खतरनाक",
+    "syns": [
+      "Threatening",
+      "Sinister",
+      "Foreboding"
+    ],
+    "exam": "MTS / STENO"
+  },
+  {
+    "n": 23,
+    "w": "Omnipresent",
+    "h": "सर्वत्र विद्यमान",
+    "syns": [
+      "Universal",
+      "Everywhere",
+      "All-pervading"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 24,
+    "w": "Obliterate",
+    "h": "मिटाना / नष्ट करना",
+    "syns": [
+      "Destroy",
+      "Destroy",
+      "Wipe out"
+    ],
+    "exam": "MTS / CPO / UPSC"
+  },
+  {
+    "n": 25,
+    "w": "Objective",
+    "h": "उद्देश्य / लक्ष्य",
+    "syns": [
+      "Purpose",
+      "Goal",
+      "Aim"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 26,
+    "w": "Opinion",
+    "h": "मत / राय",
+    "syns": [
+      "Idea",
+      "View",
+      "Perspective"
+    ],
+    "exam": "MTS / CPO"
+  },
+  {
+    "n": 27,
+    "w": "Obsolete",
+    "h": "अप्रचलित / पुराना",
+    "syns": [
+      "Old fashioned",
+      "Outdated",
+      "Outmoded"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 28,
+    "w": "Offend",
+    "h": "ठेस पहुँचाना / नाराज करना",
+    "syns": [
+      "Annoy",
+      "Insult",
+      "Displease"
+    ],
+    "exam": "CPO"
+  },
+  {
+    "n": 29,
+    "w": "Organise",
+    "h": "व्यवस्थित करना",
+    "syns": [
+      "Arrange",
+      "Plan",
+      "Coordinate"
+    ],
+    "exam": "CGL"
+  },
+  {
+    "n": 30,
+    "w": "Overstrung",
+    "h": "अत्यधिक तनावग्रस्त",
+    "syns": [
+      "Nervous",
+      "Overwrought",
+      "Stressed"
+    ],
+    "exam": "CGL"
+  },
+  {
+    "n": 31,
+    "w": "Obstinate",
+    "h": "जिद्दी / हठी",
+    "syns": [
+      "Stubborn",
+      "Headstrong",
+      "Unyielding"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 32,
+    "w": "Obdurate",
+    "h": "हठी / अड़ियल",
+    "syns": [
+      "Obstinate",
+      "Stubborn",
+      "Hardened"
+    ],
+    "exam": "CHSL / DSSSB"
+  },
+  {
+    "n": 33,
+    "w": "Ordinary",
+    "h": "सामान्य / साधारण",
+    "syns": [
+      "Usual",
+      "Common",
+      "Regular"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 34,
+    "w": "Operational",
+    "h": "कार्यशील / चालू",
+    "syns": [
+      "Working",
+      "Functional",
+      "Active"
+    ],
+    "exam": "CHSL"
+  },
+  {
+    "n": 35,
+    "w": "Odious",
+    "h": "घृणित / नफरत करने योग्य",
+    "syns": [
+      "Hateful",
+      "Loathsome",
+      "Detestable"
+    ],
+    "exam": "MTS"
+  },
+  {
+    "n": 36,
+    "w": "Obtuse",
+    "h": "कुंद / मंद बुद्धि",
+    "syns": [
+      "Dull",
+      "Stupid",
+      "Slow-witted"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 37,
+    "w": "Obeisance",
+    "h": "आदर / प्रणाम",
+    "syns": [
+      "Homage",
+      "Reverence",
+      "Respect"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 38,
+    "w": "Organic",
+    "h": "प्राकृतिक / जैविक",
+    "syns": [
+      "Natural",
+      "Biological",
+      "Ecological"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 39,
+    "w": "Oratory",
+    "h": "वाकपटुता",
+    "syns": [
+      "Eloquence",
+      "Rhetoric",
+      "Fluency"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 40,
+    "w": "Optimistic",
+    "h": "आशावादी",
+    "syns": [
+      "Hopeful",
+      "Positive",
+      "Sanguine"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 41,
+    "w": "Opportune",
+    "h": "उचित समय पर",
+    "syns": [
+      "Timely",
+      "Well-timed",
+      "Favorable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 42,
+    "w": "Obscure",
+    "h": "अस्पष्ट / अज्ञात",
+    "syns": [
+      "Uncertain",
+      "Hidden",
+      "Unknown"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 43,
+    "w": "Obfuscate",
+    "h": "भ्रमित करना / अस्पष्ट करना",
+    "syns": [
+      "Confuse",
+      "Muddle",
+      "Confuse"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 44,
+    "w": "Obsolete",
+    "h": "पुराना / बेकार",
+    "syns": [
+      "Old",
+      "Outdated",
+      "Archaic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 45,
+    "w": "Omnipotent",
+    "h": "सर्वशक्तिमान",
+    "syns": [
+      "Powerful",
+      "All-powerful",
+      "Supreme"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 46,
+    "w": "Onus",
+    "h": "जिम्मेदारी / बोझ",
+    "syns": [
+      "Burden",
+      "Responsibility",
+      "Burden"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 47,
+    "w": "Obsequious",
+    "h": "चापलूस / खुशामदी",
+    "syns": [
+      "Servile",
+      "Fawning",
+      "Groveling"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 48,
+    "w": "Orthodox",
+    "h": "रूढ़िवादी / परंपरागत",
+    "syns": [
+      "Traditional",
+      "Conventional",
+      "Conservative"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 49,
+    "w": "Oscillate",
+    "h": "झूलना / डोलना",
+    "syns": [
+      "Swing",
+      "Fluctuate",
+      "Sway"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 50,
+    "w": "Outlandish",
+    "h": "अजीब / विचित्र",
+    "syns": [
+      "Strange",
+      "Bizarre",
+      "Weird"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 51,
+    "w": "Outrageous",
+    "h": "चौंकाने वाला / अपमानजनक",
+    "syns": [
+      "Shocking",
+      "Disgraceful",
+      "Scandalous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 52,
+    "w": "Overwhelmed",
+    "h": "अभिभूत / दबा हुआ",
+    "syns": [
+      "Overloaded",
+      "Flooded",
+      "Swamped"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 53,
+    "w": "Obliged",
+    "h": "आभारी / बाध्य",
+    "syns": [
+      "Thankful",
+      "Grateful",
+      "Duty-bound"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 54,
+    "w": "Overseas",
+    "h": "विदेश में",
+    "syns": [
+      "Abroad",
+      "Foreign",
+      "International"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 55,
+    "w": "Overcome",
+    "h": "जीतना / पार करना",
+    "syns": [
+      "Defeat",
+      "Conquer",
+      "Surmount"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 56,
+    "w": "Obviate",
+    "h": "रोकना / दूर करना",
+    "syns": [
+      "Prevent",
+      "Prevent",
+      "Avert"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 57,
+    "w": "Officious",
+    "h": "दखलंदाज / अनधिकृत",
+    "syns": [
+      "Interfering",
+      "Bossy",
+      "Meddlesome"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 58,
+    "w": "Ogle",
+    "h": "घूरना / ताकना",
+    "syns": [
+      "Stare",
+      "Gaze",
+      "Stare at"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 59,
+    "w": "Omit",
+    "h": "छोड़ना / हटाना",
+    "syns": [
+      "Skip",
+      "Leave out",
+      "Exclude"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 60,
+    "w": "Ordeal",
+    "h": "कठिन परीक्षा / आजमाइश",
+    "syns": [
+      "Test",
+      "Hardship",
+      "Suffering"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 61,
+    "w": "Ordain",
+    "h": "नियुक्त करना / आदेश देना",
+    "syns": [
+      "Decide",
+      "Prescribe",
+      "Decree"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 62,
+    "w": "Ornate",
+    "h": "अलंकृत / सुसज्जित",
+    "syns": [
+      "Decorate",
+      "Decorated",
+      "Elaborate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 63,
+    "w": "Ossify",
+    "h": "कठोर बनाना",
+    "syns": [
+      "Harden",
+      "Harden",
+      "Solidify"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 64,
+    "w": "Outbreak",
+    "h": "प्रकोप / विस्फोट",
+    "syns": [
+      "Eruption",
+      "Eruption",
+      "Flare-up"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 65,
+    "w": "Overhaul",
+    "h": "मरम्मत करना",
+    "syns": [
+      "Repair",
+      "Fix",
+      "Renovate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 66,
+    "w": "Overturn",
+    "h": "पलटना / रद्द करना",
+    "syns": [
+      "Reverse",
+      "Reverse",
+      "Overturn"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 67,
+    "w": "Overt",
+    "h": "खुला / प्रत्यक्ष",
+    "syns": [
+      "Open",
+      "Open",
+      "Visible"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 68,
+    "w": "Overwrought",
+    "h": "अत्यधिक उत्तेजित",
+    "syns": [
+      "Excited",
+      "Agitated",
+      "Tense"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 69,
+    "w": "Opulent",
+    "h": "समृद्ध / धनी",
+    "syns": [
+      "Rich",
+      "Wealthy",
+      "Affluent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 70,
+    "w": "Ostentatious",
+    "h": "आडंबरपूर्ण",
+    "syns": [
+      "Showy",
+      "Flamboyant",
+      "Flashy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 71,
+    "w": "Osteoporosis",
+    "h": "हड्डियों का कमज़ोर होना",
+    "syns": [
+      "Weak bones",
+      "Bone disease",
+      "Bone weakness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 72,
+    "w": "Oppress",
+    "h": "दबाना / अत्याचार करना",
+    "syns": [
+      "Dominate",
+      "Persecute",
+      "Crush"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 73,
+    "w": "Opprobrium",
+    "h": "अपमान / निंदा",
+    "syns": [
+      "Shame",
+      "Disgrace",
+      "Infamy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 74,
+    "w": "Obstreperous",
+    "h": "उग्र / शोरगुल",
+    "syns": [
+      "Noisy",
+      "Rowdy",
+      "Unruly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 75,
+    "w": "Obsequious",
+    "h": "चापलूस",
+    "syns": [
+      "Servile",
+      "Groveling",
+      "Subservient"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 76,
+    "w": "Obtrude",
+    "h": "जबरन थोपना",
+    "syns": [
+      "Intrude",
+      "Force on",
+      "Impose"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 77,
+    "w": "Occult",
+    "h": "गुप्त / रहस्यमय",
+    "syns": [
+      "Hidden",
+      "Secret",
+      "Mysterious"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 78,
+    "w": "Offense",
+    "h": "अपराध / दुर्व्यवहार",
+    "syns": [
+      "Crime",
+      "Wrongdoing",
+      "Transgression"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 79,
+    "w": "Optimum",
+    "h": "सर्वोत्तम",
+    "syns": [
+      "Best",
+      "Ideal",
+      "Perfect"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 80,
+    "w": "Oppressive",
+    "h": "दमनकारी / अत्याचारी",
+    "syns": [
+      "Harsh",
+      "Tyrannical",
+      "Cruel"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 81,
+    "w": "Outcast",
+    "h": "बहिष्कृत / निर्वासित",
+    "syns": [
+      "Exile",
+      "Reject",
+      "Pariah"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 82,
+    "w": "Oblation",
+    "h": "प्रसाद / भेंट",
+    "syns": [
+      "Offering",
+      "Sacrifice",
+      "Tribute"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 83,
+    "w": "Oblivion",
+    "h": "विस्मृति / भुला देना",
+    "syns": [
+      "Forgetfulness",
+      "Amnesia",
+      "Neglect"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 84,
+    "w": "Onslaught",
+    "h": "हमला / धावा",
+    "syns": [
+      "Attack",
+      "Assault",
+      "Charge"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 85,
+    "w": "Opprobrious",
+    "h": "अपमानजनक / निंदनीय",
+    "syns": [
+      "Shameful",
+      "Scandalous",
+      "Disgraceful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 86,
+    "w": "Opt",
+    "h": "चुनना",
+    "syns": [
+      "Choose",
+      "Select",
+      "Pick"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 87,
+    "w": "Optimal",
+    "h": "सर्वोत्तम",
+    "syns": [
+      "Best",
+      "Best",
+      "Ideal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 88,
+    "w": "Outcry",
+    "h": "विरोध / चीख-पुकार",
+    "syns": [
+      "Protest",
+      "Uproar",
+      "Clamour"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 89,
+    "w": "Oblique",
+    "h": "तिरछा / परोक्ष",
+    "syns": [
+      "Indirect",
+      "Slanting",
+      "Indirect"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 90,
+    "w": "Occidental",
+    "h": "पश्चिमी",
+    "syns": [
+      "Western",
+      "Western",
+      "Westward"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 91,
+    "w": "Oracular",
+    "h": "रहस्यमय / पूर्वसूचक",
+    "syns": [
+      "Mysterious",
+      "Prophetic",
+      "Ambiguous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 92,
+    "w": "Ordnance",
+    "h": "शस्त्र / गोलाबारूद",
+    "syns": [
+      "Weapons",
+      "Artillery",
+      "Munitions"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 93,
+    "w": "Obnoxious",
+    "h": "अत्यंत अप्रिय / घृणित",
+    "syns": [
+      "Annoying",
+      "Offensive",
+      "Repellent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 94,
+    "w": "Obtain",
+    "h": "प्राप्त करना",
+    "syns": [
+      "Acquire",
+      "Get",
+      "Secure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 95,
+    "w": "Offset",
+    "h": "संतुलित करना",
+    "syns": [
+      "Balance",
+      "Counterbalance",
+      "Compensate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 96,
+    "w": "Overlook",
+    "h": "अनदेखा करना",
+    "syns": [
+      "Ignore",
+      "Disregard",
+      "Miss"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 97,
+    "w": "Output",
+    "h": "उत्पादन / परिणाम",
+    "syns": [
+      "Result",
+      "Production",
+      "Yield"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 98,
+    "w": "Oppose",
+    "h": "विरोध करना",
+    "syns": [
+      "Resist",
+      "Resist",
+      "Counter"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 99,
+    "w": "Obscene",
+    "h": "अश्लील",
+    "syns": [
+      "Vulgar",
+      "Vulgar",
+      "Lewd"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 100,
+    "w": "Obloquy",
+    "h": "कड़ी आलोचना / बदनामी",
+    "syns": [
+      "Derision",
+      "Slander",
+      "Reproach"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 101,
+    "w": "Oust",
+    "h": "निकालना / बाहर करना",
+    "syns": [
+      "Expel",
+      "Remove",
+      "Dislodge"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 102,
+    "w": "Obsession",
+    "h": "जुनून",
+    "syns": [
+      "Fetish",
+      "Mania",
+      "Fixation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 103,
+    "w": "Offensive",
+    "h": "आक्रामक / अपमानजनक",
+    "syns": [
+      "Disgusting",
+      "Rude",
+      "Hurtful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 104,
+    "w": "Ostensible",
+    "h": "겉보기의 / दिखावटी",
+    "syns": [
+      "Apparent",
+      "Seeming",
+      "Surface-level"
+    ],
+    "exam": ""
+  }
+]

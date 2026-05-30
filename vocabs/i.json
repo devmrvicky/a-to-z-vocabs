@@ -1,0 +1,2367 @@
+[
+  {
+    "n": 1,
+    "w": "Inculcate",
+    "h": "मन में डालना / सिखाना",
+    "syns": [
+      "Instil",
+      "Instill",
+      "Teach"
+    ],
+    "exam": "CGL 14 July, 2023"
+  },
+  {
+    "n": 2,
+    "w": "Insidious",
+    "h": "धीरे-धीरे हानिकारक / कपटी",
+    "syns": [
+      "Harmful",
+      "Treacherous",
+      "Stealthy"
+    ],
+    "exam": "CGL 14 July, 2023"
+  },
+  {
+    "n": 3,
+    "w": "Illness",
+    "h": "बीमारी / अस्वस्थता",
+    "syns": [
+      "Sickness",
+      "Disease",
+      "Ailment"
+    ],
+    "exam": "CGL 2 December, 2022"
+  },
+  {
+    "n": 4,
+    "w": "Impede",
+    "h": "बाधा डालना / रोकना",
+    "syns": [
+      "Hinder",
+      "Block",
+      "Obstruct"
+    ],
+    "exam": "CGL 5 Dec, 2022 / MTS 8 May, 2023 / CDS 2 2018"
+  },
+  {
+    "n": 5,
+    "w": "Inundated",
+    "h": "बाढ़ आना / पूरी तरह घिरना",
+    "syns": [
+      "Overwhelmed",
+      "Flooded",
+      "Submerged"
+    ],
+    "exam": "CGL 3 December, 2022"
+  },
+  {
+    "n": 6,
+    "w": "Impart",
+    "h": "देना / सिखाना",
+    "syns": [
+      "Transmit",
+      "Convey",
+      "Share"
+    ],
+    "exam": "CGL 7 Dec, 2022 / SSC GD 6 Feb, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Instilled",
+    "h": "मन में बिठाया",
+    "syns": [
+      "Inculcate",
+      "Infused",
+      "Implanted"
+    ],
+    "exam": "CGL 8 December, 2022"
+  },
+  {
+    "n": 8,
+    "w": "Irrevocable",
+    "h": "अटल / वापस न होने वाला",
+    "syns": [
+      "Irreversible",
+      "Permanent",
+      "Final"
+    ],
+    "exam": "CGL 12 December, 2022"
+  },
+  {
+    "n": 9,
+    "w": "Imminent",
+    "h": "आसन्न / निकट",
+    "syns": [
+      "Impending",
+      "Approaching",
+      "Near"
+    ],
+    "exam": "CGL 11 Apr, 2022 / SSC GD 17 Jan, 2023 / NDA 1 2025"
+  },
+  {
+    "n": 10,
+    "w": "Inscrutable",
+    "h": "अथाह / रहस्यमय",
+    "syns": [
+      "Inexplicable",
+      "Mysterious",
+      "Unfathomable"
+    ],
+    "exam": "CGL 12 April, 2022"
+  },
+  {
+    "n": 11,
+    "w": "Imbue",
+    "h": "भर देना / रंगना",
+    "syns": [
+      "Instil",
+      "Infuse",
+      "Fill"
+    ],
+    "exam": "CGL 21 April, 2022"
+  },
+  {
+    "n": 12,
+    "w": "Integrate",
+    "h": "एकीकृत करना / मिलाना",
+    "syns": [
+      "Assimilate",
+      "Combine",
+      "Merge"
+    ],
+    "exam": "CGL 24 August, 2021"
+  },
+  {
+    "n": 13,
+    "w": "Implore",
+    "h": "विनती करना / गुज़ारिश करना",
+    "syns": [
+      "Plead",
+      "Beseech",
+      "Beg"
+    ],
+    "exam": "CGL 3 Mar, 2020 / MTS 7 Oct, 2021"
+  },
+  {
+    "n": 14,
+    "w": "Insane",
+    "h": "पागल / विक्षिप्त",
+    "syns": [
+      "Mad",
+      "Crazy",
+      "Deranged"
+    ],
+    "exam": "CGL 6 March, 2020"
+  },
+  {
+    "n": 15,
+    "w": "Inclement",
+    "h": "कठोर / प्रतिकूल",
+    "syns": [
+      "Stormy",
+      "Harsh",
+      "Severe"
+    ],
+    "exam": "CGL 9 Mar, 2020 / NDA 2 2025"
+  },
+  {
+    "n": 16,
+    "w": "Impoverished",
+    "h": "निर्धन / कंगाल",
+    "syns": [
+      "Penniless",
+      "Destitute",
+      "Bankrupt"
+    ],
+    "exam": "CGL 11 Sep, 2019"
+  },
+  {
+    "n": 17,
+    "w": "Incumbent",
+    "h": "वर्तमान पदाधिकारी",
+    "syns": [
+      "Occupant",
+      "Current holder",
+      "Present"
+    ],
+    "exam": "CGL 8 August, 2022"
+  },
+  {
+    "n": 18,
+    "w": "Introverted",
+    "h": "अंतर्मुखी / शर्मीला",
+    "syns": [
+      "Shy",
+      "Withdrawn",
+      "Reserved"
+    ],
+    "exam": "CHSL 11 Aug, 2023 / SSC GD 13 Feb, 2023"
+  },
+  {
+    "n": 19,
+    "w": "Intervene",
+    "h": "हस्तक्षेप करना / बीच में आना",
+    "syns": [
+      "Meddle",
+      "Intercede",
+      "Step in"
+    ],
+    "exam": "CHSL 14 Aug, 2023 / MTS 8 July, 2022"
+  },
+  {
+    "n": 20,
+    "w": "Itemise",
+    "h": "सूचीबद्ध करना / एक-एक करके बताना",
+    "syns": [
+      "Enumerate",
+      "List",
+      "Catalog"
+    ],
+    "exam": "CHSL 8 August, 2023"
+  },
+  {
+    "n": 21,
+    "w": "Implies",
+    "h": "संकेत करना / अर्थ निकलना",
+    "syns": [
+      "Alludes",
+      "Hints",
+      "Suggests"
+    ],
+    "exam": "CHSL 14 August, 2023"
+  },
+  {
+    "n": 22,
+    "w": "Incite",
+    "h": "उकसाना / भड़काना",
+    "syns": [
+      "Inflame",
+      "Provoke",
+      "Stir up"
+    ],
+    "exam": "CHSL 31 May, 2022 / DSSSB TGT 02/09/2018"
+  },
+  {
+    "n": 23,
+    "w": "Illogical",
+    "h": "अतार्किक / बेमतलब",
+    "syns": [
+      "Absurd",
+      "Irrational",
+      "Unreasonable"
+    ],
+    "exam": "CHSL 3 June, 2022"
+  },
+  {
+    "n": 24,
+    "w": "Inevitable",
+    "h": "अनिवार्य / अपरिहार्य",
+    "syns": [
+      "Inescapable",
+      "Certain",
+      "Unavoidable"
+    ],
+    "exam": "CHSL 6 June, 2022 / CPO 4 Oct, 2023 / CGL 3 Feb, 2022"
+  },
+  {
+    "n": 25,
+    "w": "Imprisonment",
+    "h": "कारावास / जेल",
+    "syns": [
+      "Incarceration",
+      "Confinement",
+      "Captivity"
+    ],
+    "exam": "CHSL 9 June, 2022"
+  },
+  {
+    "n": 26,
+    "w": "Imitate",
+    "h": "नकल करना / अनुकरण करना",
+    "syns": [
+      "Mimic",
+      "Copy",
+      "Emulate"
+    ],
+    "exam": "CHSL 6 Aug, 2021 / MTS 26 July, 2022"
+  },
+  {
+    "n": 27,
+    "w": "Insist",
+    "h": "जोर देना / अड़े रहना",
+    "syns": [
+      "Persist",
+      "Demand",
+      "Assert"
+    ],
+    "exam": "MTS 5 Sep, 2023 / MTS 2024 / CHSL 6 Aug, 2021"
+  },
+  {
+    "n": 28,
+    "w": "Increase",
+    "h": "बढ़ाना / वृद्धि",
+    "syns": [
+      "Ascent",
+      "Growth",
+      "Rise"
+    ],
+    "exam": "MTS 4 May, 2023"
+  },
+  {
+    "n": 29,
+    "w": "Inquisitive",
+    "h": "जिज्ञासु / उत्सुक",
+    "syns": [
+      "Curious",
+      "Eager",
+      "Nosy"
+    ],
+    "exam": "MTS 11 May, 2023 / SSC GD 25 Jan, 2023"
+  },
+  {
+    "n": 30,
+    "w": "Innate",
+    "h": "जन्मजात / प्राकृतिक",
+    "syns": [
+      "Inherent",
+      "Inborn",
+      "Natural"
+    ],
+    "exam": "MTS 11 July, 2022 / CDS 2 2019"
+  },
+  {
+    "n": 31,
+    "w": "Intricate",
+    "h": "जटिल / पेचीदा",
+    "syns": [
+      "Complicated",
+      "Complex",
+      "Elaborate"
+    ],
+    "exam": "MTS 12 July, 2022 / STENO 13 Oct, 2023"
+  },
+  {
+    "n": 32,
+    "w": "Interfere",
+    "h": "हस्तक्षेप करना / दखल देना",
+    "syns": [
+      "Restrict",
+      "Intervene",
+      "Meddle"
+    ],
+    "exam": "MTS 21 July, 2022"
+  },
+  {
+    "n": 33,
+    "w": "Impetus",
+    "h": "प्रोत्साहन / बल",
+    "syns": [
+      "Incitement",
+      "Drive",
+      "Motivation"
+    ],
+    "exam": "MTS 22 July, 2022"
+  },
+  {
+    "n": 34,
+    "w": "Iconic",
+    "h": "प्रतीकात्मक / आदर्श",
+    "syns": [
+      "Exemplary",
+      "Symbolic",
+      "Representative"
+    ],
+    "exam": "MTS 7 October, 2021"
+  },
+  {
+    "n": 35,
+    "w": "Investigate",
+    "h": "जाँच करना / पड़ताल करना",
+    "syns": [
+      "Search",
+      "Examine",
+      "Probe"
+    ],
+    "exam": "MTS 13 Oct, 2021 / SSC GD 8 Dec, 2021"
+  },
+  {
+    "n": 36,
+    "w": "Inexpensive",
+    "h": "सस्ता / किफायती",
+    "syns": [
+      "Cheap",
+      "Affordable",
+      "Budget"
+    ],
+    "exam": "MTS 13 Oct, 2021"
+  },
+  {
+    "n": 37,
+    "w": "Insult",
+    "h": "अपमान करना / बेइज्ज़त करना",
+    "syns": [
+      "Disgrace",
+      "Humiliate",
+      "Offend"
+    ],
+    "exam": "SSC GD 12 January, 2023"
+  },
+  {
+    "n": 38,
+    "w": "Important",
+    "h": "महत्वपूर्ण / ज़रूरी",
+    "syns": [
+      "Significant",
+      "Key",
+      "Crucial"
+    ],
+    "exam": "SSC GD 13 January, 2023"
+  },
+  {
+    "n": 39,
+    "w": "Immune",
+    "h": "प्रतिरक्षित / सुरक्षित",
+    "syns": [
+      "Resistant",
+      "Protected",
+      "Unaffected"
+    ],
+    "exam": "SSC GD 23 Jan, 2023 / CPO 2024"
+  },
+  {
+    "n": 40,
+    "w": "Indebted",
+    "h": "ऋणी / कृतज्ञ",
+    "syns": [
+      "Thankful",
+      "Grateful",
+      "Obliged"
+    ],
+    "exam": "SSC GD 24 January, 2023"
+  },
+  {
+    "n": 41,
+    "w": "Insufficient",
+    "h": "अपर्याप्त / कम",
+    "syns": [
+      "Deprived",
+      "Inadequate",
+      "Deficient"
+    ],
+    "exam": "SSC GD 7 February, 2023"
+  },
+  {
+    "n": 42,
+    "w": "Imperial",
+    "h": "शाही / साम्राज्यिक",
+    "syns": [
+      "Royal",
+      "Majestic",
+      "Sovereign"
+    ],
+    "exam": "SSC GD 16 November, 2021"
+  },
+  {
+    "n": 43,
+    "w": "Ingredients",
+    "h": "सामग्री / तत्व",
+    "syns": [
+      "Components",
+      "Elements",
+      "Parts"
+    ],
+    "exam": "CPO 4 October, 2023"
+  },
+  {
+    "n": 44,
+    "w": "Indignation",
+    "h": "आक्रोश / क्रोध",
+    "syns": [
+      "Offense",
+      "Anger",
+      "Wrath"
+    ],
+    "exam": "CPO 11 November, 2022"
+  },
+  {
+    "n": 45,
+    "w": "Imitation",
+    "h": "नकल / अनुकरण",
+    "syns": [
+      "Fake",
+      "Copy",
+      "Replica"
+    ],
+    "exam": "CPO 23 November, 2020"
+  },
+  {
+    "n": 46,
+    "w": "Inimical",
+    "h": "शत्रुतापूर्ण / विरोधी",
+    "syns": [
+      "Hostile",
+      "Adverse",
+      "Antagonistic"
+    ],
+    "exam": "CPO 11 December, 2019"
+  },
+  {
+    "n": 47,
+    "w": "Ignominy",
+    "h": "अपमान / बदनामी",
+    "syns": [
+      "Disgrace",
+      "Shame",
+      "Dishonor"
+    ],
+    "exam": "CPO 12 Dec, 2019 / DSSSB 29-03-2015"
+  },
+  {
+    "n": 48,
+    "w": "Incessant",
+    "h": "लगातार / निरंतर",
+    "syns": [
+      "Persistent",
+      "Continuous",
+      "Unending"
+    ],
+    "exam": "CPO 12 Dec, 2019 / DP HCM 2026"
+  },
+  {
+    "n": 49,
+    "w": "Incredible",
+    "h": "अविश्वसनीय / अद्भुत",
+    "syns": [
+      "Unbelievable",
+      "Amazing",
+      "Extraordinary"
+    ],
+    "exam": "CPO 12 December, 2019"
+  },
+  {
+    "n": 50,
+    "w": "Intensify",
+    "h": "तेज़ करना / बढ़ाना",
+    "syns": [
+      "Strengthen",
+      "Amplify",
+      "Enhance"
+    ],
+    "exam": "CPO 12 December, 2019"
+  },
+  {
+    "n": 51,
+    "w": "Intelligible",
+    "h": "समझने योग्य / स्पष्ट",
+    "syns": [
+      "Lucid",
+      "Clear",
+      "Understandable"
+    ],
+    "exam": "STENO 13 October, 2023"
+  },
+  {
+    "n": 52,
+    "w": "Immense",
+    "h": "विशाल / बहुत बड़ा",
+    "syns": [
+      "Huge",
+      "Vast",
+      "Enormous"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 53,
+    "w": "Innuendo",
+    "h": "व्यंग्योक्ति / संकेत",
+    "syns": [
+      "Insinuation",
+      "Hint",
+      "Suggestion"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 54,
+    "w": "Implicate",
+    "h": "फँसाना / दोषी ठहराना",
+    "syns": [
+      "Accuse",
+      "Involve",
+      "Entangle"
+    ],
+    "exam": "CGL 2024"
+  },
+  {
+    "n": 55,
+    "w": "Indigenous",
+    "h": "देशज / स्वदेशी",
+    "syns": [
+      "Aboriginal",
+      "Native",
+      "Local"
+    ],
+    "exam": "CHSL 2024 / MTS 2024"
+  },
+  {
+    "n": 56,
+    "w": "Intense",
+    "h": "तीव्र / प्रचंड",
+    "syns": [
+      "Strong",
+      "Extreme",
+      "Fierce"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 57,
+    "w": "Injustice",
+    "h": "अन्याय",
+    "syns": [
+      "Discrimination",
+      "Unfairness",
+      "Bias"
+    ],
+    "exam": "CHSL 2024"
+  },
+  {
+    "n": 58,
+    "w": "Illustrate",
+    "h": "चित्रित करना / उदाहरण देना",
+    "syns": [
+      "Explain",
+      "Demonstrate",
+      "Show"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 59,
+    "w": "Indispensable",
+    "h": "अनिवार्य / बिल्कुल ज़रूरी",
+    "syns": [
+      "Essential",
+      "Necessary",
+      "Vital"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 60,
+    "w": "Illicit",
+    "h": "अवैध / गैरकानूनी",
+    "syns": [
+      "Illegal",
+      "Unlawful",
+      "Prohibited"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 61,
+    "w": "Inspire",
+    "h": "प्रेरित करना",
+    "syns": [
+      "Stimulate",
+      "Motivate",
+      "Encourage"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 62,
+    "w": "Indigent",
+    "h": "निर्धन / दरिद्र",
+    "syns": [
+      "Impoverished",
+      "Poor",
+      "Destitute"
+    ],
+    "exam": "CPO 2024 / NDA 1 2023 / CHSL 10 June, 2022"
+  },
+  {
+    "n": 63,
+    "w": "Insolent",
+    "h": "धृष्ट / बेअदब",
+    "syns": [
+      "Disrespectful",
+      "Rude",
+      "Impertinent"
+    ],
+    "exam": "SSC PHASE XII 2024"
+  },
+  {
+    "n": 64,
+    "w": "Impeccable",
+    "h": "निर्दोष / परिपूर्ण",
+    "syns": [
+      "Flawless",
+      "Perfect",
+      "Spotless"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 65,
+    "w": "Ignoramus",
+    "h": "अज्ञानी / मूर्ख",
+    "syns": [
+      "Nincompoop",
+      "Fool",
+      "Dunce"
+    ],
+    "exam": "STENO 2024"
+  },
+  {
+    "n": 66,
+    "w": "Illuminate",
+    "h": "प्रकाशित करना / स्पष्ट करना",
+    "syns": [
+      "Explain",
+      "Clarify",
+      "Enlighten"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 67,
+    "w": "Intransigent",
+    "h": "अड़ियल / कट्टर",
+    "syns": [
+      "Stubborn",
+      "Unyielding",
+      "Obstinate"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 68,
+    "w": "Invective",
+    "h": "गालीगलौज / तीखी आलोचना",
+    "syns": [
+      "Tirade",
+      "Abuse",
+      "Verbal attack"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 69,
+    "w": "Irrepressible",
+    "h": "अदम्य / न रुकने वाला",
+    "syns": [
+      "Uncontrollable",
+      "Unstoppable",
+      "Impossible to suppress"
+    ],
+    "exam": "CGL 2025"
+  },
+  {
+    "n": 70,
+    "w": "Indolently",
+    "h": "आलस्य से / सुस्ती से",
+    "syns": [
+      "Languidly",
+      "Lazily",
+      "Sluggishly"
+    ],
+    "exam": "DP HCM 2026"
+  },
+  {
+    "n": 71,
+    "w": "Infringe",
+    "h": "उल्लंघन करना",
+    "syns": [
+      "Violate",
+      "Breach",
+      "Transgress"
+    ],
+    "exam": "DSSSB 25-08-2013 / CUET 2025"
+  },
+  {
+    "n": 72,
+    "w": "Impromptu",
+    "h": "तत्काल / बिना तैयारी के",
+    "syns": [
+      "Offhand",
+      "Spontaneous",
+      "Unplanned"
+    ],
+    "exam": "DSSSB 18-12-2014"
+  },
+  {
+    "n": 73,
+    "w": "Indelible",
+    "h": "अमिट / स्थायी",
+    "syns": [
+      "Permanent",
+      "Lasting",
+      "Unchangeable"
+    ],
+    "exam": "DSSSB 31-05-2015 / NDA 1 2025"
+  },
+  {
+    "n": 74,
+    "w": "Impervious",
+    "h": "अभेद्य / प्रतिरोधी",
+    "syns": [
+      "Impenetrable",
+      "Impenetrable",
+      "Resistant"
+    ],
+    "exam": "DSSSB 31-05-2015"
+  },
+  {
+    "n": 75,
+    "w": "Imperative",
+    "h": "अनिवार्य / ज़रूरी",
+    "syns": [
+      "Mandatory",
+      "Essential",
+      "Necessary"
+    ],
+    "exam": "DSSSB PRT 24/03/2022"
+  },
+  {
+    "n": 76,
+    "w": "Incongruous",
+    "h": "असंगत / बेमेल",
+    "syns": [
+      "Incompatible",
+      "Inconsistent",
+      "Out of place"
+    ],
+    "exam": "High Court RO 10/12/2021 / CDS 1 2023"
+  },
+  {
+    "n": 77,
+    "w": "Impugned",
+    "h": "चुनौती दी / खंडन किया",
+    "syns": [
+      "Challenged",
+      "Disputed",
+      "Questioned"
+    ],
+    "exam": "CDS 2 2019"
+  },
+  {
+    "n": 78,
+    "w": "Impounded",
+    "h": "जब्त किया / रोका",
+    "syns": [
+      "Confiscated",
+      "Seized",
+      "Detained"
+    ],
+    "exam": "CDS 2 2019"
+  },
+  {
+    "n": 79,
+    "w": "Ineptitude",
+    "h": "अयोग्यता / अनाड़ीपन",
+    "syns": [
+      "Incompetence",
+      "Inability",
+      "Incapability"
+    ],
+    "exam": "CDS 2 2018"
+  },
+  {
+    "n": 80,
+    "w": "Implications",
+    "h": "निहितार्थ / परिणाम",
+    "syns": [
+      "Consequences",
+      "Effects",
+      "Ramifications"
+    ],
+    "exam": "CDS 1 2020"
+  },
+  {
+    "n": 81,
+    "w": "Incorporated",
+    "h": "शामिल / एकीकृत",
+    "syns": [
+      "Integrated",
+      "Included",
+      "Merged"
+    ],
+    "exam": "CDS 1 2020"
+  },
+  {
+    "n": 82,
+    "w": "Ineluctable",
+    "h": "अपरिहार्य / टाला न जा सकने वाला",
+    "syns": [
+      "Unavoidable",
+      "Inescapable",
+      "Inevitable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 83,
+    "w": "Improving",
+    "h": "सुधर रहा / बेहतर हो रहा",
+    "syns": [
+      "Increasing",
+      "Progressing",
+      "Getting better"
+    ],
+    "exam": "NDA/NA 1 2018"
+  },
+  {
+    "n": 84,
+    "w": "Indiscriminately",
+    "h": "अंधाधुंध / बिना भेदभाव",
+    "syns": [
+      "Randomly",
+      "Without distinction",
+      "Carelessly"
+    ],
+    "exam": "NDA/NA 1 2017"
+  },
+  {
+    "n": 85,
+    "w": "Indissolubly",
+    "h": "अटूट रूप से",
+    "syns": [
+      "Firmly",
+      "Inseparably",
+      "Permanently"
+    ],
+    "exam": "NDA/NA 1 2018"
+  },
+  {
+    "n": 86,
+    "w": "Interlocutor",
+    "h": "वार्ताकार / संवाद करने वाला",
+    "syns": [
+      "Converser",
+      "Conversationalist",
+      "Speaker"
+    ],
+    "exam": "NDA/NA 1 2018"
+  },
+  {
+    "n": 87,
+    "w": "Instantaneous",
+    "h": "तत्काल / फौरन",
+    "syns": [
+      "Immediate",
+      "Prompt",
+      "Instant"
+    ],
+    "exam": "NDA 1 2025"
+  },
+  {
+    "n": 88,
+    "w": "Intimidate",
+    "h": "डराना / धमकाना",
+    "syns": [
+      "Frighten",
+      "Scare",
+      "Bully"
+    ],
+    "exam": "NDA 2 2017"
+  },
+  {
+    "n": 89,
+    "w": "Invincible",
+    "h": "अजेय / अपराजेय",
+    "syns": [
+      "Unbeatable",
+      "Unconquerable",
+      "Invulnerable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 90,
+    "w": "Interference",
+    "h": "हस्तक्षेप / दखलंदाज़ी",
+    "syns": [
+      "Obstruction",
+      "Intrusion",
+      "Meddling"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 91,
+    "w": "Insipid",
+    "h": "बेस्वाद / नीरस",
+    "syns": [
+      "Bland",
+      "Tasteless",
+      "Bland"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 92,
+    "w": "Invoice",
+    "h": "बीजक / चालान",
+    "syns": [
+      "Statement",
+      "Bill",
+      "Receipt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 93,
+    "w": "Ingenuous",
+    "h": "भोला / निष्कपट",
+    "syns": [
+      "Innocent",
+      "Naive",
+      "Candid"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 94,
+    "w": "Infirm",
+    "h": "कमज़ोर / अशक्त",
+    "syns": [
+      "Weak",
+      "Frail",
+      "Feeble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 95,
+    "w": "Irresolute",
+    "h": "अनिश्चित / दुविधा में",
+    "syns": [
+      "Undecided",
+      "Indecisive",
+      "Wavering"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 96,
+    "w": "Impediment",
+    "h": "बाधा / रुकावट",
+    "syns": [
+      "Chide",
+      "Hindrance",
+      "Barrier"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 97,
+    "w": "Infamy",
+    "h": "बदनामी / कुख्याति",
+    "syns": [
+      "Notoriety",
+      "Disgrace",
+      "Scandal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 98,
+    "w": "Inevitably",
+    "h": "अनिवार्य रूप से",
+    "syns": [
+      "Certainly",
+      "Surely",
+      "Definitely"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 99,
+    "w": "Initiate",
+    "h": "शुरू करना / आरंभ करना",
+    "syns": [
+      "Start",
+      "Begin",
+      "Launch"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 100,
+    "w": "Ineffable",
+    "h": "अवर्णनीय / जो बताया न जा सके",
+    "syns": [
+      "Inexpressible",
+      "Unspeakable",
+      "Indescribable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 101,
+    "w": "Intrepid",
+    "h": "निडर / साहसी",
+    "syns": [
+      "Fearless",
+      "Brave",
+      "Courageous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 102,
+    "w": "Insolvent",
+    "h": "दिवालिया / कंगाल",
+    "syns": [
+      "Bankrupt",
+      "Broke",
+      "Insolvent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 103,
+    "w": "Insinuate",
+    "h": "व्यंग्य करना / संकेत देना",
+    "syns": [
+      "Hint",
+      "Suggest",
+      "Imply"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 104,
+    "w": "Innocuous",
+    "h": "हानिरहित / सौम्य",
+    "syns": [
+      "Harmless",
+      "Safe",
+      "Benign"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 105,
+    "w": "Ingenious",
+    "h": "कुशाग्र / चतुर",
+    "syns": [
+      "Inventive",
+      "Clever",
+      "Creative"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 106,
+    "w": "Indulge",
+    "h": "लिप्त होना / मनमानी करना",
+    "syns": [
+      "Allow",
+      "Pamper",
+      "Satisfy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 107,
+    "w": "Incompetent",
+    "h": "अयोग्य / अकुशल",
+    "syns": [
+      "Inefficient",
+      "Unable",
+      "Unskilled"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 108,
+    "w": "Inclination",
+    "h": "झुकाव / रुचि",
+    "syns": [
+      "Interest",
+      "Tendency",
+      "Preference"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 109,
+    "w": "Incentive",
+    "h": "प्रोत्साहन / प्रेरणा",
+    "syns": [
+      "Motivation",
+      "Inspiration",
+      "Reward"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 110,
+    "w": "Impute",
+    "h": "आरोप लगाना / जिम्मेदार ठहराना",
+    "syns": [
+      "Ascribe",
+      "Attribute",
+      "Blame"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 111,
+    "w": "Impudence",
+    "h": "धृष्टता / बेशर्मी",
+    "syns": [
+      "Arrogance",
+      "Rudeness",
+      "Insolence"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 112,
+    "w": "Impetuous",
+    "h": "उतावला / आवेगी",
+    "syns": [
+      "Rash",
+      "Hasty",
+      "Impulsive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 113,
+    "w": "Impartial",
+    "h": "निष्पक्ष / तटस्थ",
+    "syns": [
+      "Fair",
+      "Neutral",
+      "Unbiased"
+    ],
+    "exam": "MTS 2025"
+  },
+  {
+    "n": 114,
+    "w": "Impair",
+    "h": "कमज़ोर करना / नुकसान पहुँचाना",
+    "syns": [
+      "Diminish",
+      "Damage",
+      "Harm"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 115,
+    "w": "Immunity",
+    "h": "प्रतिरक्षा / छूट",
+    "syns": [
+      "Protection",
+      "Exemption",
+      "Shield"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 116,
+    "w": "Immerse",
+    "h": "डुबोना / तल्लीन होना",
+    "syns": [
+      "Submerge",
+      "Engross",
+      "Sink"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 117,
+    "w": "Imbecile",
+    "h": "मूर्ख / बेवकूफ",
+    "syns": [
+      "Unsound",
+      "Stupid",
+      "Dim-witted"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 118,
+    "w": "Immaculate",
+    "h": "बेदाग / निर्दोष",
+    "syns": [
+      "Spotless",
+      "Flawless",
+      "Pure"
+    ],
+    "exam": "CUET 2025"
+  },
+  {
+    "n": 119,
+    "w": "Imaginary",
+    "h": "काल्पनिक / मनगढ़ंत",
+    "syns": [
+      "Fictional",
+      "Unreal",
+      "Fictitious"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 120,
+    "w": "Ignorance",
+    "h": "अज्ञानता / अज्ञान",
+    "syns": [
+      "Darkness",
+      "Lack of knowledge",
+      "Unawareness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 121,
+    "w": "Idle",
+    "h": "आलसी / निष्क्रिय",
+    "syns": [
+      "Lazy",
+      "Inactive",
+      "Dormant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 122,
+    "w": "Ignite",
+    "h": "जलाना / भड़काना",
+    "syns": [
+      "Burn",
+      "Set alight",
+      "Kindle"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 123,
+    "w": "Illusion",
+    "h": "भ्रम / मायाजाल",
+    "syns": [
+      "Mirage",
+      "Misconception",
+      "Mirage"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 124,
+    "w": "Implicit",
+    "h": "अस्पष्ट / निहित",
+    "syns": [
+      "Hidden",
+      "Unstated",
+      "Implied"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 125,
+    "w": "Imply",
+    "h": "तात्पर्य होना / संकेत करना",
+    "syns": [
+      "Suggest",
+      "Mean",
+      "Indicate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 126,
+    "w": "Impose",
+    "h": "थोपना / लागू करना",
+    "syns": [
+      "Force",
+      "Thrust",
+      "Enforce"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 127,
+    "w": "Induce",
+    "h": "प्रेरित करना / मनाना",
+    "syns": [
+      "Persuade",
+      "Motivate",
+      "Encourage"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 128,
+    "w": "Infer",
+    "h": "निष्कर्ष निकालना",
+    "syns": [
+      "Deduce",
+      "Conclude",
+      "Derive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 129,
+    "w": "Inhabit",
+    "h": "निवास करना / रहना",
+    "syns": [
+      "Reside",
+      "Live",
+      "Dwell"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 130,
+    "w": "Inherit",
+    "h": "विरासत में पाना",
+    "syns": [
+      "Acquire",
+      "Receive",
+      "Succeed to"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 131,
+    "w": "Inspect",
+    "h": "जाँच करना / निरीक्षण करना",
+    "syns": [
+      "Examine",
+      "Check",
+      "Review"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 132,
+    "w": "Instance",
+    "h": "उदाहरण / मामला",
+    "syns": [
+      "Example",
+      "Case",
+      "Occasion"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 133,
+    "w": "Install",
+    "h": "स्थापित करना",
+    "syns": [
+      "Fix",
+      "Set up",
+      "Establish"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 134,
+    "w": "Instinct",
+    "h": "सहज ज्ञान / प्रवृत्ति",
+    "syns": [
+      "Intuition",
+      "Gut feeling",
+      "Natural urge"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 135,
+    "w": "Intact",
+    "h": "अक्षुण्ण / अखंड",
+    "syns": [
+      "Undamaged",
+      "Complete",
+      "Whole"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 136,
+    "w": "Integral",
+    "h": "अभिन्न / आवश्यक",
+    "syns": [
+      "Essential",
+      "Core",
+      "Fundamental"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 137,
+    "w": "Intellectual",
+    "h": "बौद्धिक / ज्ञानी",
+    "syns": [
+      "Intelligent",
+      "Learned",
+      "Scholarly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 138,
+    "w": "Intent",
+    "h": "इरादा / उद्देश्य",
+    "syns": [
+      "Purpose",
+      "Aim",
+      "Goal"
+    ],
+    "exam": "CUET 2023"
+  },
+  {
+    "n": 139,
+    "w": "Intrigue",
+    "h": "रुचि जगाना / षड्यंत्र",
+    "syns": [
+      "Fascinate",
+      "Fascinate",
+      "Interest"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 140,
+    "w": "Invade",
+    "h": "आक्रमण करना",
+    "syns": [
+      "Attack",
+      "Infiltrate",
+      "Encroach"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 141,
+    "w": "Invent",
+    "h": "आविष्कार करना",
+    "syns": [
+      "Devise",
+      "Create",
+      "Discover"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 142,
+    "w": "Isolate",
+    "h": "अलग करना / एकांत में रखना",
+    "syns": [
+      "Separate",
+      "Segregate",
+      "Detach"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 143,
+    "w": "Idiosyncrasy",
+    "h": "अजीब आदत / विचित्रता",
+    "syns": [
+      "Peculiarity",
+      "Quirk",
+      "Trait"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 144,
+    "w": "Ignoble",
+    "h": "नीच / अपमानजनक",
+    "syns": [
+      "Dishonourable",
+      "Base",
+      "Mean"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 145,
+    "w": "Illustrious",
+    "h": "प्रसिद्ध / विख्यात",
+    "syns": [
+      "Eminent",
+      "Famous",
+      "Celebrated"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 146,
+    "w": "Imbroglio",
+    "h": "उलझन / पेचीदा स्थिति",
+    "syns": [
+      "Confusion",
+      "Mess",
+      "Complication"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 147,
+    "w": "Immutable",
+    "h": "अपरिवर्तनीय / स्थिर",
+    "syns": [
+      "Fixed",
+      "Unchangeable",
+      "Constant"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 148,
+    "w": "Implacable",
+    "h": "अनमनाने योग्य / कट्टर",
+    "syns": [
+      "Unforgiving",
+      "Relentless",
+      "Inexorable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 149,
+    "w": "Implausible",
+    "h": "असंभव / अविश्वसनीय",
+    "syns": [
+      "Doubtful",
+      "Unlikely",
+      "Improbable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 150,
+    "w": "Importunate",
+    "h": "जिद्दी / तंग करने वाला",
+    "syns": [
+      "Demand",
+      "Persistent",
+      "Pushy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 151,
+    "w": "Impostor",
+    "h": "ठग / नकली व्यक्ति",
+    "syns": [
+      "Fraud",
+      "Pretender",
+      "Cheat"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 152,
+    "w": "Imprecation",
+    "h": "शाप / अभिशाप",
+    "syns": [
+      "Curse",
+      "Curse",
+      "Profanity"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 153,
+    "w": "Improvident",
+    "h": "लापरवाह / मितव्ययिता न करने वाला",
+    "syns": [
+      "Careless",
+      "Thriftless",
+      "Reckless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 154,
+    "w": "Improvident",
+    "h": "अपव्ययी / बेपरवाह",
+    "syns": [
+      "Wasteful",
+      "Extravagant",
+      "Careless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 155,
+    "w": "Impunity",
+    "h": "दंड से मुक्ति",
+    "syns": [
+      "Exemption",
+      "Freedom from punishment",
+      "Immunity"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 156,
+    "w": "Inane",
+    "h": "बेमतलब / मूर्खतापूर्ण",
+    "syns": [
+      "Absurd",
+      "Pointless",
+      "Silly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 157,
+    "w": "Intermittent",
+    "h": "रुक-रुककर / आवधिक",
+    "syns": [
+      "Occasional",
+      "Sporadic",
+      "Periodic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 158,
+    "w": "Inchoate",
+    "h": "अधूरा / अविकसित",
+    "syns": [
+      "Rudimentary",
+      "Undeveloped",
+      "Embryonic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 159,
+    "w": "Incisive",
+    "h": "तेज़ / पैना",
+    "syns": [
+      "Sharp",
+      "Penetrating",
+      "Keen"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 160,
+    "w": "Indefatigable",
+    "h": "अथक / अनवरत",
+    "syns": [
+      "Energetic",
+      "Tireless",
+      "Relentless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 161,
+    "w": "Inert",
+    "h": "निष्क्रिय / जड़",
+    "syns": [
+      "Sluggish",
+      "Passive",
+      "Motionless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 162,
+    "w": "Inept",
+    "h": "अयोग्य / अकुशल",
+    "syns": [
+      "Incompetent",
+      "Clumsy",
+      "Useless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 163,
+    "w": "Influx",
+    "h": "आगमन / प्रवाह",
+    "syns": [
+      "Arrival",
+      "Inflow",
+      "Entry"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 164,
+    "w": "Iniquitous",
+    "h": "अनैतिक / अधर्मी",
+    "syns": [
+      "Immoral",
+      "Wicked",
+      "Evil"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 165,
+    "w": "Inscrutable",
+    "h": "रहस्यमय / अबूझ",
+    "syns": [
+      "Mysterious",
+      "Enigmatic",
+      "Unfathomable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 166,
+    "w": "Intangible",
+    "h": "अमूर्त / अस्पर्शनीय",
+    "syns": [
+      "Abstract",
+      "Invisible",
+      "Imperceptible"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 167,
+    "w": "Inveterate",
+    "h": "पक्का / पुरानी आदत वाला",
+    "syns": [
+      "Habitual",
+      "Deep-rooted",
+      "Chronic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 168,
+    "w": "Irascible",
+    "h": "क्रोधी / चिड़चिड़ा",
+    "syns": [
+      "Irritable",
+      "Hot-tempered",
+      "Short-tempered"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 169,
+    "w": "Itinerant",
+    "h": "घुमक्कड़ / भ्रमणशील",
+    "syns": [
+      "Travelling",
+      "Nomadic",
+      "Wandering"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 170,
+    "w": "Impassable",
+    "h": "अगम्य / न पार होने योग्य",
+    "syns": [
+      "Blocked",
+      "Inaccessible",
+      "Uncrossable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 171,
+    "w": "Inordinate",
+    "h": "अत्यधिक / बहुत ज़्यादा",
+    "syns": [
+      "Excessive",
+      "Extreme",
+      "Disproportionate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 172,
+    "w": "Inveigle",
+    "h": "बहकाना / फुसलाना",
+    "syns": [
+      "Persuade",
+      "Entice",
+      "Lure"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 173,
+    "w": "Indomitable",
+    "h": "अदम्य / अपराजेय",
+    "syns": [
+      "Unbeatable",
+      "Invulnerable",
+      "Steadfast"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 174,
+    "w": "Inveigh",
+    "h": "विरोध करना / कड़ी आलोचना",
+    "syns": [
+      "Protest",
+      "Denounce",
+      "Rail against"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 175,
+    "w": "Infamous",
+    "h": "बदनाम / कुख्यात",
+    "syns": [
+      "Notorious",
+      "Disreputable",
+      "Scandalous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 176,
+    "w": "Instigate",
+    "h": "उकसाना / भड़काना",
+    "syns": [
+      "Provoke",
+      "Incite",
+      "Instigate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 177,
+    "w": "Inscribed",
+    "h": "लिखा हुआ / उत्कीर्ण",
+    "syns": [
+      "Engraved",
+      "Carved",
+      "Imprinted"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 178,
+    "w": "Immanent",
+    "h": "अंतर्निहित / सर्वव्यापी",
+    "syns": [
+      "Omnipresent",
+      "Ever-present",
+      "Inherent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 179,
+    "w": "Impertinent",
+    "h": "बेअदब / अनुचित",
+    "syns": [
+      "Insolent",
+      "Cheeky",
+      "Rude"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 180,
+    "w": "Indisposition",
+    "h": "बीमारी / अनिच्छा",
+    "syns": [
+      "Illness",
+      "Ailment",
+      "Sickness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 181,
+    "w": "Intrinsic",
+    "h": "आंतरिक / स्वाभाविक",
+    "syns": [
+      "Inherent",
+      "Natural",
+      "Essential"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 182,
+    "w": "Ignominious",
+    "h": "शर्मनाक / अपमानजनक",
+    "syns": [
+      "Shameful",
+      "Disgraceful",
+      "Dishonorable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 183,
+    "w": "Imperturbable",
+    "h": "अविचल / शांत",
+    "syns": [
+      "Calm",
+      "Undisturbed",
+      "Unruffled"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 184,
+    "w": "Indubitable",
+    "h": "निर्विवाद / निश्चित",
+    "syns": [
+      "Certain",
+      "Definite",
+      "Unquestionable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 185,
+    "w": "Infallible",
+    "h": "अचूक / कभी न चूकने वाला",
+    "syns": [
+      "Faultless",
+      "Perfect",
+      "Unerring"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 186,
+    "w": "Invigorate",
+    "h": "ऊर्जा देना / स्फूर्ति देना",
+    "syns": [
+      "Encourage",
+      "Energize",
+      "Refresh"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 187,
+    "w": "Irreproachable",
+    "h": "निर्दोष / निष्कलंक",
+    "syns": [
+      "Blameless",
+      "Flawless",
+      "Virtuous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 188,
+    "w": "Intractable",
+    "h": "जिद्दी / अनियंत्रणीय",
+    "syns": [
+      "Unmanageable",
+      "Stubborn",
+      "Difficult"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 189,
+    "w": "Intriguing",
+    "h": "रहस्यमय / रोचक",
+    "syns": [
+      "Fascinating",
+      "Interesting",
+      "Captivating"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 190,
+    "w": "Incumbrance",
+    "h": "बोझ / बाधा",
+    "syns": [
+      "Burden",
+      "Hindrance",
+      "Load"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 191,
+    "w": "Induction",
+    "h": "प्रेरण / शुरुआत",
+    "syns": [
+      "Beginning",
+      "Introduction",
+      "Initiation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 192,
+    "w": "Imperious",
+    "h": "अहंकारी / प्रभुत्ववादी",
+    "syns": [
+      "Arrogant",
+      "Domineering",
+      "Bossy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 193,
+    "w": "Imponderable",
+    "h": "अनिश्चित / अमापनीय",
+    "syns": [
+      "Unpredictable",
+      "Uncertain",
+      "Unknowable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 194,
+    "w": "Importune",
+    "h": "परेशान करना / बार-बार माँगना",
+    "syns": [
+      "Harass",
+      "Pester",
+      "Bother"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 195,
+    "w": "Imprudent",
+    "h": "लापरवाह / अविवेकी",
+    "syns": [
+      "Careless",
+      "Reckless",
+      "Unwise"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 196,
+    "w": "Inadvertent",
+    "h": "अनजाने में / अनायास",
+    "syns": [
+      "Accidental",
+      "Unintentional",
+      "Unplanned"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 197,
+    "w": "Incarcerate",
+    "h": "कारावास देना / जेल भेजना",
+    "syns": [
+      "Imprison",
+      "Jail",
+      "Confine"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 198,
+    "w": "Incise",
+    "h": "काटना / तराशना",
+    "syns": [
+      "Slice",
+      "Cut",
+      "Engrave"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 199,
+    "w": "Incinerate",
+    "h": "जलाना / भस्म करना",
+    "syns": [
+      "Burn",
+      "Cremate",
+      "Reduce to ashes"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 200,
+    "w": "Indemnify",
+    "h": "क्षतिपूर्ति करना",
+    "syns": [
+      "Compensate",
+      "Reimburse",
+      "Repay"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 201,
+    "w": "Indict",
+    "h": "अभियोग लगाना",
+    "syns": [
+      "Accuse",
+      "Charge",
+      "Prosecute"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 202,
+    "w": "Indignant",
+    "h": "क्रोधित / आहत",
+    "syns": [
+      "Angry",
+      "Furious",
+      "Resentful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 203,
+    "w": "Inebriated",
+    "h": "नशे में / मदमस्त",
+    "syns": [
+      "Drunk",
+      "Intoxicated",
+      "Tipsy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 204,
+    "w": "Infirmity",
+    "h": "दुर्बलता / कमज़ोरी",
+    "syns": [
+      "Illness",
+      "Weakness",
+      "Disability"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 205,
+    "w": "Infructuous",
+    "h": "निष्फल / व्यर्थ",
+    "syns": [
+      "Useless",
+      "Fruitless",
+      "Ineffective"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 206,
+    "w": "Ingratiate",
+    "h": "अपनी तारीफ कराना / चापलूसी",
+    "syns": [
+      "Charm",
+      "Flatter",
+      "Curry favour"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 207,
+    "w": "Instinctive",
+    "h": "स्वाभाविक / सहज",
+    "syns": [
+      "Innate",
+      "Natural",
+      "Spontaneous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 208,
+    "w": "Integrity",
+    "h": "ईमानदारी / सत्यनिष्ठा",
+    "syns": [
+      "Honesty",
+      "Uprightness",
+      "Virtue"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 209,
+    "w": "Irascible",
+    "h": "चिड़चिड़ा / क्रोधी",
+    "syns": [
+      "Angry",
+      "Quick-tempered",
+      "Irritable"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 210,
+    "w": "Implement",
+    "h": "क्रियान्वित करना / लागू करना",
+    "syns": [
+      "Execute",
+      "Carry out",
+      "Execute"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 211,
+    "w": "Infidelity",
+    "h": "बेवफाई / विश्वासघात",
+    "syns": [
+      "Treachery",
+      "Betrayal",
+      "Disloyalty"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 212,
+    "w": "Inkling",
+    "h": "संकेत / आभास",
+    "syns": [
+      "Hint",
+      "Clue",
+      "Indication"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 213,
+    "w": "Insurgent",
+    "h": "विद्रोही",
+    "syns": [
+      "Rebellious",
+      "Rebel",
+      "Mutineer"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 214,
+    "w": "Interim",
+    "h": "अंतरिम / अस्थायी",
+    "syns": [
+      "Provisional",
+      "Temporary",
+      "Transitional"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 215,
+    "w": "Intriguing",
+    "h": "रोचक / आकर्षक",
+    "syns": [
+      "Alluring",
+      "Fascinating",
+      "Interesting"
+    ],
+    "exam": ""
+  }
+]

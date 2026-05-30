@@ -1,0 +1,1058 @@
+[
+  {
+    "n": 1,
+    "w": "Lighting up",
+    "h": "रोशन होना",
+    "syns": [
+      "Glowing",
+      "Brightening",
+      "Illuminating"
+    ],
+    "exam": "CGL 7 December, 2022"
+  },
+  {
+    "n": 2,
+    "w": "Lacuna",
+    "h": "कमी / अंतर",
+    "syns": [
+      "Hiatus",
+      "Gap",
+      "Missing piece"
+    ],
+    "exam": "CGL 13 April, 2022"
+  },
+  {
+    "n": 3,
+    "w": "Laggard",
+    "h": "सुस्त / पिछड़ा",
+    "syns": [
+      "Dawdling",
+      "Slow",
+      "Sluggish"
+    ],
+    "exam": "CHSL 9 March, 2023"
+  },
+  {
+    "n": 4,
+    "w": "Litigant",
+    "h": "मुकदमेबाज / वादी",
+    "syns": [
+      "Petitioner",
+      "Party in a lawsuit",
+      "Claimant"
+    ],
+    "exam": "CHSL 2 June, 2022"
+  },
+  {
+    "n": 5,
+    "w": "Laconic",
+    "h": "संक्षिप्त / कम शब्दों में",
+    "syns": [
+      "Concise",
+      "Brief",
+      "Terse"
+    ],
+    "exam": "CHSL 6 June, 2022 / CHSL 12 Sep, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Ludicrous",
+    "h": "हास्यास्पद / बेतुका",
+    "syns": [
+      "Crazy",
+      "Absurd",
+      "Ridiculous"
+    ],
+    "exam": "CHSL 10 June, 2022"
+  },
+  {
+    "n": 7,
+    "w": "Livid",
+    "h": "क्रोधित / नीला-पड़ा",
+    "syns": [
+      "Furious",
+      "Angry",
+      "Enraged"
+    ],
+    "exam": "CHSL 6 August, 2021"
+  },
+  {
+    "n": 8,
+    "w": "Lethargic",
+    "h": "सुस्त / आलसी",
+    "syns": [
+      "Inactive",
+      "Sluggish",
+      "Slow"
+    ],
+    "exam": "CHSL 5 July, 2022"
+  },
+  {
+    "n": 9,
+    "w": "Lax",
+    "h": "ढीला / लापरवाह",
+    "syns": [
+      "Negligent",
+      "Loose",
+      "Careless"
+    ],
+    "exam": "CHSL 5 October, 2021"
+  },
+  {
+    "n": 10,
+    "w": "Limpid",
+    "h": "स्वच्छ / पारदर्शी",
+    "syns": [
+      "Lucid",
+      "Clear",
+      "Transparent"
+    ],
+    "exam": "CHSL 5 October, 2021"
+  },
+  {
+    "n": 11,
+    "w": "Lucid",
+    "h": "स्पष्ट / बोधगम्य",
+    "syns": [
+      "Clear",
+      "Understandable",
+      "Comprehensible"
+    ],
+    "exam": "CHSL 26 Oct, 2021 / STENO 2021"
+  },
+  {
+    "n": 12,
+    "w": "Loyalty",
+    "h": "वफादारी / निष्ठा",
+    "syns": [
+      "Faithfulness",
+      "Allegiance",
+      "Devotion"
+    ],
+    "exam": "CHSL 27 Oct, 2021 / CPO 12 Dec, 2019"
+  },
+  {
+    "n": 13,
+    "w": "Lustre",
+    "h": "चमक / प्रभा",
+    "syns": [
+      "Shine",
+      "Radiance",
+      "Glow"
+    ],
+    "exam": "MTS 10 January, 2023"
+  },
+  {
+    "n": 14,
+    "w": "Liberty",
+    "h": "स्वतंत्रता / आज़ादी",
+    "syns": [
+      "Freedom",
+      "Independence",
+      "Release"
+    ],
+    "exam": "MTS 13 January, 2023"
+  },
+  {
+    "n": 15,
+    "w": "Lassitude",
+    "h": "थकान / सुस्ती",
+    "syns": [
+      "Weariness",
+      "Tiredness",
+      "Fatigue"
+    ],
+    "exam": "MTS 1 February, 2023"
+  },
+  {
+    "n": 16,
+    "w": "Laudable",
+    "h": "प्रशंसनीय / तारीफ के काबिल",
+    "syns": [
+      "Praiseworthy",
+      "Commendable",
+      "Admirable"
+    ],
+    "exam": "MTS 8 Feb, 2023 / NDA 1 2021"
+  },
+  {
+    "n": 17,
+    "w": "Leap",
+    "h": "उछलना / छलाँग लगाना",
+    "syns": [
+      "Jump",
+      "Bound",
+      "Spring"
+    ],
+    "exam": "MTS 8 February, 2023"
+  },
+  {
+    "n": 18,
+    "w": "Lure",
+    "h": "प्रलोभन / आकर्षण",
+    "syns": [
+      "Attract",
+      "Entice",
+      "Tempt"
+    ],
+    "exam": "SSC GD 26 November, 2021"
+  },
+  {
+    "n": 19,
+    "w": "Layout",
+    "h": "रूपरेखा / व्यवस्था",
+    "syns": [
+      "Arrangement",
+      "Design",
+      "Plan"
+    ],
+    "exam": "SSC GD 3 December, 2021"
+  },
+  {
+    "n": 20,
+    "w": "Level",
+    "h": "समतल / बराबर",
+    "syns": [
+      "Flat",
+      "Even",
+      "Horizontal"
+    ],
+    "exam": "SSC GD 8 December, 2021"
+  },
+  {
+    "n": 21,
+    "w": "Lethal",
+    "h": "घातक / जानलेवा",
+    "syns": [
+      "Fatal",
+      "Deadly",
+      "Mortal"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 22,
+    "w": "Lethargy",
+    "h": "सुस्ती / आलस",
+    "syns": [
+      "Hebetude",
+      "Sluggishness",
+      "Inactivity"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 23,
+    "w": "Lofty",
+    "h": "ऊँचा / भव्य",
+    "syns": [
+      "Towering",
+      "Tall",
+      "Noble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 24,
+    "w": "Lavish",
+    "h": "विलासी / उदार",
+    "syns": [
+      "Luxurious",
+      "Extravagant",
+      "Generous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 25,
+    "w": "Lucky",
+    "h": "भाग्यशाली",
+    "syns": [
+      "Auspicious",
+      "Fortunate",
+      "Blessed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 26,
+    "w": "Loving",
+    "h": "प्यार करने वाला",
+    "syns": [
+      "Affectionate",
+      "Caring",
+      "Tender"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 27,
+    "w": "Legitimate",
+    "h": "वैध / कानूनी",
+    "syns": [
+      "Genuine",
+      "Lawful",
+      "Valid"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 28,
+    "w": "Labor",
+    "h": "परिश्रम / मेहनत",
+    "syns": [
+      "Toil",
+      "Work",
+      "Effort"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 29,
+    "w": "Leisure",
+    "h": "अवकाश / फुर्सत",
+    "syns": [
+      "Recreation",
+      "Free time",
+      "Relaxation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 30,
+    "w": "Luminous",
+    "h": "चमकदार / प्रकाशमान",
+    "syns": [
+      "Radiant",
+      "Glowing",
+      "Bright"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 31,
+    "w": "Lousy",
+    "h": "घटिया / बेकार",
+    "syns": [
+      "Pitiful",
+      "Poor",
+      "Inferior"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 32,
+    "w": "Lenient",
+    "h": "उदार / नरम",
+    "syns": [
+      "Easy-going",
+      "Tolerant",
+      "Mild"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 33,
+    "w": "Loathed",
+    "h": "घृणित / नापसंद",
+    "syns": [
+      "Abhorred",
+      "Detested",
+      "Hated"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 34,
+    "w": "Lullaby",
+    "h": "लोरी",
+    "syns": [
+      "Song",
+      "Cradle song",
+      "Soothing song"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 35,
+    "w": "Languid",
+    "h": "सुस्त / थका हुआ",
+    "syns": [
+      "Sluggish",
+      "Tired",
+      "Feeble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 36,
+    "w": "Laying up",
+    "h": "जमा करना",
+    "syns": [
+      "Accumulating",
+      "Saving",
+      "Storing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 37,
+    "w": "Lamenting",
+    "h": "विलाप करना",
+    "syns": [
+      "Bemoaning",
+      "Grieving",
+      "Mourning"
+    ],
+    "exam": "MTS 2025"
+  },
+  {
+    "n": 38,
+    "w": "Lunacy",
+    "h": "पागलपन / उन्माद",
+    "syns": [
+      "Insanity",
+      "Madness",
+      "Folly"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 39,
+    "w": "Latent",
+    "h": "सुप्त / छिपा हुआ",
+    "syns": [
+      "Hidden",
+      "Dormant",
+      "Concealed"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 40,
+    "w": "Labyrinth",
+    "h": "भूलभुलैया",
+    "syns": [
+      "Meander",
+      "Maze",
+      "Puzzle"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 41,
+    "w": "Lackadaisical",
+    "h": "उदासीन / सुस्त",
+    "syns": [
+      "Languid",
+      "Lazy",
+      "Apathetic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 42,
+    "w": "Lack-lustre",
+    "h": "बेजान / फीका",
+    "syns": [
+      "Dull",
+      "Dim",
+      "Unimpressive"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 43,
+    "w": "Laden",
+    "h": "भरा हुआ / लदा हुआ",
+    "syns": [
+      "Loaded",
+      "Burdened",
+      "Filled"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 44,
+    "w": "Lean",
+    "h": "दुबला / पतला",
+    "syns": [
+      "Thin",
+      "Slim",
+      "Slender"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 45,
+    "w": "Lechery",
+    "h": "कामुकता / वासना",
+    "syns": [
+      "Indecency",
+      "Lewdness",
+      "Lust"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 46,
+    "w": "Left",
+    "h": "चला गया / छोड़ा",
+    "syns": [
+      "Departed",
+      "Gone",
+      "Exited"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 47,
+    "w": "Leniency",
+    "h": "नरमी / उदारता",
+    "syns": [
+      "Clemency",
+      "Mercy",
+      "Softness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 48,
+    "w": "Lessen",
+    "h": "कम करना",
+    "syns": [
+      "Mitigate",
+      "Reduce",
+      "Diminish"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 49,
+    "w": "Levity",
+    "h": "हल्कापन / मज़ाकिया रवैया",
+    "syns": [
+      "Jocundity",
+      "Frivolity",
+      "Lightheartedness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 50,
+    "w": "Liable",
+    "h": "जिम्मेदार / संभावित",
+    "syns": [
+      "Accountable",
+      "Responsible",
+      "Susceptible"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 51,
+    "w": "Linger",
+    "h": "रुकना / देर करना",
+    "syns": [
+      "Stay",
+      "Remain",
+      "Delay"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 52,
+    "w": "Loiter",
+    "h": "मटरगश्ती करना / इधर-उधर घूमना",
+    "syns": [
+      "Saunter",
+      "Wander",
+      "Dawdle"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 53,
+    "w": "Longevity",
+    "h": "दीर्घायु / लंबा जीवन",
+    "syns": [
+      "Durability",
+      "Long life",
+      "Endurance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 54,
+    "w": "Languor",
+    "h": "थकान / सुस्ती",
+    "syns": [
+      "Weakness",
+      "Weariness",
+      "Drowsiness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 55,
+    "w": "Lair",
+    "h": "माँद / छिपने की जगह",
+    "syns": [
+      "Den",
+      "Burrow",
+      "Hideout"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 56,
+    "w": "Lascivious",
+    "h": "कामुक / अश्लील",
+    "syns": [
+      "Lustful",
+      "Lewd",
+      "Indecent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 57,
+    "w": "Loquacious",
+    "h": "बहुत बोलने वाला",
+    "syns": [
+      "Talkative",
+      "Garrulous",
+      "Verbose"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 58,
+    "w": "Luscious",
+    "h": "रसीला / स्वादिष्ट",
+    "syns": [
+      "Delectable",
+      "Juicy",
+      "Delicious"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 59,
+    "w": "Listless",
+    "h": "उदासीन / निरुत्साह",
+    "syns": [
+      "Languid",
+      "Sluggish",
+      "Apathetic"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 60,
+    "w": "Liberal",
+    "h": "उदार / खुले विचारों वाला",
+    "syns": [
+      "Progressive",
+      "Open-minded",
+      "Generous"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 61,
+    "w": "Lurk",
+    "h": "छिपना / घात लगाना",
+    "syns": [
+      "Skulk",
+      "Hide",
+      "Sneak"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 62,
+    "w": "Luxuriant",
+    "h": "समृद्ध / हरा-भरा",
+    "syns": [
+      "Abundant",
+      "Lush",
+      "Thriving"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 63,
+    "w": "Liberate",
+    "h": "मुक्त करना",
+    "syns": [
+      "Free",
+      "Release",
+      "Emancipate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 64,
+    "w": "Lag",
+    "h": "पिछड़ना / देर होना",
+    "syns": [
+      "Delay",
+      "Fall behind",
+      "Slow down"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 65,
+    "w": "Libellous",
+    "h": "मानहानिकारक",
+    "syns": [
+      "Defamatory",
+      "Slanderous",
+      "Defaming"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 66,
+    "w": "Lewd",
+    "h": "अश्लील / अभद्र",
+    "syns": [
+      "Obscene",
+      "Vulgar",
+      "Indecent"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 67,
+    "w": "Largesse",
+    "h": "उदारता / दानशीलता",
+    "syns": [
+      "Generosity",
+      "Charity",
+      "Gift"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 68,
+    "w": "Lackey",
+    "h": "चमचा / सेवक",
+    "syns": [
+      "Servant",
+      "Subordinate",
+      "Helper"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 69,
+    "w": "Lapse",
+    "h": "भूल / चूक",
+    "syns": [
+      "Error",
+      "Mistake",
+      "Slip"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 70,
+    "w": "Leverage",
+    "h": "लाभ / फायदा",
+    "syns": [
+      "Advantage",
+      "Benefit",
+      "Edge"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 71,
+    "w": "Limp",
+    "h": "लड़खड़ाना / कमज़ोर",
+    "syns": [
+      "Weak",
+      "Feeble",
+      "Frail"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 72,
+    "w": "Lodger",
+    "h": "किरायेदार",
+    "syns": [
+      "Tenant",
+      "Renter",
+      "Boarder"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 73,
+    "w": "Lissome",
+    "h": "लचीला / फुर्तीला",
+    "syns": [
+      "Flexible",
+      "Supple",
+      "Agile"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 74,
+    "w": "Lacerant",
+    "h": "काटने वाला / चुभने वाला",
+    "syns": [
+      "Tearing",
+      "Piercing",
+      "Cutting"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 75,
+    "w": "Lithe",
+    "h": "लचीला / सुडौल",
+    "syns": [
+      "Flexible",
+      "Supple",
+      "Nimble"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 76,
+    "w": "Lull",
+    "h": "शांत करना / विराम",
+    "syns": [
+      "Calm",
+      "Pause",
+      "Quiet"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 77,
+    "w": "Liminal",
+    "h": "दहलीज पर / संक्रमणकालीन",
+    "syns": [
+      "Transitional",
+      "Threshold",
+      "In-between"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 78,
+    "w": "Luminance",
+    "h": "चमक / प्रकाश",
+    "syns": [
+      "Brightness",
+      "Light",
+      "Radiance"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 79,
+    "w": "Labile",
+    "h": "अस्थिर / परिवर्तनशील",
+    "syns": [
+      "Unstable",
+      "Changeable",
+      "Volatile"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 80,
+    "w": "Lustration",
+    "h": "शुद्धिकरण / सफाई",
+    "syns": [
+      "Purification",
+      "Cleansing",
+      "Purification"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 81,
+    "w": "Lucrative",
+    "h": "लाभदायक / फायदेमंद",
+    "syns": [
+      "Profitable",
+      "Rewarding",
+      "Remunerative"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 82,
+    "w": "Lopsided",
+    "h": "असमान / झुका हुआ",
+    "syns": [
+      "Unbalanced",
+      "Asymmetrical",
+      "Tilted"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 83,
+    "w": "Laxity",
+    "h": "ढिलाई / लापरवाही",
+    "syns": [
+      "Carelessness",
+      "Negligence",
+      "Slackness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 84,
+    "w": "Lexicon",
+    "h": "शब्दकोश / शब्दसंग्रह",
+    "syns": [
+      "Vocabulary",
+      "Dictionary",
+      "Word list"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 85,
+    "w": "Lachrymose",
+    "h": "रोने वाला / दुखी",
+    "syns": [
+      "Tearful",
+      "Weeping",
+      "Mournful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 86,
+    "w": "Lividity",
+    "h": "क्रोध / नीलापन",
+    "syns": [
+      "Fury",
+      "Rage",
+      "Anger"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 87,
+    "w": "Labyrinthine",
+    "h": "भूलभुलैया जैसा / जटिल",
+    "syns": [
+      "Complex",
+      "Intricate",
+      "Winding"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 88,
+    "w": "Lilliputian",
+    "h": "बहुत छोटा / लघु",
+    "syns": [
+      "Tiny",
+      "Miniature",
+      "Tiny"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 89,
+    "w": "Lacerate",
+    "h": "चीरना / घाव करना",
+    "syns": [
+      "Tear",
+      "Cut",
+      "Wound"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 90,
+    "w": "Larceny",
+    "h": "चोरी / लूट",
+    "syns": [
+      "Theft",
+      "Robbery",
+      "Stealing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 91,
+    "w": "Lineage",
+    "h": "वंश / कुल",
+    "syns": [
+      "Ancestry",
+      "Descent",
+      "Origin"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 92,
+    "w": "Lugubrious",
+    "h": "बेहद दुखी / शोकपूर्ण",
+    "syns": [
+      "Sad",
+      "Sorrowful",
+      "Mournful"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 93,
+    "w": "Limping",
+    "h": "लड़खड़ाकर चलना",
+    "syns": [
+      "Walking unevenly",
+      "Hobbling",
+      "Stumbling"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 94,
+    "w": "Lampoon",
+    "h": "व्यंग्य / उपहास",
+    "syns": [
+      "Mock",
+      "Satirize",
+      "Ridicule"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 95,
+    "w": "Legislation",
+    "h": "कानून / विधान",
+    "syns": [
+      "Statute",
+      "Law",
+      "Act"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 96,
+    "w": "Levitate",
+    "h": "हवा में तैरना / उठना",
+    "syns": [
+      "Float",
+      "Rise",
+      "Hover"
+    ],
+    "exam": ""
+  }
+]

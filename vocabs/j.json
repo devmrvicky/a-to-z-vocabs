@@ -1,0 +1,585 @@
+[
+  {
+    "n": 1,
+    "w": "Jargon",
+    "h": "शब्दजाल / विशेष भाषा",
+    "syns": [
+      "Slang",
+      "Technical terms",
+      "Special language"
+    ],
+    "exam": "CGL 21 July, 2023 / SELECTION POST 2024"
+  },
+  {
+    "n": 2,
+    "w": "Juvenile",
+    "h": "युवा / बालसुलभ",
+    "syns": [
+      "Childish",
+      "Young",
+      "Immature"
+    ],
+    "exam": "CGL 6 Mar, 2020 / CGL 2025"
+  },
+  {
+    "n": 3,
+    "w": "Judicious",
+    "h": "विवेकशील / सोच-समझकर",
+    "syns": [
+      "Thoughtful",
+      "Wise",
+      "Prudent"
+    ],
+    "exam": "CGL 29 Jan, 2022 Tier-2 / SSC GD 8 Feb, 2023 / CGL 2024"
+  },
+  {
+    "n": 4,
+    "w": "Jarred",
+    "h": "हिलाया / कर्कश लगा",
+    "syns": [
+      "Altercated",
+      "Clashed",
+      "Conflicted"
+    ],
+    "exam": "CHSL 13 March, 2023"
+  },
+  {
+    "n": 5,
+    "w": "Jape",
+    "h": "मज़ाक / परिहास",
+    "syns": [
+      "Jest",
+      "Joke",
+      "Prank"
+    ],
+    "exam": "CHSL 15 March, 2023"
+  },
+  {
+    "n": 6,
+    "w": "Jejune",
+    "h": "नीरस / बचकाना",
+    "syns": [
+      "Drab",
+      "Boring",
+      "Uninteresting"
+    ],
+    "exam": "CHSL 20 March, 2023"
+  },
+  {
+    "n": 7,
+    "w": "Jeopardy",
+    "h": "खतरा / जोखिम",
+    "syns": [
+      "Peril",
+      "Danger",
+      "Risk"
+    ],
+    "exam": "CHSL 12 Apr, 2021 / Bihar Police 09/12/2012 / CPO 12/12/2019 / DSSSB 29/03/2015"
+  },
+  {
+    "n": 8,
+    "w": "Jaded",
+    "h": "थका हुआ / ऊबा हुआ",
+    "syns": [
+      "Fatigued",
+      "Exhausted",
+      "Worn out"
+    ],
+    "exam": "MTS 8 May, 2023"
+  },
+  {
+    "n": 9,
+    "w": "Judge",
+    "h": "न्याय करना / निर्णय लेना",
+    "syns": [
+      "Decide",
+      "Evaluate",
+      "Assess"
+    ],
+    "exam": "MTS 9 May, 2023"
+  },
+  {
+    "n": 10,
+    "w": "Just",
+    "h": "न्यायसंगत / उचित",
+    "syns": [
+      "Fair",
+      "Equitable",
+      "Impartial"
+    ],
+    "exam": "CPO 23 November, 2020"
+  },
+  {
+    "n": 11,
+    "w": "Jubilant",
+    "h": "खुशी से उत्साहित",
+    "syns": [
+      "Overjoyed",
+      "Elated",
+      "Ecstatic"
+    ],
+    "exam": "CPO 13 October, 2023"
+  },
+  {
+    "n": 12,
+    "w": "Jealous",
+    "h": "ईर्ष्यालु",
+    "syns": [
+      "Envious",
+      "Jealous",
+      "Covetous"
+    ],
+    "exam": "CHSL 2024 / CDS 2014"
+  },
+  {
+    "n": 13,
+    "w": "Jurisdiction",
+    "h": "न्याय क्षेत्र / अधिकार क्षेत्र",
+    "syns": [
+      "Governance",
+      "Authority",
+      "Power"
+    ],
+    "exam": "MTS 2024"
+  },
+  {
+    "n": 14,
+    "w": "Jovial",
+    "h": "हंसमुख / प्रसन्नचित्त",
+    "syns": [
+      "Mirthful",
+      "Cheerful",
+      "Merry"
+    ],
+    "exam": "DSSSB PRT 07/03/2022 / KVS PRT 24/02/2023 / NDA 16/04/2023"
+  },
+  {
+    "n": 15,
+    "w": "Juxtapose",
+    "h": "आमने-सामने रखना",
+    "syns": [
+      "Collocate",
+      "Place side by side",
+      "Compare"
+    ],
+    "exam": "DSSSB Junior Assistant 31/08/2021"
+  },
+  {
+    "n": 16,
+    "w": "Jabber",
+    "h": "बड़बड़ाना",
+    "syns": [
+      "Chatter",
+      "Prattle",
+      "Chatter"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 17,
+    "w": "Jangle",
+    "h": "कर्कश आवाज़",
+    "syns": [
+      "Discord",
+      "Clashing sound",
+      "Noise"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 18,
+    "w": "Jest",
+    "h": "मज़ाक / परिहास",
+    "syns": [
+      "Frivolity",
+      "Joke",
+      "Humor"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 19,
+    "w": "Jaunty",
+    "h": "खुशमिजाज़ / चुलबुला",
+    "syns": [
+      "Cheerful",
+      "Lively",
+      "Breezy"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 20,
+    "w": "Jettison",
+    "h": "फेंकना / त्यागना",
+    "syns": [
+      "Discard",
+      "Abandon",
+      "Discard"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 21,
+    "w": "Jitters",
+    "h": "घबराहट / बेचैनी",
+    "syns": [
+      "Nervousness",
+      "Anxiety",
+      "Nervousness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 22,
+    "w": "Junk",
+    "h": "कचरा / बेकार चीज़",
+    "syns": [
+      "Trash",
+      "Rubbish",
+      "Waste"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 23,
+    "w": "Jiffy",
+    "h": "पल में / झटपट",
+    "syns": [
+      "Haste",
+      "Instant",
+      "Moment"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 24,
+    "w": "Jeer",
+    "h": "ताना मारना / उपहास",
+    "syns": [
+      "Mock",
+      "Scoff",
+      "Taunt"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 25,
+    "w": "Jingoism",
+    "h": "अंधराष्ट्रवाद",
+    "syns": [
+      "Patriotism",
+      "Extreme nationalism",
+      "Chauvinism"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 26,
+    "w": "Jocund",
+    "h": "प्रसन्न / हंसमुख",
+    "syns": [
+      "Cheerful",
+      "Happy",
+      "Merry"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 27,
+    "w": "Jubilation",
+    "h": "खुशी / जश्न",
+    "syns": [
+      "Joy",
+      "Celebration",
+      "Delight"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 28,
+    "w": "Juicy",
+    "h": "रसीला / दिलचस्प",
+    "syns": [
+      "Succulent",
+      "Luscious",
+      "Interesting"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 29,
+    "w": "Justifiable",
+    "h": "उचित / तर्कसंगत",
+    "syns": [
+      "Defensible",
+      "Reasonable",
+      "Legitimate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 30,
+    "w": "Jinx",
+    "h": "अपशकुन / बुरी किस्मत",
+    "syns": [
+      "Curse",
+      "Bad luck",
+      "Hex"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 31,
+    "w": "Jubilate",
+    "h": "आनंद मनाना",
+    "syns": [
+      "Rejoice",
+      "Celebrate",
+      "Exult"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 32,
+    "w": "Jostle",
+    "h": "धक्का देना",
+    "syns": [
+      "Push roughly",
+      "Shove",
+      "Bump"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 33,
+    "w": "Jerk",
+    "h": "झटका / अचानक हरकत",
+    "syns": [
+      "Sudden pull",
+      "Jolt",
+      "Tug"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 34,
+    "w": "Juggle",
+    "h": "जगलबाज़ी करना",
+    "syns": [
+      "Catch",
+      "Balance",
+      "Manage"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 35,
+    "w": "Jocular",
+    "h": "हास्यपूर्ण / मज़ाकिया",
+    "syns": [
+      "Humorous",
+      "Witty",
+      "Funny"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 36,
+    "w": "Jumble",
+    "h": "मिला-जुला / गड़बड़ी",
+    "syns": [
+      "Mix",
+      "Disorder",
+      "Mess"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 37,
+    "w": "Jab",
+    "h": "कोंचना / घूंसा",
+    "syns": [
+      "Poke",
+      "Stab",
+      "Thrust"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 38,
+    "w": "Jurisprudence",
+    "h": "न्यायशास्त्र",
+    "syns": [
+      "Law",
+      "Legal science",
+      "Law studies"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 39,
+    "w": "Judiciary",
+    "h": "न्यायपालिका",
+    "syns": [
+      "Court",
+      "Courts",
+      "Legal system"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 40,
+    "w": "Justice",
+    "h": "न्याय / इंसाफ",
+    "syns": [
+      "Fairness",
+      "Fairness",
+      "Equity"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 41,
+    "w": "Judgment",
+    "h": "निर्णय / फैसला",
+    "syns": [
+      "Decision",
+      "Verdict",
+      "Ruling"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 42,
+    "w": "Justifiable",
+    "h": "न्यायोचित / तर्कसंगत",
+    "syns": [
+      "Reasonable",
+      "Defensible",
+      "Valid"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 43,
+    "w": "Jailbird",
+    "h": "कैदी / अपराधी",
+    "syns": [
+      "Prisoner",
+      "Convict",
+      "Inmate"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 44,
+    "w": "Jadedness",
+    "h": "थकान / ऊब",
+    "syns": [
+      "Tiredness",
+      "Weariness",
+      "Boredom"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 45,
+    "w": "Jealousy",
+    "h": "ईर्ष्या / जलन",
+    "syns": [
+      "Envy",
+      "Envy",
+      "Covetousness"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 46,
+    "w": "Jocund",
+    "h": "प्रसन्न",
+    "syns": [
+      "Cheerful",
+      "Jolly",
+      "Lighthearted"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 47,
+    "w": "Jostling",
+    "h": "धकेलना",
+    "syns": [
+      "Pushing",
+      "Shoving",
+      "Elbowing"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 48,
+    "w": "Jocose",
+    "h": "हास्यप्रिय / मजाकिया",
+    "syns": [
+      "Playful",
+      "Playful",
+      "Witty"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 49,
+    "w": "Jittery",
+    "h": "घबराया हुआ",
+    "syns": [
+      "Nervous",
+      "Anxious",
+      "Restless"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 50,
+    "w": "Jaundice",
+    "h": "पूर्वाग्रह / पीलिया",
+    "syns": [
+      "Bitterness",
+      "Prejudice",
+      "Bias"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 51,
+    "w": "Jubilance",
+    "h": "आनंद / उल्लास",
+    "syns": [
+      "Joy",
+      "Happiness",
+      "Elation"
+    ],
+    "exam": ""
+  },
+  {
+    "n": 52,
+    "w": "Jibe",
+    "h": "सहमत होना",
+    "syns": [
+      "Agree",
+      "Match",
+      "Correspond"
+    ],
+    "exam": "CUET 2025"
+  },
+  {
+    "n": 53,
+    "w": "Jollity",
+    "h": "हंसी-मस्ती / उल्लास",
+    "syns": [
+      "Gaiety",
+      "Merriment",
+      "Fun"
+    ],
+    "exam": ""
+  }
+]
