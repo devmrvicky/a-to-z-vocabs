@@ -832,3 +832,25 @@ footer strong {
     transform: scale(1);
   }
 }
+
+.phonetic-text {
+  font-size: 13px;
+
+  color: var(--muted);
+
+  margin-top: 4px;
+
+  font-style: italic;
+}
+
+.example-hindi {
+  margin-top: 10px;
+
+  color: var(--green);
+
+  line-height: 1.7;
+}
+
+.antonym {
+  border-color: rgba(255, 80, 80, 0.25);
+}

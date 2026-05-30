@@ -8,6 +8,8 @@ async function loadWords(letter = "a") {
   try {
     currentLetter = letter.toLowerCase();
 
+    localStorage.setItem("selectedLetter", currentLetter);
+
     const response = await fetch(`./vocabs/${currentLetter}.json`);
 
     if (!response.ok) {
@@ -111,7 +113,7 @@ function renderCards(data) {
 
 <div 
   class="card collapsed"
-  id="word-${d.n}"
+  id="word-${d.id || d.n || d.n}"
   style="animation-delay:${Math.min(i * 20, 300)}ms"
 >
 
@@ -124,12 +126,12 @@ function renderCards(data) {
       <div class="top-line">
 
         <span class="num">
-          ${String(d.n).padStart(2, "0")}
+          ${String(d.id || d.n).padStart(2, "0")}
         </span>
 
         <span class="word-inline">
 
-          ${d.w}
+          ${d.word || d.w}
 
           ${
             d.pos
@@ -142,7 +144,7 @@ function renderCards(data) {
           }
 
           <span class="inline-hindi">
-            (${d.h})
+            (${d.meaning?.hindi || d.h})
           </span>
 
         </span>
@@ -155,7 +157,7 @@ function renderCards(data) {
           Syno :
         </span>
 
-        ${d.syns.join(", ")}
+        ${d.synonyms?.join(", ") || d.syns}
 
       </div>
 
@@ -166,8 +168,8 @@ function renderCards(data) {
     <div class="card-actions">
 
       <button
-        class="bookmark-btn ${isBookmarked(d.n) ? "active" : ""}"
-        onclick="toggleBookmark(event, ${d.n})"
+        class="bookmark-btn ${isBookmarked(d.id || d.n) ? "active" : ""}"
+        onclick="toggleBookmark(event, ${d.id || d.n})"
       >
         ★
       </button>
@@ -189,7 +191,7 @@ function renderCards(data) {
       <!-- PRONUNCIATION -->
 
       ${
-        d.pron
+        d.pronunciation?.ipa
           ? `
         <div class="pronunciation-block">
 
@@ -198,61 +200,104 @@ function renderCards(data) {
           </div>
 
           <div class="pronunciation-text">
-            ${d.pron}
+            ${d.pronunciation.ipa}
           </div>
+          <div class="phonetic-text">
+  ${d.pronunciation.phonetic}
+</div>
 
         </div>
       `
           : ""
       }
+
+      <!-- MEANING -->
+      <!--<div class="meaning-block">
+
+  <div class="row-label">
+    English Meaning
+  </div>
+
+  <div class="meaning-text">
+    ${d.meaning?.english}
+  </div>
+
+</div>
+
+<div class="meaning-block">
+
+  <div class="row-label">
+    Hindi Meaning
+  </div>
+
+  <div class="meaning-text">
+    ${d.meaning?.hindi || d.h}
+  </div>
+
+</div> -->
 
       <!-- EXAMPLE -->
 
-      ${
-        d.example
-          ? `
-        <div class="example-block">
+      <div class="example-block">
 
-          <div class="row-label">
-            Example
-          </div>
+  <div class="row-label">
+    Example
+  </div>
 
-          <div class="example-text">
-            ${d.example}
-          </div>
+  <div class="example-text">
+    ${d.example?.english}
+  </div>
 
-        </div>
-      `
-          : ""
-      }
+  <div class="example-hindi">
+    ${d.example?.hindi}
+  </div>
+
+</div>
 
       <!-- SYNONYMS -->
+<!--<div class="syns-block">
 
-      <div class="syns-block">
+  <div class="row-label">
+    Synonyms
+  </div>
 
-        <div class="row-label">
-          SSC Synonyms
-        </div>
+  <div class="syns-list">
 
-        <div class="syns-list">
+    ${(d.synonyms || d.syns)
+      ?.map(
+        (word) => `
+      <span class="syn">
+        ${word}
+      </span>
+    `,
+      )
+      .join("")}
 
-          <span class="syn primary">
-            ${d.syns[0]}
-          </span>
+  </div>
 
-          ${d.syns
-            .slice(1)
-            .map(
-              (s) => `
-            <span class="syn">
-              ${s}
-            </span>
-          `,
-            )
-            .join("")}
+</div>-->
+<!-- ANTONYM -->
+<div class="antonym-block">
 
-        </div>
-      </div>
+  <div class="row-label">
+    Antonyms
+  </div>
+
+  <div class="syns-list">
+
+    ${d.antonyms
+      ?.map(
+        (word) => `
+      <span class="syn antonym">
+        ${word}
+      </span>
+    `,
+      )
+      .join("")}
+
+  </div>
+
+</div>
 
       <!-- EXAM -->
 
@@ -263,7 +308,7 @@ function renderCards(data) {
         </div>
 
         <div class="exam-source">
-          ${d.exam || "SSC"}
+          ${d.exam_sources?.join(", ")}
         </div>
 
       </div>
@@ -277,80 +322,6 @@ function renderCards(data) {
 `,
     )
     .join("");
-
-  //   grid.innerHTML = data
-  //     .map(
-  //       (d, i) => `
-  //   <div class="card collapsed" style="animation-delay:${Math.min(i * 20, 300)}ms">
-
-  //     <!-- TOP SECTION -->
-  //     <div class="compact-header" onclick="toggleCard(this)">
-
-  //       <div class="compact-left">
-
-  //         <div class="top-line">
-  //           <span class="num">${String(d.n).padStart(2, "0")}</span>
-
-  //           <span class="word-inline">
-  //             ${d.w}
-  //             <span class="inline-hindi">(${d.h})</span>
-  //           </span>
-  //         </div>
-
-  //         <div class="compact-syno">
-  //           <span class="compact-label">Syno :</span>
-  //           ${d.syns.join(", ")}
-  //         </div>
-
-  //       </div>
-
-  //       <button class="collapse-btn">
-  //         <span class="arrow">›</span>
-  //       </button>
-
-  //     </div>
-
-  //     <!-- EXPANDED CONTENT -->
-  //     <div class="card-expand">
-
-  //       <div class="card-header">
-  //         <span class="num">${String(d.n).padStart(2, "0")}</span>
-
-  //         <span class="word">${d.w}</span>
-
-  //         ${d.exam ? `<span class="exam-tag">${d.exam.split(" ")[0]}</span>` : ""}
-  //       </div>
-
-  //       <div class="card-body">
-
-  //         <div class="hindi-block">
-  //           <div class="row-label">हिंदी अर्थ</div>
-  //           <div class="hindi-text">${d.h}</div>
-  //         </div>
-
-  //         <div class="syns-block">
-  //           <div class="row-label">SSC Synonyms</div>
-
-  //           <div class="syns-list">
-  //             <span class="syn primary">${d.syns[0]}</span>
-
-  //             ${d.syns
-  //               .slice(1)
-  //               .map(
-  //                 (s) => `
-  //               <span class="syn">${s}</span>
-  //             `,
-  //               )
-  //               .join("")}
-  //           </div>
-  //         </div>
-
-  //       </div>
-  //     </div>
-  //   </div>
-  // `,
-  //     )
-  //     .join("");
 }
 
 function toggleCard(header) {
@@ -398,7 +369,13 @@ function toggleBookmark(event, id) {
 
     btn.classList.add("active");
 
-    localStorage.setItem("lastVisitedWord", id);
+    localStorage.setItem(
+      "lastVisitedWord",
+      JSON.stringify({
+        letter: currentLetter,
+        wordId: id,
+      }),
+    );
   }
 
   localStorage.setItem("bookmarkedWords", JSON.stringify(bookmarks));
@@ -409,7 +386,13 @@ function toggleBookmark(event, id) {
 ========================= */
 
 function scrollToLastVisited() {
-  const lastId = localStorage.getItem("lastVisitedWord");
+  const saved = JSON.parse(localStorage.getItem("lastVisitedWord"));
+
+  if (!saved) return;
+
+  if (saved.letter !== currentLetter) return;
+
+  const lastId = saved.wordId;
 
   if (!lastId) return;
 
@@ -490,7 +473,10 @@ function setFilter(f, btn) {
 }
 
 createAlphabetFilters();
-loadWords("a");
+
+const savedLetter = localStorage.getItem("selectedLetter");
+
+loadWords(savedLetter || "a");
 
 document.getElementById("search").addEventListener("keydown", function (e) {
   if (e.key === "Enter") {
