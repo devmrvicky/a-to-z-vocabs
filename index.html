@@ -7,63 +7,74 @@
     <title>SSC A–Z Vocabulary Series | Complete Reference</title>
   </head>
   <body>
+
+    <!-- HEADER -->
     <header>
       <div class="header-badge">SSC Exams 2026</div>
       <h1>A–Z Vocabulary Series</h1>
-      <p>
-        Complete Reference · Hindi Meanings · SSC-Relevant Synonyms · Previous
-        Year Questions
-      </p>
+      <p>Complete Reference · Hindi Meanings · SSC-Relevant Synonyms · Previous Year Questions</p>
     </header>
 
-    <div class="controls">
+    <!-- SECTION TABS -->
+    <div class="section-tabs" id="sectionTabs">
+      <button class="section-tab active" data-section="vocabs">📖 Vocabulary</button>
+      <button class="section-tab" data-section="syns">🔄 Synonyms & Antonyms</button>
+      <button class="section-tab" data-section="ows">💡 One Word Substitution</button>
+      <button class="section-tab" data-section="idioms">🗣️ Idioms & Phrases</button>
+      <button class="section-tab" data-section="quiz">🧠 Quiz</button>
+    </div>
+
+    <!-- CONTROLS (search, filters) -->
+    <div class="controls" id="controls">
       <div class="search-wrap">
-        <input
-          type="text"
-          id="search"
-          placeholder="Search any word, meaning, or synonym…"
-        />
+        <input type="text" id="search" placeholder="Search any word, meaning, or synonym…" />
+      </div>
+      <div class="difficulty-filters" id="difficultyFilters">
+        <button class="filter-btn active" data-diff="all" onclick="setDifficultyFilter('all', this)">All</button>
+        <button class="filter-btn" data-diff="easy" onclick="setDifficultyFilter('easy', this)">Easy</button>
+        <button class="filter-btn" data-diff="medium" onclick="setDifficultyFilter('medium', this)">Medium</button>
+        <button class="filter-btn" data-diff="hard" onclick="setDifficultyFilter('hard', this)">Hard</button>
       </div>
     </div>
 
-    <!-- todo fixed this section -->
-    <!-- <div class="section-tabs">
-      <button class="section-tab" onclick="switchSection('vocabs', this)">
-        Vocabulary
-      </button>
-
-      <button class="section-tab" onclick="switchSection('ows', this)">
-        OWS
-      </button>
-
-      <button class="section-tab" onclick="switchSection('idioms', this)">
-        Idioms
-      </button>
-    </div> -->
-
+    <!-- ALPHABET FILTER (Vocabulary only) -->
     <div class="alphabet-filter" id="alphabetFilter"></div>
 
+    <!-- MAIN CONTENT GRID (Vocabulary / OWS / Idioms / Syns) -->
     <div class="grid" id="grid"></div>
+
+    <!-- QUIZ SECTION (hidden by default) -->
+    <div id="quizSection" style="display:none;"></div>
 
     <footer>
       <p>
-        Source:
-        <strong
-          >SSC Exams 2026 — A to Z Vocabulary Series by Sanjeev thakur sir
-          (Rojgar with Ankit)</strong
-        >
+        Source: <strong>SSC Exams 2026 — A to Z Vocabulary Series by Sanjeev Thakur Sir (Rojgar with Ankit)</strong>
       </p>
-      <p style="margin-top: 6px">
-        All words sourced from SSC CGL · CHSL · GD · MTS · CPO · Steno previous
-        year papers
-      </p>
+      <p style="margin-top:6px">All words sourced from SSC CGL · CHSL · GD · MTS · CPO · Steno previous year papers</p>
     </footer>
 
-    <script src="js/section-tabs.js"></script>
+    <!-- QUIZ HISTORY MODAL -->
+    <div id="quizHistoryModal" class="modal-overlay" style="display:none;" onclick="closeQuizHistoryModal(event)">
+      <div class="modal-box">
+        <div class="modal-header">
+          <h2>Quiz History</h2>
+          <button class="modal-close" onclick="closeQuizHistoryModal()">✕</button>
+        </div>
+        <div id="quizHistoryContent"></div>
+      </div>
+    </div>
+
+    <!-- JS MODULES (order matters) -->
+    <script src="js/utils.js"></script>
     <script src="js/bookmark.js"></script>
     <script src="js/search.js"></script>
+    <script src="js/difficulty.js"></script>
+    <script src="js/speech.js"></script>
     <script src="js/render.js"></script>
     <script src="js/data-loader.js"></script>
+    <script src="js/section-tabs.js"></script>
+    <script src="js/quiz-engine.js"></script>
+    <script src="js/quiz-ui.js"></script>
     <script src="js/app.js"></script>
   </body>
 </html>
