@@ -1,7 +1,6 @@
-/* =========================
-   SECTION TAB SYSTEM
-   Manages: vocabs | syns | ows | idioms | quiz
-========================= */
+/* =====================================================
+   SECTION TABS — controls all section switching
+===================================================== */
 
 let _currentSection = 'vocabs';
 
@@ -9,66 +8,58 @@ function getCurrentSection() {
   return _currentSection;
 }
 
-/**
- * Switch to a section.
- * Each section controls which DOM elements are visible and what data is loaded.
- */
 function switchSection(section) {
   _currentSection = section;
+  localStorage.setItem('activeSection', section);
 
-  // Update tab highlight
+  // Tab highlights
   document.querySelectorAll('.section-tab').forEach(tab => {
     tab.classList.toggle('active', tab.dataset.section === section);
   });
 
-  const alphabetFilter  = document.getElementById('alphabetFilter');
-  const grid            = document.getElementById('grid');
-  const quizSection     = document.getElementById('quizSection');
-  const controls        = document.getElementById('controls');
-  const diffFilters     = document.getElementById('difficultyFilters');
+  const alphabetFilter = document.getElementById('alphabetFilter');
+  const grid           = document.getElementById('grid');
+  const quizSection    = document.getElementById('quizSection');
+  const controls       = document.getElementById('controls');
+  const diffFilters    = document.getElementById('difficultyFilters');
+  const filterBtn      = document.getElementById('filterToggleBtn');
+  const fab            = document.getElementById('addWordFab');
 
-  // Hide everything first, then show what's needed
-  alphabetFilter.style.display = 'none';
-  grid.style.display            = 'none';
-  quizSection.style.display     = 'none';
-  diffFilters.style.display     = 'none';
-  controls.style.display        = 'flex';
+  // Reset visibility
+  alphabetFilter.style.display  = 'none';
+  grid.style.display             = 'none';
+  quizSection.style.display      = 'none';
+  diffFilters.style.display      = 'none';
+  controls.style.display         = 'flex';
+  if (filterBtn) filterBtn.style.display = 'none';
+  if (fab)       fab.style.display       = 'flex';
 
   switch (section) {
-    case 'vocabs': {
-      alphabetFilter.style.display = 'flex';
-      grid.style.display            = 'grid';
-      diffFilters.style.display     = 'flex';
-      // Reload saved letter
-      const savedLetter = localStorage.getItem('selectedLetter') || 'a';
-      loadWords(savedLetter);
+    case 'vocabs':
+      alphabetFilter.style.display  = 'flex';
+      grid.style.display             = 'grid';
+      diffFilters.style.display      = 'flex';
+      if (filterBtn) filterBtn.style.display = 'inline-flex';
+      loadWords(localStorage.getItem('selectedLetter') || 'a');
       break;
-    }
 
     case 'syns':
     case 'ows':
-    case 'idioms': {
+    case 'idioms':
       grid.style.display = 'grid';
-      grid.innerHTML     = `
-        <div class="empty">
-          <h3>Coming Soon</h3>
-          <p>This section's data is being prepared. Check back soon!</p>
-        </div>`;
-      // When data files exist, swap the above two lines for:
-      // loadSection(section);
+      if (filterBtn) filterBtn.style.display = 'inline-flex';
+      loadSection(section);
       break;
-    }
 
-    case 'quiz': {
-      controls.style.display  = 'none';
+    case 'quiz':
+      controls.style.display    = 'none';
       quizSection.style.display = 'block';
+      if (fab) fab.style.display = 'none';
       renderQuizHome();
       break;
-    }
   }
 }
 
-// Boot: wire up tab buttons
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.section-tab').forEach(btn => {
     btn.addEventListener('click', () => switchSection(btn.dataset.section));

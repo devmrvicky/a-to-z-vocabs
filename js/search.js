@@ -1,19 +1,12 @@
-/* =========================
-   SEARCH SYSTEM
-========================= */
+/* =====================================================
+   SEARCH — live filter across current grid
+===================================================== */
 
-/**
- * Global search: works across vocabulary cards currently in the DOM.
- * For vocab tab: searches word text and synonyms.
- * Triggered on Enter key press.
- */
 function filterWords() {
-  const q = document.getElementById('search').value.toLowerCase().trim();
-  if (!q) return;
+  const q = document.getElementById('search')?.value.toLowerCase().trim();
+  if (!q) { applyDifficultyFilter(); return; }
 
   const section = getCurrentSection();
-
-  // Quiz section: do nothing
   if (section === 'quiz') return;
 
   const cards = document.querySelectorAll('#grid .card');
@@ -21,12 +14,9 @@ function filterWords() {
 
   let found = false;
   cards.forEach(card => {
-    const wordText = card.querySelector('.word-inline')?.innerText.toLowerCase() || '';
-    const synoText = card.querySelector('.compact-syno')?.innerText.toLowerCase() || '';
-    const bodyText = card.querySelector('.card-body')?.innerText.toLowerCase() || '';
-
-    const match = wordText.includes(q) || synoText.includes(q) || bodyText.includes(q);
-
+    const text = card.innerText.toLowerCase();
+    const match = text.includes(q);
+    card.style.display = match ? '' : 'none';
     if (match && !found) {
       found = true;
       card.classList.remove('collapsed');
@@ -36,18 +26,5 @@ function filterWords() {
     }
   });
 
-  if (!found) {
-    showSearchNotFound(q);
-  }
-}
-
-function showSearchNotFound(q) {
-  const existing = document.getElementById('searchToast');
-  if (existing) existing.remove();
-  const toast = document.createElement('div');
-  toast.id = 'searchToast';
-  toast.className = 'search-toast';
-  toast.textContent = `"${q}" not found in current view`;
-  document.body.appendChild(toast);
-  setTimeout(() => toast.remove(), 2500);
+  if (!found) showToast(`"${q}" not found in current view`);
 }

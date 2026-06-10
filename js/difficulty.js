@@ -1,33 +1,19 @@
-/* =========================
-   DIFFICULTY SYSTEM
-========================= */
+/* =====================================================
+   DIFFICULTY — used only via three-dot menu now
+   (kept for backwards compat and direct calls)
+===================================================== */
 
-/**
- * Mark a word with a difficulty level and update UI.
- * uid format: "letter-id"  e.g. "a-5"
- */
-function markDifficulty(uid, level, clickedBtn) {
-  const current = getWordDifficulty(uid);
-
-  // Toggle off if same level clicked
+function markDifficulty(uid, level) {
+  const current  = getWordDifficulty(uid);
   const newLevel = (current === level) ? 'unset' : level;
   setWordDifficulty(uid, newLevel);
 
-  // Update button states in this card
-  const card = clickedBtn.closest('.card');
-  if (!card) return;
-
-  card.querySelectorAll('.diff-btn').forEach(btn => {
-    btn.classList.remove('diff-easy-active', 'diff-medium-active', 'diff-hard-active');
-  });
-
-  if (newLevel !== 'unset') {
-    clickedBtn.classList.add(`diff-${newLevel}-active`);
+  // Update card border
+  const cardId = `card-${uid.replace(/[^a-zA-Z0-9]/g, '-')}`;
+  const card   = document.getElementById(cardId);
+  if (card) {
+    card.classList.remove('diff-easy','diff-medium','diff-hard');
+    if (newLevel !== 'unset') card.classList.add(`diff-${newLevel}`);
   }
-
-  // Update card border class
-  card.classList.remove('diff-easy', 'diff-medium', 'diff-hard');
-  if (newLevel !== 'unset') {
-    card.classList.add(`diff-${newLevel}`);
-  }
+  return newLevel;
 }

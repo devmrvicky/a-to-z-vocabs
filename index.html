@@ -3,8 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0a0c10" />
+    <meta name="description" content="SSC A-Z Vocabulary Series — Complete Reference with Quiz Mode" />
+    <link rel="manifest" href="manifest.json" />
     <link rel="stylesheet" href="style.css" />
-    <title>SSC A–Z Vocabulary Series | Complete Reference</title>
+    <title>SSC A–Z Vocabulary Series</title>
   </head>
   <body>
 
@@ -12,69 +15,75 @@
     <header>
       <div class="header-badge">SSC Exams 2026</div>
       <h1>A–Z Vocabulary Series</h1>
-      <p>Complete Reference · Hindi Meanings · SSC-Relevant Synonyms · Previous Year Questions</p>
+      <p>Complete Reference · Hindi Meanings · SSC-Relevant Synonyms</p>
     </header>
 
     <!-- SECTION TABS -->
     <div class="section-tabs" id="sectionTabs">
       <button class="section-tab active" data-section="vocabs">📖 Vocabulary</button>
-      <button class="section-tab" data-section="syns">🔄 Synonyms & Antonyms</button>
-      <button class="section-tab" data-section="ows">💡 One Word Substitution</button>
-      <button class="section-tab" data-section="idioms">🗣️ Idioms & Phrases</button>
+      <button class="section-tab" data-section="syns">🔄 Synonyms &amp; Antonyms</button>
+      <button class="section-tab" data-section="ows">💡 One Word</button>
+      <button class="section-tab" data-section="idioms">🗣️ Idioms</button>
       <button class="section-tab" data-section="quiz">🧠 Quiz</button>
     </div>
 
-    <!-- CONTROLS (search, filters) -->
+    <!-- CONTROLS BAR -->
     <div class="controls" id="controls">
       <div class="search-wrap">
-        <input type="text" id="search" placeholder="Search any word, meaning, or synonym…" />
+        <input type="text" id="search" placeholder="Search word, meaning, synonym…" autocomplete="off" />
       </div>
-      <div class="difficulty-filters" id="difficultyFilters">
-        <button class="filter-btn active" data-diff="all" onclick="setDifficultyFilter('all', this)">All</button>
-        <button class="filter-btn" data-diff="easy" onclick="setDifficultyFilter('easy', this)">Easy</button>
-        <button class="filter-btn" data-diff="medium" onclick="setDifficultyFilter('medium', this)">Medium</button>
-        <button class="filter-btn" data-diff="hard" onclick="setDifficultyFilter('hard', this)">Hard</button>
+      <div class="controls-right">
+        <div class="difficulty-filters" id="difficultyFilters">
+          <button class="filter-btn active" data-diff="all"    onclick="setDifficultyFilter('all',this)">All</button>
+          <button class="filter-btn"        data-diff="easy"   onclick="setDifficultyFilter('easy',this)">Easy</button>
+          <button class="filter-btn"        data-diff="medium" onclick="setDifficultyFilter('medium',this)">Medium</button>
+          <button class="filter-btn"        data-diff="hard"   onclick="setDifficultyFilter('hard',this)">Hard</button>
+        </div>
+        <button class="filter-btn" id="filterToggleBtn" onclick="openFilterPanel()" style="display:none">⚙ Filters</button>
       </div>
     </div>
 
-    <!-- ALPHABET FILTER (Vocabulary only) -->
+    <!-- ALPHABET BAR -->
     <div class="alphabet-filter" id="alphabetFilter"></div>
 
-    <!-- MAIN CONTENT GRID (Vocabulary / OWS / Idioms / Syns) -->
+    <!-- WORD GRID -->
     <div class="grid" id="grid"></div>
 
-    <!-- QUIZ SECTION (hidden by default) -->
+    <!-- QUIZ PANEL -->
     <div id="quizSection" style="display:none;"></div>
 
     <footer>
-      <p>
-        Source: <strong>SSC Exams 2026 — A to Z Vocabulary Series by Sanjeev Thakur Sir (Rojgar with Ankit)</strong>
-      </p>
-      <p style="margin-top:6px">All words sourced from SSC CGL · CHSL · GD · MTS · CPO · Steno previous year papers</p>
+      <p>Source: <strong>SSC Exams 2026 — A to Z Vocabulary by Sanjeev Thakur Sir (Rojgar with Ankit)</strong></p>
+      <p style="margin-top:6px;font-size:11px;">CGL · CHSL · GD · MTS · CPO · Steno previous year papers</p>
     </footer>
 
-    <!-- QUIZ HISTORY MODAL -->
-    <div id="quizHistoryModal" class="modal-overlay" style="display:none;" onclick="closeQuizHistoryModal(event)">
-      <div class="modal-box">
-        <div class="modal-header">
-          <h2>Quiz History</h2>
-          <button class="modal-close" onclick="closeQuizHistoryModal()">✕</button>
-        </div>
-        <div id="quizHistoryContent"></div>
-      </div>
-    </div>
+    <!-- ADD WORD FAB -->
+    <button class="fab" id="addWordFab" onclick="openAddWordForm()" title="Add new word">＋</button>
 
-    <!-- JS MODULES (order matters) -->
+    <!-- GENERIC MODAL (injected by modal.js) -->
+
+    <!-- SCRIPTS — order is load dependency order -->
     <script src="js/utils.js"></script>
+    <script src="js/db.js"></script>
+    <script src="js/modal.js"></script>
     <script src="js/bookmark.js"></script>
     <script src="js/search.js"></script>
     <script src="js/difficulty.js"></script>
     <script src="js/speech.js"></script>
+    <script src="js/filters.js"></script>
     <script src="js/render.js"></script>
     <script src="js/data-loader.js"></script>
+    <script src="js/word-editor.js"></script>
     <script src="js/section-tabs.js"></script>
     <script src="js/quiz-engine.js"></script>
     <script src="js/quiz-ui.js"></script>
     <script src="js/app.js"></script>
+    <script>
+      // Register service worker for PWA
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js')
+          .catch(e => console.log('SW reg skipped:', e));
+      }
+    </script>
   </body>
 </html>
